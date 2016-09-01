@@ -34,7 +34,12 @@ func (c *BuildCmd) Run(args []string) int {
 		logrus.WithField("error", err).Warn("Impossible read this file.")
 	}
 	for scanner.Scan() {
-		fetchSingleFeed(scanner.Text())
+		feed, err := rss.Fetch(scanner.Text())
+		if err != nil {
+			logrus.WithField("error", err).Warnf("%s impossible to read. I jump it please verify", scanner.Text())
+			continue
+		}
+		fmt.Println(feed.Title)
 	}
 
 	return 0
@@ -51,12 +56,4 @@ Options:
 
 func (r *BuildCmd) Synopsis() string {
 	return "Start argh"
-}
-
-func fetchSingleFeed(f string) {
-	feed, err := rss.Fetch(f)
-	if err != nil {
-		logrus.WithField("error", err).Warn("Feed impossibile to read")
-	}
-	fmt.Println(feed.Title)
 }

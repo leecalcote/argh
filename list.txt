@@ -1,0 +1,3 @@
+http://gianarb.it/atom.xml
+https://scottydoesntknow.io/feed/
+http://blog.fntlnz.wtf/index.xml

@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"log"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 	"time"
@@ -36,7 +37,6 @@ func (c *BuildCmd) Run(args []string) int {
 
 	feed := &feeds.Feed{
 		Title:       "Docker Captain's feed",
-		Link:        &feeds.Link{Href: "http://captains.today"},
 		Description: "Updates from the docker captains!",
 		Created:     now,
 	}
@@ -69,7 +69,13 @@ func (c *BuildCmd) Run(args []string) int {
 
 	sort.Sort(ByPublishdate(feed.Items))
 
-	f, err := os.Create("/tmp/captains.xml")
+	path, err := filepath.Abs(args[0])
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	f, err := os.Create(path)
 
 	if err != nil {
 		log.Fatal(err)
@@ -87,8 +93,7 @@ func (c *BuildCmd) Run(args []string) int {
 func (c *BuildCmd) Help() string {
 	helpText := `
 Generate feed from a lists
-Options:
-	-list=./feeds.txt			Text file containing a list of feeds
+	cat feeds.xml | ./argh generate index.xml
 `
 	return strings.TrimSpace(helpText)
 }

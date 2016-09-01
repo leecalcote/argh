@@ -2,7 +2,9 @@
 
 build: clean build/argh docs/index.xml
 
-deploy:
+deploy: build commit
+
+commit:
 	git add -A
 	git commit -m "rebuilding site `date`"
 

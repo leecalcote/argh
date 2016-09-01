@@ -17,4 +17,4 @@ build/argh:
 
 clean:
 	rm -f build/argh
-
+	rm -f docs/index.xml

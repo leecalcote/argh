@@ -12,8 +12,8 @@ func main() {
 	c.Args = os.Args[1:]
 
 	c.Commands = map[string]cli.CommandFactory{
-		"serve": func() (cli.Command, error) {
-			return &cmd.ServeCmd{}, nil
+		"build": func() (cli.Command, error) {
+			return &cmd.BuildCmd{}, nil
 		},
 	}
 

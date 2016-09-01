@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Docker Captain&#39;s feed</title>
+  <id>http://argh.gianarb.it</id>
+  <updated>2016-09-02T00:02:44+02:00</updated>
+  <subtitle>Updates from the docker captains!</subtitle>
+  <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Watch demo about Docker 1.12 made during Docker Meetup</title>
+    <updated>2016-08-24T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-24:/blog/docker-1-12-meetup-dublin</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-1-12-meetup-dublin"></link>
+  </entry>
+  <entry>
+    <title>Docker 1.12 orchestration built-in</title>
+    <updated>2016-06-20T10:08:27Z</updated>
+    <id>tag:gianarb.it,2016-06-20:/blog/docker-1-12-orchestration-built-in</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-1-12-orchestration-built-in"></link>
+  </entry>
+  <entry>
+    <title>Docker inside docker and overview about Jenkins 2</title>
+    <updated>2016-04-01T10:08:27Z</updated>
+    <id>tag:gianarb.it,2016-04-01:/blog/docker-inside-docker-and-jenkins-2</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-inside-docker-and-jenkins-2"></link>
+  </entry>
+  <entry>
+    <title>Happy docker&#39;s birthday and thanks</title>
+    <updated>2016-03-25T10:08:27Z</updated>
+    <id>tag:gianarb.it,2016-03-25:/blog/happy-docker-bday-and-thanks</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/happy-docker-bday-and-thanks"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Docker remote APIs. More than meets the eye</title>
+    <updated>2016-08-30T01:41:51Z</updated>
+    <id>tag:scottydoesntknow.io,2016-08-30:/docker-remote-apis-meets-eye/</id>
+    <content type="html"></content>
+    <link href="https://scottydoesntknow.io/docker-remote-apis-meets-eye/"></link>
+  </entry>
+  <entry>
+    <title>Building a CaaS for the enterprise. Part 2</title>
+    <updated>2016-08-02T07:26:43Z</updated>
+    <id>tag:scottydoesntknow.io,2016-08-02:/building-a-caas-for-the-enterprise-part-2/</id>
+    <content type="html"></content>
+    <link href="https://scottydoesntknow.io/building-a-caas-for-the-enterprise-part-2/"></link>
+  </entry>
+  <entry>
+    <title>Building a CaaS for the enterprise. Part 1</title>
+    <updated>2016-07-12T02:05:56Z</updated>
+    <id>tag:scottydoesntknow.io,2016-07-12:/building-a-caas-for-the-enterprise-part-1/</id>
+    <content type="html"></content>
+    <link href="https://scottydoesntknow.io/building-a-caas-for-the-enterprise-part-1/"></link>
+  </entry>
+  <entry>
+    <title>Docker Engine 1.12 Local  Development Environment</title>
+    <updated>2016-06-27T03:20:23Z</updated>
+    <id>tag:scottydoesntknow.io,2016-06-27:/docker-engine-1-12-local-development-environment/</id>
+    <content type="html"></content>
+    <link href="https://scottydoesntknow.io/docker-engine-1-12-local-development-environment/"></link>
+  </entry>
+  <entry>
+    <title>Why do we have containers</title>
+    <updated>2016-08-11T15:35:53+02:00</updated>
+    <id>tag:blog.fntlnz.wtf,2016-08-11:/post/why-containers/</id>
+    <content type="html"></content>
+    <link href="http://blog.fntlnz.wtf/post/why-containers/"></link>
+  </entry>
+</feed>

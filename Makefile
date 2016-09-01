@@ -2,7 +2,7 @@
 
 build: clean build/argh docs/index.xml
 
-deploy: commit
+deploy: build commit
 
 commit:
 	git add -A
@@ -10,7 +10,7 @@ commit:
 	git push origin master
 
 docs/index.xml:
-	./build/argh generate docs/index.xml
+	cat feeds.txt | ./build/argh generate docs/index.xml
 
 build/argh:
 	go build -o build/argh .

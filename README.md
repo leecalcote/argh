@@ -1,4 +1,4 @@
-# are you a docker fun?
+# are you a docker fan?
 The best way to stay in touch with the latest news provided by [Docker
 Captains](https://www.docker.com/community/docker-captains) is from [this feed](http://argh.gianarb.it/index.xml)! Make your
 subscription!

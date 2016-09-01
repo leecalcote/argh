@@ -1,12 +1,13 @@
-.PHONY: build clean
+.PHONY: build clean deploy commit
 
 build: clean build/argh docs/index.xml
 
-deploy: build commit
+deploy: commit
 
 commit:
 	git add -A
 	git commit -m "rebuilding site `date`"
+	git push origin master
 
 docs/index.xml:
 	./build/argh generate docs/index.xml

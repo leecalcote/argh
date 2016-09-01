@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"log"
 	"os"
+	"sort"
 	"strings"
 	"time"
 
@@ -13,6 +14,20 @@ import (
 )
 
 type BuildCmd struct {
+}
+
+type ByPublishdate []*feeds.Item
+
+func (a ByPublishdate) Len() int {
+	return len(a)
+}
+func (a ByPublishdate) Swap(i, j int) {
+	a[i], a[j] = a[j], a[i]
+}
+
+func (a ByPublishdate) Less(i, j int) bool {
+	delta := a[i].Updated.Sub(a[j].Updated)
+	return delta.Seconds() > 0
 }
 
 func (c *BuildCmd) Run(args []string) int {
@@ -51,6 +66,8 @@ func (c *BuildCmd) Run(args []string) int {
 		}
 
 	}
+
+	sort.Sort(ByPublishdate(feed.Items))
 
 	f, err := os.Create("/tmp/captains.xml")
 

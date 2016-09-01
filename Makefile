@@ -9,4 +9,4 @@ build/argh:
 	go build -o build/argh .
 
 clean:
-	rm build/argh
+	rm -f build/argh

@@ -38,6 +38,7 @@ func (c *BuildCmd) Run(args []string) int {
 	feed := &feeds.Feed{
 		Title:       "Docker Captain's feed",
 		Description: "Updates from the docker captains!",
+		Link:        &feeds.Link{Href: "http://argh.gianarb.it"},
 		Created:     now,
 	}
 

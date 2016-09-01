@@ -1,0 +1,44 @@
+{
+	"ImportPath": "github.com/gianarb/argh",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.10.0-28-ga283a10",
+			"Rev": "a283a10442df8dc09befd873fab202bf8a253d6a"
+		},
+		{
+			"ImportPath": "github.com/SlyMarbo/rss",
+			"Rev": "2972ff7dace9d6bc893fc093f5e7c9ca1aace789"
+		},
+		{
+			"ImportPath": "github.com/armon/go-radix",
+			"Rev": "4239b77079c7b5d1243b7b4736304ce8ddb6f0f2"
+		},
+		{
+			"ImportPath": "github.com/axgle/mahonia",
+			"Rev": "c528b747d92d41ca581a7acf3e604c396fc7c034"
+		},
+		{
+			"ImportPath": "github.com/bgentry/speakeasy",
+			"Rev": "a1ccbf2c40dfc8ce514b5c5c6e6d1429ea6880da"
+		},
+		{
+			"ImportPath": "github.com/gorilla/feeds",
+			"Rev": "441264de03a8117ed530ae8e049d8f601a33a099"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/cli",
+			"Rev": "fcf521421aa29bde1d93b6920dfce826d7932208"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "a646d33e2ee3172a661fc09bca23bb4889a41bc8"
+		}
+	]
+}

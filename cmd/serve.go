@@ -4,8 +4,10 @@ import (
 	"flag"
 	"net/http"
 	"strings"
+	"time"
 
 	"github.com/Sirupsen/logrus"
+	"github.com/gianarb/argh/cron"
 	"github.com/gianarb/argh/front"
 	"github.com/gorilla/mux"
 )
@@ -22,6 +24,8 @@ func (c *ServeCmd) Run(args []string) int {
 	if err := cmdFlags.Parse(args); err != nil {
 		logrus.WithField("error", err).Warn("Problem to parse arguments")
 	}
+
+	cron.ReadFeedsEach(1 * time.Second)
 
 	logrus.Infof("HTTP Server runs on port %s", port)
 	r := mux.NewRouter()

@@ -8,11 +8,11 @@ import (
 )
 
 func main() {
-	c := cli.NewCLI("argh", "0.0.0")
+	c := cli.NewCLI("argh", "0.0.1")
 	c.Args = os.Args[1:]
 
 	c.Commands = map[string]cli.CommandFactory{
-		"build": func() (cli.Command, error) {
+		"generate": func() (cli.Command, error) {
 			return &cmd.BuildCmd{}, nil
 		},
 	}

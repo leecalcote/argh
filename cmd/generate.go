@@ -65,7 +65,6 @@ func (c *BuildCmd) Run(args []string) int {
 				Created:     item.Date,
 			})
 		}
-
 	}
 
 	sort.Sort(ByPublishdate(feed.Items))
@@ -94,7 +93,7 @@ func (c *BuildCmd) Run(args []string) int {
 func (c *BuildCmd) Help() string {
 	helpText := `
 Generate feed from a lists
-	cat feeds.xml | ./argh generate index.xml
+	cat feeds.txt | ./argh generate index.xml
 `
 	return strings.TrimSpace(helpText)
 }

@@ -1,3 +1,4 @@
+http://blog.alexellis.io/rss/
 http://gianarb.it/planet/docker.xml
 https://scottydoesntknow.io/docker/docker/feed/
 http://blog.fntlnz.wtf/index.xml

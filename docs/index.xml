@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-02T21:51:25Z</updated>
+  <updated>2016-09-02T21:57:44Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -507,5 +507,110 @@
     <id>tag:trevorsullivan.net,2016-08-18:/2016/08/18/powershell-core-native-linux-docker/</id>
     <content type="html"></content>
     <link href="https://trevorsullivan.net/2016/08/18/powershell-core-native-linux-docker/"></link>
+  </entry>
+  <entry>
+    <title>How to setup Docker Monitoring</title>
+    <updated>2015-05-20T16:35:32Z</updated>
+    <id>tag:www.brianchristner.io,2015-05-20:/how-to-setup-docker-monitoring/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/how-to-setup-docker-monitoring/"></link>
+  </entry>
+  <entry>
+    <title>Updated: Docker Monitoring Prometheus + Grafana</title>
+    <updated>2016-07-18T07:33:00Z</updated>
+    <id>tag:www.brianchristner.io,2016-07-18:/updated-docker-monitoring-prometheus-grafana/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/updated-docker-monitoring-prometheus-grafana/"></link>
+  </entry>
+  <entry>
+    <title>Setting up a Mail Forwarder in Docker</title>
+    <updated>2016-07-12T05:22:00Z</updated>
+    <id>tag:www.brianchristner.io,2016-07-12:/setting-up-a-mail-forwarder-in-docker/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/setting-up-a-mail-forwarder-in-docker/"></link>
+  </entry>
+  <entry>
+    <title>How to use Docker 1.12 Built-In Orchestration and Service Creation</title>
+    <updated>2016-06-21T06:50:00Z</updated>
+    <id>tag:www.brianchristner.io,2016-06-21:/docker_1-12_builtin_orchestration/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/docker_1-12_builtin_orchestration/"></link>
+  </entry>
+  <entry>
+    <title>Docker + Backup = Dockup</title>
+    <updated>2016-06-14T06:32:17Z</updated>
+    <id>tag:www.brianchristner.io,2016-06-14:/docker-backup-dockup/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/docker-backup-dockup/"></link>
+  </entry>
+  <entry>
+    <title>Great Day to Be Alive</title>
+    <updated>2016-05-15T21:34:08Z</updated>
+    <id>tag:www.brianchristner.io,2016-05-15:/great-day-to-be-alive/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/great-day-to-be-alive/"></link>
+  </entry>
+  <entry>
+    <title>Docker Cleanup Scripts Comparison</title>
+    <updated>2016-05-03T19:11:13Z</updated>
+    <id>tag:www.brianchristner.io,2016-05-03:/docker-cleanup-script-comparison/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/docker-cleanup-script-comparison/"></link>
+  </entry>
+  <entry>
+    <title>Time to Make Something</title>
+    <updated>2016-05-02T21:45:12Z</updated>
+    <id>tag:www.brianchristner.io,2016-05-02:/time-to-make-something/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/time-to-make-something/"></link>
+  </entry>
+  <entry>
+    <title>Mac OSX Background Image Changer Program</title>
+    <updated>2016-04-21T20:57:28Z</updated>
+    <id>tag:www.brianchristner.io,2016-04-21:/mac-osx-background-image-changer-program/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/mac-osx-background-image-changer-program/"></link>
+  </entry>
+  <entry>
+    <title>Review: Docker for Mac</title>
+    <updated>2016-03-30T07:49:12Z</updated>
+    <id>tag:www.brianchristner.io,2016-03-30:/review-docker-for-mac/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/review-docker-for-mac/"></link>
+  </entry>
+  <entry>
+    <title>Docker Tips: Save Time with this Quick Typing Hack</title>
+    <updated>2016-03-10T06:41:18Z</updated>
+    <id>tag:www.brianchristner.io,2016-03-10:/docker-tips-save-time-with-this-quick-typing-hack/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/docker-tips-save-time-with-this-quick-typing-hack/"></link>
+  </entry>
+  <entry>
+    <title>How to Create a Docker Business Case</title>
+    <updated>2016-03-01T21:48:50Z</updated>
+    <id>tag:www.brianchristner.io,2016-03-01:/how-to-create-a-docker-business-case/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/how-to-create-a-docker-business-case/"></link>
+  </entry>
+  <entry>
+    <title>Docker Tips: How to Delete All Docker Containers and Images</title>
+    <updated>2016-02-21T20:32:28Z</updated>
+    <id>tag:www.brianchristner.io,2016-02-21:/how-to-delete-all-docker-containers-and-images/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/how-to-delete-all-docker-containers-and-images/"></link>
+  </entry>
+  <entry>
+    <title>My Docker Powered Ghost Blog Handled Hacker News Front Page</title>
+    <updated>2016-02-11T06:54:00Z</updated>
+    <id>tag:www.brianchristner.io,2016-02-11:/docker-ghost-hacker-news/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/docker-ghost-hacker-news/"></link>
+  </entry>
+  <entry>
+    <title>Docker Official Images are Moving to Alpine Linux</title>
+    <updated>2016-02-05T13:25:04Z</updated>
+    <id>tag:www.brianchristner.io,2016-02-05:/docker-is-moving-to-alpine-linux/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/docker-is-moving-to-alpine-linux/"></link>
   </entry>
 </feed>

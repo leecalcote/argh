@@ -5,3 +5,4 @@ http://blog.fntlnz.wtf/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCOAhkxpryr_BKybt9wIw-NQ
 http://blog.alexellis.io/rss/
 https://blog.sixeyed.com/tag/docker/rss/
+https://integratedcode.us/tag/containers/feed/

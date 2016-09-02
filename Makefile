@@ -7,7 +7,6 @@ deploy: build commit
 commit:
 	git add -A
 	git commit -m "rebuilding site `date`"
-	git push origin master
 
 docs/index.xml:
 	cat feeds.txt | ./build/argh generate docs/index.xml

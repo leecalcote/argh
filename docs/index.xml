@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-03T00:05:12Z</updated>
+  <updated>2016-09-03T01:05:12Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -432,6 +432,13 @@
     <link href="https://ahmetalpbalkan.com/blog/wagl"></link>
   </entry>
   <entry>
+    <title>Using Docker Datacenter to launch load test</title>
+    <updated>2016-09-03T00:54:04Z</updated>
+    <id>tag:blogs.cornell.edu,2016-09-03:/cloudification/2016/09/03/using-docker-datacenter-to-launch-load-test/</id>
+    <content type="html"></content>
+    <link href="http://blogs.cornell.edu/cloudification/2016/09/03/using-docker-datacenter-to-launch-load-test/"></link>
+  </entry>
+  <entry>
     <title>Configure Jenkins to use Cornell Shibboleth Authentication</title>
     <updated>2016-08-05T00:42:50Z</updated>
     <id>tag:blogs.cornell.edu,2016-08-05:/cloudification/2016/08/05/configure-jenkins-to-use-cornell-shibboleth-authentication/</id>
@@ -493,13 +500,6 @@
     <id>tag:blogs.cornell.edu,2016-05-17:/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/</id>
     <content type="html"></content>
     <link href="http://blogs.cornell.edu/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/"></link>
-  </entry>
-  <entry>
-    <title>The Cornell “Standard” AWS VPC</title>
-    <updated>2016-04-08T16:00:33Z</updated>
-    <id>tag:blogs.cornell.edu,2016-04-08:/cloudification/2016/04/08/the-cornell-standard-aws-vpc/</id>
-    <content type="html"></content>
-    <link href="http://blogs.cornell.edu/cloudification/2016/04/08/the-cornell-standard-aws-vpc/"></link>
   </entry>
   <entry>
     <title>Run PowerShell Natively on Linux and Docker!</title>

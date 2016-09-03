@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-03T08:05:12Z</updated>
+  <updated>2016-09-03T09:05:15Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Jenkins makes a UX splash with Blue Ocean</title>
+    <updated>2016-09-02T20:48:00Z</updated>
+    <id>tag:blog.alexellis.io,2016-09-02:/jenkins-splashes-with-blue-ocean/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/jenkins-splashes-with-blue-ocean/"></link>
+  </entry>
   <entry>
     <title>Live Deep Dive - Docker Swarm Mode on the Pi</title>
     <updated>2016-08-27T21:55:23Z</updated>
@@ -101,13 +108,6 @@
     <id>tag:blog.alexellis.io,2016-05-18:/runc-in-30-seconds/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/runc-in-30-seconds/"></link>
-  </entry>
-  <entry>
-    <title>My Dockercon Hack: IoT cluster</title>
-    <updated>2016-05-17T17:54:53Z</updated>
-    <id>tag:blog.alexellis.io,2016-05-17:/iot-docker-cluster/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/iot-docker-cluster/"></link>
   </entry>
   <entry>
     <title>Watch demo about Docker 1.12 made during Docker Meetup</title>

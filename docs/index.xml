@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-04T13:05:12Z</updated>
+  <updated>2016-09-04T14:05:13Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -615,7 +615,7 @@
   </entry>
   <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
-    <updated>2016-09-04T08:15:25Z</updated>
+    <updated>2016-09-04T13:53:20Z</updated>
     <id>tag:www.youtube.com,2016-09-04:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>

@@ -3,10 +3,10 @@ http://gianarb.it/planet/docker.xml
 https://scottydoesntknow.io/docker/docker/feed/
 http://blog.fntlnz.wtf/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCOAhkxpryr_BKybt9wIw-NQ
-http://blog.alexellis.io/rss/
 https://blog.sixeyed.com/tag/docker/rss/
 https://integratedcode.us/tag/containers/feed/
 https://ahmetalpbalkan.com/blog/feed/tag-docker.xml
 http://blogs.cornell.edu/cloudification/tech-blog/feed/
 https://trevorsullivan.net/tag/docker/feed/
 https://www.brianchristner.io/rss/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJsK5Zbq0dyFZUBtMTHzxjQ

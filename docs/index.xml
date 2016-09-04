@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-04T16:05:12Z</updated>
+  <updated>2016-09-04T17:05:12Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -286,7 +286,7 @@
   </entry>
   <entry>
     <title>QND#1 Docker 101</title>
-    <updated>2016-09-04T10:52:34Z</updated>
+    <updated>2016-09-04T16:47:17Z</updated>
     <id>tag:www.youtube.com,2016-09-04:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>

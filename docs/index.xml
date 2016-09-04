@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-04T11:05:13Z</updated>
+  <updated>2016-09-04T12:05:13Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -612,5 +612,82 @@
     <id>tag:www.brianchristner.io,2016-02-05:/docker-is-moving-to-alpine-linux/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/docker-is-moving-to-alpine-linux/"></link>
+  </entry>
+  <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
+    <updated>2016-09-04T08:15:25Z</updated>
+    <id>tag:www.youtube.com,2016-09-04:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
+  </entry>
+  <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
+    <updated>2016-09-01T16:47:45Z</updated>
+    <id>tag:www.youtube.com,2016-09-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
+  </entry>
+  <entry>
+    <title>Docker Azure private Beta preview</title>
+    <updated>2016-08-20T16:56:35Z</updated>
+    <id>tag:www.youtube.com,2016-08-20:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=Lxvg7OMcPac"></link>
+  </entry>
+  <entry>
+    <title>IoT Dockercon Demo</title>
+    <updated>2016-08-29T14:18:19Z</updated>
+    <id>tag:www.youtube.com,2016-08-29:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
+  </entry>
+  <entry>
+    <title>Docker IoT Cluster with Raspberry PI</title>
+    <updated>2016-09-03T22:03:55Z</updated>
+    <id>tag:www.youtube.com,2016-09-03:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
+  </entry>
+  <entry>
+    <title>Mint cuttings on - PI Zero Timelapse</title>
+    <updated>2016-05-21T11:41:03Z</updated>
+    <id>tag:www.youtube.com,2016-05-21:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=Kkg6dyr4t0c"></link>
+  </entry>
+  <entry>
+    <title>Docker Birthday Challenge #3 full demo</title>
+    <updated>2016-04-17T12:49:13Z</updated>
+    <id>tag:www.youtube.com,2016-04-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=lau7e2Uow3I"></link>
+  </entry>
+  <entry>
+    <title>Raspberry PI NoIR camera with TV remote</title>
+    <updated>2016-04-14T18:34:37Z</updated>
+    <id>tag:www.youtube.com,2016-04-14:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=T_X1EsxXNd0"></link>
+  </entry>
+  <entry>
+    <title>4WD Robocar controlled by Raspberry PI</title>
+    <updated>2015-11-07T17:37:48Z</updated>
+    <id>tag:www.youtube.com,2015-11-07:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=lAlKvFWEfKU"></link>
+  </entry>
+  <entry>
+    <title>Dagu 4WD Rover 5 with Raspberry PI</title>
+    <updated>2016-02-17T13:42:52Z</updated>
+    <id>tag:www.youtube.com,2016-02-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=cg4BKu7AVFs"></link>
+  </entry>
+  <entry>
+    <title>Raspberry PI powered robot</title>
+    <updated>2015-11-05T23:15:01Z</updated>
+    <id>tag:www.youtube.com,2015-11-05:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=0A8E3v69a4Q"></link>
   </entry>
 </feed>

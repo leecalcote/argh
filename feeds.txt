@@ -13,3 +13,4 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCJsK5Zbq0dyFZUBtMTHzxjQ
 http://blog.phymata.com/category/docker.atom.xml
 https://sreeninet.wordpress.com/category/docker/feed/
 https://lostechies.com/gabrielschenker/category/containers/feed/
+https://medium.com/feed/lucjuggery

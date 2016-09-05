@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-05T07:05:13Z</updated>
+  <updated>2016-09-05T08:03:19Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -696,5 +696,145 @@
     <id>tag:www.youtube.com,2015-11-05:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=0A8E3v69a4Q"></link>
+  </entry>
+  <entry>
+    <title>Docker for AWS – Deployment options</title>
+    <updated>2016-09-03T06:38:58Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-for-aws-deployment-options/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-for-aws-deployment-options/"></link>
+  </entry>
+  <entry>
+    <title>AWS ECS – Docker Container service</title>
+    <updated>2016-09-03T06:36:10Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/aws-ecs-docker-container-service/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/09/03/aws-ecs-docker-container-service/"></link>
+  </entry>
+  <entry>
+    <title>Docker Datacenter for AWS</title>
+    <updated>2016-09-03T06:33:40Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-datacenter-for-aws/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-datacenter-for-aws/"></link>
+  </entry>
+  <entry>
+    <title>Docker Cloud for AWS</title>
+    <updated>2016-09-03T06:30:40Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-cloud-for-aws/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-cloud-for-aws/"></link>
+  </entry>
+  <entry>
+    <title>Docker for AWS beta</title>
+    <updated>2016-09-03T06:29:11Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-for-aws-beta/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-for-aws-beta/"></link>
+  </entry>
+  <entry>
+    <title>Docker-machine for AWS</title>
+    <updated>2016-09-03T06:26:35Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-machine-for-aws/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-machine-for-aws/"></link>
+  </entry>
+  <entry>
+    <title>Service Discovery and Load balancing Internals in Docker 1.12</title>
+    <updated>2016-07-29T16:58:32Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-07-29:/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/"></link>
+  </entry>
+  <entry>
+    <title>Comparing Swarm, Swarmkit and Swarm Mode</title>
+    <updated>2016-07-14T14:16:19Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-07-14:/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/"></link>
+  </entry>
+  <entry>
+    <title>Docker Security presentation at Bangalore meetup</title>
+    <updated>2016-07-09T13:46:41Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-07-09:/2016/07/09/docker-security-presentation-at-bangalore-meetup/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/07/09/docker-security-presentation-at-bangalore-meetup/"></link>
+  </entry>
+  <entry>
+    <title>Mesos DC/OS Hands-On</title>
+    <updated>2016-06-19T15:55:27Z</updated>
+    <id>tag:sreeninet.wordpress.com,2016-06-19:/2016/06/19/mesos-dcos-hands-on/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2016/06/19/mesos-dcos-hands-on/"></link>
+  </entry>
+  <entry>
+    <title>Pimp my report with Docker</title>
+    <updated>2016-08-31T20:36:08Z</updated>
+    <id>tag:lostechies.com,2016-08-31:/gabrielschenker/2016/08/31/pimp-my-report-with-docker/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/31/pimp-my-report-with-docker/"></link>
+  </entry>
+  <entry>
+    <title>Containers – An Index</title>
+    <updated>2016-08-26T22:46:06Z</updated>
+    <id>tag:lostechies.com,2016-08-26:/gabrielschenker/2016/08/26/containers-an-index/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/26/containers-an-index/"></link>
+  </entry>
+  <entry>
+    <title>Container Entrypoint</title>
+    <updated>2016-08-21T22:41:34Z</updated>
+    <id>tag:lostechies.com,2016-08-21:/gabrielschenker/2016/08/21/container-entrypoint/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/21/container-entrypoint/"></link>
+  </entry>
+  <entry>
+    <title>Containers – Clean up your House</title>
+    <updated>2016-08-14T22:07:27Z</updated>
+    <id>tag:lostechies.com,2016-08-14:/gabrielschenker/2016/08/14/containers-clean-up-your-house/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/"></link>
+  </entry>
+  <entry>
+    <title>Troubleshooting Containers</title>
+    <updated>2016-08-12T01:17:33Z</updated>
+    <id>tag:lostechies.com,2016-08-12:/gabrielschenker/2016/08/11/troubleshooting-containers/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/11/troubleshooting-containers/"></link>
+  </entry>
+  <entry>
+    <title>Synchronizing Containers</title>
+    <updated>2016-08-06T03:20:47Z</updated>
+    <id>tag:lostechies.com,2016-08-06:/gabrielschenker/2016/08/05/synchronizing-containers/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/05/synchronizing-containers/"></link>
+  </entry>
+  <entry>
+    <title>DockerCon 2016 – Day 3, Presentations</title>
+    <updated>2016-06-22T03:03:05Z</updated>
+    <id>tag:lostechies.com,2016-06-22:/gabrielschenker/2016/06/21/dockercon-2016-day-3-presentations/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/06/21/dockercon-2016-day-3-presentations/"></link>
+  </entry>
+  <entry>
+    <title>DockerCon 2016 – Day 2, Presentations</title>
+    <updated>2016-06-21T22:31:35Z</updated>
+    <id>tag:lostechies.com,2016-06-21:/gabrielschenker/2016/06/21/dockercon-2016-day-2-presentations/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/06/21/dockercon-2016-day-2-presentations/"></link>
+  </entry>
+  <entry>
+    <title>DockerCon 2016 – Day 1, Workshop and registration</title>
+    <updated>2016-06-20T14:55:30Z</updated>
+    <id>tag:lostechies.com,2016-06-20:/gabrielschenker/2016/06/20/day-1-workshop-and-registration/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/06/20/day-1-workshop-and-registration/"></link>
+  </entry>
+  <entry>
+    <title>Running and debugging an ASP.NET Core RC2 application in Docker</title>
+    <updated>2016-05-18T03:05:04Z</updated>
+    <id>tag:lostechies.com,2016-05-18:/gabrielschenker/2016/05/17/running-and-debugging-an-asp-net-core-rc2-application-running-in-docker/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/05/17/running-and-debugging-an-asp-net-core-rc2-application-running-in-docker/"></link>
   </entry>
 </feed>

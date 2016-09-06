@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-05T22:51:19Z</updated>
+  <updated>2016-09-06T00:00:15Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -768,6 +768,13 @@
     <link href="https://sreeninet.wordpress.com/2016/06/19/mesos-dcos-hands-on/"></link>
   </entry>
   <entry>
+    <title>Docker and Swarm Mode – Part 1</title>
+    <updated>2016-09-05T23:42:11Z</updated>
+    <id>tag:lostechies.com,2016-09-05:/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/"></link>
+  </entry>
+  <entry>
     <title>Pimp my report with Docker</title>
     <updated>2016-08-31T20:36:08Z</updated>
     <id>tag:lostechies.com,2016-08-31:/gabrielschenker/2016/08/31/pimp-my-report-with-docker/</id>
@@ -829,13 +836,6 @@
     <id>tag:lostechies.com,2016-06-20:/gabrielschenker/2016/06/20/day-1-workshop-and-registration/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/06/20/day-1-workshop-and-registration/"></link>
-  </entry>
-  <entry>
-    <title>Running and debugging an ASP.NET Core RC2 application in Docker</title>
-    <updated>2016-05-18T03:05:04Z</updated>
-    <id>tag:lostechies.com,2016-05-18:/gabrielschenker/2016/05/17/running-and-debugging-an-asp-net-core-rc2-application-running-in-docker/</id>
-    <content type="html"></content>
-    <link href="https://lostechies.com/gabrielschenker/2016/05/17/running-and-debugging-an-asp-net-core-rc2-application-running-in-docker/"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>

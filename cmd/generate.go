@@ -27,7 +27,7 @@ func (a ByPublishdate) Swap(i, j int) {
 }
 
 func (a ByPublishdate) Less(i, j int) bool {
-	delta := a[i].Updated.Sub(a[j].Updated)
+	delta := a[i].Created.Sub(a[j].Created)
 	return delta.Seconds() > 0
 }
 

@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="logo">
-        <img src="http://img.scoop.it/oIy1IKHLD7-i0t34FU1FL7nTzqrqzN7Y9aBZTaXoQ8Q=" alt="Docker Captains logo">
+        <img src="/captains-logo.png" alt="Docker Captains logo">
     </div>
 
     <div class="slogan">

@@ -1,13 +1,13 @@
-.PHONY: build clean deploy commit
+.PHONY: build clean deploy commit docs
 
-build: clean build/argh docs/index.xml
+build: clean build/argh docs
 
 commit:
 	git add -A
 	git commit -m "rebuilding site `date`"
 
-docs/index.xml:
-	cat feeds.txt | ./build/argh generate docs/index.xml
+docs:
+	cat feeds.txt | go run main.go generate ./docs
 
 build/argh:
 	go build -o build/argh .

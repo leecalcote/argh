@@ -23,7 +23,7 @@
         <table>
             {{ range .Items }}
             <tr>
-                <td><a href="{{ .Link }}" target="_blank">{{ .Title }}</a></td>
+                <td><a href="{{ .Link.Href }}" target="_blank">{{ .Title }}</a></td>
             </tr>
             {{ end }}
         </table>

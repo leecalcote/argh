@@ -2,6 +2,8 @@ package cmd
 
 import (
 	"bufio"
+	"fmt"
+	"html/template"
 	"log"
 	"os"
 	"path/filepath"
@@ -75,7 +77,17 @@ func (c *BuildCmd) Run(args []string) int {
 		log.Fatal(err)
 	}
 
-	f, err := os.Create(path)
+	t, err := template.ParseFiles("./tpl/index.tpl")
+	if err != nil {
+		log.Fatal(err)
+	}
+	in, err := os.Create(fmt.Sprintf("%s/index.html", path))
+	if err != nil {
+		log.Fatal(err)
+	}
+	t.Execute(in, feed)
+	in.Close()
+	f, err := os.Create(fmt.Sprintf("%s/index.xml", path))
 
 	if err != nil {
 		log.Fatal(err)
@@ -93,7 +105,7 @@ func (c *BuildCmd) Run(args []string) int {
 func (c *BuildCmd) Help() string {
 	helpText := `
 Generate feed from a lists
-	cat feeds.txt | ./argh generate index.xml
+	cat feeds.txt | go run main.go generate ./docs
 `
 	return strings.TrimSpace(helpText)
 }

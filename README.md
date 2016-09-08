@@ -10,4 +10,9 @@ You already know what you need to do but if you don't remember follow this point
 * Create a PR and update `/feeds.txt` with your feed.
 
 This feed is generated every three hours (0-3-6...)
+
+```
+cat feeds.txt | go run main.go generate ./docs
+```
+
 Thanks and dockerize!

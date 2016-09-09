@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-09T00:00:16Z</updated>
+  <updated>2016-09-09T03:00:18Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -45,13 +45,6 @@
     <id>tag:www.youtube.com,2016-09-05:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2016-09-04T16:47:17Z</updated>
-    <id>tag:www.youtube.com,2016-09-04:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>Docker for AWS – Deployment options</title>
@@ -124,13 +117,6 @@
     <link href="https://lostechies.com/gabrielschenker/2016/08/31/pimp-my-report-with-docker/"></link>
   </entry>
   <entry>
-    <title>ET SI ... Docker était resté Français</title>
-    <updated>2016-08-30T18:29:09Z</updated>
-    <id>tag:www.youtube.com,2016-08-30:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
-  </entry>
-  <entry>
     <title>Docker remote APIs. More than meets the eye</title>
     <updated>2016-08-30T01:41:51Z</updated>
     <id>tag:scottydoesntknow.io,2016-08-30:/docker-remote-apis-meets-eye/</id>
@@ -152,39 +138,11 @@
     <link href="http://blog.alexellis.io/live-deep-dive-pi-swarm/"></link>
   </entry>
   <entry>
-    <title>QND #2 boot2docker, docker-machine, et les volumes</title>
-    <updated>2016-08-27T20:23:03Z</updated>
-    <id>tag:www.youtube.com,2016-08-27:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
-  </entry>
-  <entry>
     <title>Containers – An Index</title>
     <updated>2016-08-26T22:46:06Z</updated>
     <id>tag:lostechies.com,2016-08-26:/gabrielschenker/2016/08/26/containers-an-index/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/08/26/containers-an-index/"></link>
-  </entry>
-  <entry>
-    <title>DockerCon&#39;16 Seattle</title>
-    <updated>2016-08-26T21:16:37Z</updated>
-    <id>tag:www.youtube.com,2016-08-26:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=o-xmhFMZsGU"></link>
-  </entry>
-  <entry>
-    <title>1k</title>
-    <updated>2016-08-25T18:30:21Z</updated>
-    <id>tag:www.youtube.com,2016-08-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
-  </entry>
-  <entry>
-    <title>QND #4: pas bô Docker</title>
-    <updated>2016-08-25T18:27:20Z</updated>
-    <id>tag:www.youtube.com,2016-08-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>
@@ -199,13 +157,6 @@
     <id>tag:gianarb.it,2016-08-24:/blog/docker-1-12-meetup-dublin</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-1-12-meetup-dublin"></link>
-  </entry>
-  <entry>
-    <title>Flash: cocktail gagnant</title>
-    <updated>2016-08-23T23:18:09Z</updated>
-    <id>tag:www.youtube.com,2016-08-23:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=p7ek9w2n0jI"></link>
   </entry>
   <entry>
     <title>Follow all the Captains in one shot with Docker</title>
@@ -250,25 +201,11 @@
     <link href="https://integratedcode.us/2016/08/16/ibms-bluemix-containers-applied-container-security/"></link>
   </entry>
   <entry>
-    <title>QND#5 : Docker4Mac et Windows</title>
-    <updated>2016-08-16T00:52:46Z</updated>
-    <id>tag:www.youtube.com,2016-08-16:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
-  </entry>
-  <entry>
     <title>Containers – Clean up your House</title>
     <updated>2016-08-14T22:07:27Z</updated>
     <id>tag:lostechies.com,2016-08-14:/gabrielschenker/2016/08/14/containers-clean-up-your-house/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/"></link>
-  </entry>
-  <entry>
-    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
-    <updated>2016-08-12T22:58:35Z</updated>
-    <id>tag:www.youtube.com,2016-08-12:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
   </entry>
   <entry>
     <title>Troubleshooting Containers</title>
@@ -327,13 +264,6 @@
     <link href="http://blog.alexellis.io/linux-desktop-on-mac/"></link>
   </entry>
   <entry>
-    <title>Chanson du Merci</title>
-    <updated>2016-07-29T20:41:58Z</updated>
-    <id>tag:www.youtube.com,2016-07-29:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=LzYFVoxnyAI"></link>
-  </entry>
-  <entry>
     <title>Service Discovery and Load balancing Internals in Docker 1.12</title>
     <updated>2016-07-29T16:58:32Z</updated>
     <id>tag:sreeninet.wordpress.com,2016-07-29:/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/</id>
@@ -360,27 +290,6 @@
     <id>tag:medium.com,2016-07-25:/lucjuggery/using-chimp-to-test-a-docker-compose-application-a258a610a57e</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/using-chimp-to-test-a-docker-compose-application-a258a610a57e?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
-    <title>Flash : unikernels</title>
-    <updated>2016-07-25T15:03:38Z</updated>
-    <id>tag:www.youtube.com,2016-07-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=HonFSXDp08Q"></link>
-  </entry>
-  <entry>
-    <title>QND#7: Docker sur ARM</title>
-    <updated>2016-07-23T08:45:32Z</updated>
-    <id>tag:www.youtube.com,2016-07-23:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
-  </entry>
-  <entry>
-    <title>QND#3 Docker Images: le grand plongeon</title>
-    <updated>2016-07-21T09:41:58Z</updated>
-    <id>tag:www.youtube.com,2016-07-21:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
   </entry>
   <entry>
     <title>Docker.DotNet is Graduating!</title>
@@ -614,13 +523,6 @@
     <link href="http://blogs.cornell.edu/cloudification/2016/06/13/devops-failure-will-occur/"></link>
   </entry>
   <entry>
-    <title>le 29 #1</title>
-    <updated>2016-06-13T09:39:26Z</updated>
-    <id>tag:www.youtube.com,2016-06-13:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=9XCNWomas-4"></link>
-  </entry>
-  <entry>
     <title>Introducing dexec</title>
     <updated>2016-06-10T14:00:00-07:00</updated>
     <id>tag:ahmetalpbalkan.com,2016-06-10:/blog/dexec</id>
@@ -689,13 +591,6 @@
     <id>tag:blog.sixeyed.com,2016-05-13:/production-docker-swarm-on-azure-why-you-should-use-powershell-and-docker-machine/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/production-docker-swarm-on-azure-why-you-should-use-powershell-and-docker-machine/"></link>
-  </entry>
-  <entry>
-    <title>(hors sujet) Le CrowdFunding Ulule</title>
-    <updated>2016-05-05T03:12:24Z</updated>
-    <id>tag:www.youtube.com,2016-05-05:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=u4b0orT0U_0"></link>
   </entry>
   <entry>
     <title>Docker Cleanup Scripts Comparison</title>
@@ -852,18 +747,18 @@
     <link href="https://ahmetalpbalkan.com/blog/azure-docker-extension"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

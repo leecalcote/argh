@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-09T06:00:18Z</updated>
+  <updated>2016-09-09T09:00:20Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
-  <entry>
-    <title>Docker IoT Cluster with Raspberry PI</title>
-    <updated>2016-09-08T23:36:18Z</updated>
-    <id>tag:www.youtube.com,2016-09-08:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
-  </entry>
-  <entry>
-    <title>Captains&#39; Global RPi BOTNET Live!</title>
-    <updated>2016-09-08T16:20:21Z</updated>
-    <id>tag:www.youtube.com,2016-09-08:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=C0XxyOlDBjk"></link>
-  </entry>
   <entry>
     <title>Docker Comes to Peterborough</title>
     <updated>2016-09-07T15:33:53Z</updated>
@@ -26,25 +12,11 @@
     <link href="http://blog.alexellis.io/dpip-ftw/"></link>
   </entry>
   <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
-    <updated>2016-09-07T09:49:32Z</updated>
-    <id>tag:www.youtube.com,2016-09-07:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
-  </entry>
-  <entry>
     <title>Docker and Swarm Mode – Part 1</title>
     <updated>2016-09-05T23:42:11Z</updated>
     <id>tag:lostechies.com,2016-09-05:/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/"></link>
-  </entry>
-  <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
-    <updated>2016-09-05T06:10:51Z</updated>
-    <id>tag:www.youtube.com,2016-09-05:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
   </entry>
   <entry>
     <title>QND#1 Docker 101</title>
@@ -138,13 +110,6 @@
     <link href="https://scottydoesntknow.io/docker-remote-apis-meets-eye/"></link>
   </entry>
   <entry>
-    <title>IoT Dockercon Demo</title>
-    <updated>2016-08-29T14:18:19Z</updated>
-    <id>tag:www.youtube.com,2016-08-29:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
-  </entry>
-  <entry>
     <title>Live Deep Dive - Docker Swarm Mode on the Pi</title>
     <updated>2016-08-27T21:55:23Z</updated>
     <id>tag:blog.alexellis.io,2016-08-27:/live-deep-dive-pi-swarm/</id>
@@ -220,13 +185,6 @@
     <id>tag:lostechies.com,2016-08-21:/gabrielschenker/2016/08/21/container-entrypoint/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/08/21/container-entrypoint/"></link>
-  </entry>
-  <entry>
-    <title>Docker Azure private Beta preview</title>
-    <updated>2016-08-20T16:56:35Z</updated>
-    <id>tag:www.youtube.com,2016-08-20:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=Lxvg7OMcPac"></link>
   </entry>
   <entry>
     <title>Run PowerShell Natively on Linux and Docker!</title>
@@ -663,13 +621,6 @@
     <link href="http://blog.alexellis.io/instant-dotnet-core-rc2-with-docker/"></link>
   </entry>
   <entry>
-    <title>Mint cuttings on - PI Zero Timelapse</title>
-    <updated>2016-05-21T11:41:03Z</updated>
-    <id>tag:www.youtube.com,2016-05-21:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=Kkg6dyr4t0c"></link>
-  </entry>
-  <entry>
     <title>How to Setup AWS Route53 to Work with Cornell-Managed DNS</title>
     <updated>2016-05-17T11:49:54Z</updated>
     <id>tag:blogs.cornell.edu,2016-05-17:/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/</id>
@@ -724,20 +675,6 @@
     <id>tag:www.brianchristner.io,2016-04-21:/mac-osx-background-image-changer-program/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/mac-osx-background-image-changer-program/"></link>
-  </entry>
-  <entry>
-    <title>Docker Birthday Challenge #3 full demo</title>
-    <updated>2016-04-17T12:49:13Z</updated>
-    <id>tag:www.youtube.com,2016-04-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=lau7e2Uow3I"></link>
-  </entry>
-  <entry>
-    <title>Raspberry PI NoIR camera with TV remote</title>
-    <updated>2016-04-14T18:34:37Z</updated>
-    <id>tag:www.youtube.com,2016-04-14:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=T_X1EsxXNd0"></link>
   </entry>
   <entry>
     <title>Distributed Data Analysis with Plain UNIX Commands and Docker Swarm</title>
@@ -817,13 +754,6 @@
     <link href="https://www.brianchristner.io/how-to-delete-all-docker-containers-and-images/"></link>
   </entry>
   <entry>
-    <title>Dagu 4WD Rover 5 with Raspberry PI</title>
-    <updated>2016-02-17T13:42:52Z</updated>
-    <id>tag:www.youtube.com,2016-02-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=cg4BKu7AVFs"></link>
-  </entry>
-  <entry>
     <title>HBase Succinctly: free eBook about real-time Big Data</title>
     <updated>2016-02-11T12:29:35Z</updated>
     <id>tag:blog.sixeyed.com,2016-02-11:/hbase-succinctly-free-ebook-about-real-time-big-data/</id>
@@ -852,18 +782,18 @@
     <link href="https://ahmetalpbalkan.com/blog/azure-docker-extension"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>
@@ -892,20 +822,6 @@
     <id>tag:blog.sixeyed.com,2015-11-26:/why-docker-is-a-great-tool-for-edutech/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/why-docker-is-a-great-tool-for-edutech/"></link>
-  </entry>
-  <entry>
-    <title>4WD Robocar controlled by Raspberry PI</title>
-    <updated>2015-11-07T17:37:48Z</updated>
-    <id>tag:www.youtube.com,2015-11-07:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=lAlKvFWEfKU"></link>
-  </entry>
-  <entry>
-    <title>Raspberry PI powered robot</title>
-    <updated>2015-11-05T23:15:01Z</updated>
-    <id>tag:www.youtube.com,2015-11-05:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=0A8E3v69a4Q"></link>
   </entry>
   <entry>
     <title>Running .NET Core apps in a Docker container</title>

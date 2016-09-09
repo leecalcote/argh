@@ -21,3 +21,4 @@ http://blog.codeship.com/author/laurafrank/feed/
 http://blog.loof.fr/feeds/posts/default
 http://nickjanetakis.com/atom.xml
 https://manesh.me/tag/docker/feed/
+http://lucjuggery.com/blog/?feed=rss2&tag=docker

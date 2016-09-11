@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-11T18:00:16Z</updated>
+  <updated>2016-09-11T21:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Docker and Swarm Mode – Part 2</title>
+    <updated>2016-09-11T18:40:03Z</updated>
+    <id>tag:lostechies.com,2016-09-11:/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/"></link>
+  </entry>
   <entry>
     <title>Docker for AWS : zoom on ELB</title>
     <updated>2016-09-11T08:06:31Z</updated>
@@ -504,16 +511,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -532,16 +539,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -560,23 +567,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
-    <title>Deploy a multi services application with swarm mode</title>
-    <updated>2016-07-07T21:13:11Z</updated>
     <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
-    <title>Deploy a service with Swarm mode of Engine 1.12</title>
-    <updated>2016-07-06T20:20:07Z</updated>
-    <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
+    <title>Deploy a multi services application with swarm mode</title>
+    <updated>2016-07-07T21:13:11Z</updated>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -586,11 +586,11 @@
     <link href="http://lucjuggery.com/blog/?p=582"></link>
   </entry>
   <entry>
-    <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
-    <updated>2016-07-05T19:35:37Z</updated>
-    <id>tag:medium.com,2016-07-05:/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27</id>
+    <title>Deploy a service with Swarm mode of Engine 1.12</title>
+    <updated>2016-07-06T20:20:07Z</updated>
+    <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27?source=rss----993cf4324c50---4"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
@@ -598,6 +598,13 @@
     <id>tag:lucjuggery.com,2016-07-05:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=566"></link>
+  </entry>
+  <entry>
+    <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
+    <updated>2016-07-05T19:35:37Z</updated>
+    <id>tag:medium.com,2016-07-05:/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Benchmarking Network Speeds for Traffic between Cornell and “The Cloud”</title>
@@ -689,13 +696,6 @@
     <id>tag:blog.alexellis.io,2016-06-20:/docker-swarm-mode-part1/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/docker-swarm-mode-part1/"></link>
-  </entry>
-  <entry>
-    <title>DockerCon 2016 – Day 1, Workshop and registration</title>
-    <updated>2016-06-20T14:55:30Z</updated>
-    <id>tag:lostechies.com,2016-06-20:/gabrielschenker/2016/06/20/day-1-workshop-and-registration/</id>
-    <content type="html"></content>
-    <link href="https://lostechies.com/gabrielschenker/2016/06/20/day-1-workshop-and-registration/"></link>
   </entry>
   <entry>
     <title>Docker 1.12 orchestration built-in</title>
@@ -957,18 +957,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
-  </entry>
-  <entry>
     <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
+  </entry>
+  <entry>
+    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>

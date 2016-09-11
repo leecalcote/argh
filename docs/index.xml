@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-11T06:00:17Z</updated>
+  <updated>2016-09-11T09:00:15Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Docker for AWS : zoom on ELB</title>
+    <updated>2016-09-11T08:06:31Z</updated>
+    <id>tag:medium.com,2016-09-11:/lucjuggery/docker-for-aws-zoom-on-elb-8236ce0590e</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/docker-for-aws-zoom-on-elb-8236ce0590e?source=rss----993cf4324c50---4"></link>
+  </entry>
   <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
     <updated>2016-09-10T05:48:15Z</updated>
@@ -490,16 +497,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -518,16 +525,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -560,23 +567,16 @@
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
     <updated>2016-07-06T20:20:07Z</updated>
-    <id>tag:lucjuggery.com,2016-07-06:/blog/</id>
-    <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=582"></link>
-  </entry>
-  <entry>
-    <title>Deploy a service with Swarm mode of Engine 1.12</title>
-    <updated>2016-07-06T20:20:07Z</updated>
     <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
-    <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
-    <updated>2016-07-05T19:35:37Z</updated>
-    <id>tag:medium.com,2016-07-05:/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27</id>
+    <title>Deploy a service with Swarm mode of Engine 1.12</title>
+    <updated>2016-07-06T20:20:07Z</updated>
+    <id>tag:lucjuggery.com,2016-07-06:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=582"></link>
   </entry>
   <entry>
     <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
@@ -584,6 +584,13 @@
     <id>tag:lucjuggery.com,2016-07-05:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=566"></link>
+  </entry>
+  <entry>
+    <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
+    <updated>2016-07-05T19:35:37Z</updated>
+    <id>tag:medium.com,2016-07-05:/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/create-a-swarm-cluster-with-docker-1-12-swarm-mode-541449114c27?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Benchmarking Network Speeds for Traffic between Cornell and “The Cloud”</title>
@@ -598,13 +605,6 @@
     <id>tag:blogs.cornell.edu,2016-07-05:/cloudification/2016/07/05/using-shibboleth-for-aws-api-and-cli-access/</id>
     <content type="html"></content>
     <link href="http://blogs.cornell.edu/cloudification/2016/07/05/using-shibboleth-for-aws-api-and-cli-access/"></link>
-  </entry>
-  <entry>
-    <title>Meet Moby in Docker for Mac</title>
-    <updated>2016-07-02T13:16:26Z</updated>
-    <id>tag:medium.com,2016-07-02:/lucjuggery/meet-moby-in-docker-for-mac-5c90709a5af3</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/meet-moby-in-docker-for-mac-5c90709a5af3?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Planning a Trip to Boston? Here Is What I Did for 5 Days</title>

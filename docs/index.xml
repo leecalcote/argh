@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-12T21:00:19Z</updated>
+  <updated>2016-09-13T00:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Service Discovery Inside A Docker Swarm Cluster</title>
+    <updated>2016-09-12T22:14:14Z</updated>
+    <id>tag:technologyconversations.com,2016-09-12:/2016/09/13/service-discovery-inside-a-swarm-cluster/</id>
+    <content type="html"></content>
+    <link href="https://technologyconversations.com/2016/09/13/service-discovery-inside-a-swarm-cluster/"></link>
+  </entry>
   <entry>
     <title>Test-drive Docker Healthcheck in 10 minutes</title>
     <updated>2016-09-12T20:47:30Z</updated>
@@ -1132,13 +1139,6 @@
     <link href="http://nickjanetakis.com/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps"></link>
   </entry>
   <entry>
-    <title>The DevOps 2.0 Toolkit</title>
-    <updated>2016-01-11T15:42:42Z</updated>
-    <id>tag:technologyconversations.com,2016-01-11:/2016/01/11/the-devops-2-0-toolkit/</id>
-    <content type="html"></content>
-    <link href="https://technologyconversations.com/2016/01/11/the-devops-2-0-toolkit/"></link>
-  </entry>
-  <entry>
     <title>Sennheiser HD 201 vs Sennheiser HD 202 II for Budget Death Metal Headphones</title>
     <updated>2016-01-06T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-01-06:/blog/sennheiser-hd-201-vs-sennheiser-hd-202-for-budget-death-metal-headphones</id>
@@ -1167,18 +1167,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

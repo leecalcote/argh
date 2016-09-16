@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-15T12:00:18Z</updated>
+  <updated>2016-09-16T00:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#7: Docker sur ARM</title>
+    <updated>2016-09-15T19:21:21Z</updated>
+    <id>tag:www.youtube.com,2016-09-15:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
+  </entry>
   <entry>
     <title>Docker-Slaves 1.0 released</title>
     <updated>2016-09-15T07:22:57+02:00</updated>
@@ -481,13 +488,6 @@
     <link href="http://www.youtube.com/watch?v=HonFSXDp08Q"></link>
   </entry>
   <entry>
-    <title>QND#7: Docker sur ARM</title>
-    <updated>2016-07-23T08:45:32Z</updated>
-    <id>tag:www.youtube.com,2016-07-23:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
-  </entry>
-  <entry>
     <title>QND#3 Docker Images: le grand plongeon</title>
     <updated>2016-07-21T09:41:58Z</updated>
     <id>tag:www.youtube.com,2016-07-21:/watch</id>
@@ -560,16 +560,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -630,16 +630,16 @@
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
     <updated>2016-07-06T20:20:07Z</updated>
-    <id>tag:lucjuggery.com,2016-07-06:/blog/</id>
+    <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=582"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
     <updated>2016-07-06T20:20:07Z</updated>
-    <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
+    <id>tag:lucjuggery.com,2016-07-06:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=582"></link>
   </entry>
   <entry>
     <title>Create a swarm cluster with Docker 1.12 swarm mode</title>

@@ -1,9 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-18T00:00:16Z</updated>
+  <updated>2016-09-18T12:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#5 : Docker4Mac et Windows</title>
+    <updated>2016-09-18T11:56:52Z</updated>
+    <id>tag:www.youtube.com,2016-09-18:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
+  </entry>
+  <entry>
+    <title>IoT demo from Dockercon, goes rainbow with AngularJS!</title>
+    <updated>2016-09-17T19:24:50Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=cQx_kcrP44s"></link>
+  </entry>
+  <entry>
+    <title>Raspberry PI powered robot</title>
+    <updated>2016-09-17T19:23:01Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=0A8E3v69a4Q"></link>
+  </entry>
+  <entry>
+    <title>Docker IoT Cluster with Raspberry PI</title>
+    <updated>2016-09-17T19:14:26Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
+  </entry>
+  <entry>
+    <title>Raspberry PI NoIR camera with TV remote</title>
+    <updated>2016-09-17T19:14:23Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=T_X1EsxXNd0"></link>
+  </entry>
+  <entry>
+    <title>Dagu 4WD Rover 5 with Raspberry PI</title>
+    <updated>2016-09-17T19:14:19Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=cg4BKu7AVFs"></link>
+  </entry>
+  <entry>
+    <title>IoT Dockercon Demo</title>
+    <updated>2016-09-17T19:14:17Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
+  </entry>
+  <entry>
+    <title>4WD Robocar controlled by Raspberry PI</title>
+    <updated>2016-09-17T19:14:14Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=lAlKvFWEfKU"></link>
+  </entry>
+  <entry>
+    <title>Docker Birthday Challenge #3 full demo</title>
+    <updated>2016-09-17T19:14:12Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=lau7e2Uow3I"></link>
+  </entry>
+  <entry>
+    <title>Mint cuttings on - PI Zero Timelapse</title>
+    <updated>2016-09-17T19:14:11Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=Kkg6dyr4t0c"></link>
+  </entry>
+  <entry>
+    <title>Docker Azure private Beta preview</title>
+    <updated>2016-09-17T19:14:03Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=Lxvg7OMcPac"></link>
+  </entry>
+  <entry>
+    <title>Captains&#39; Global RPi BOTNET Live!</title>
+    <updated>2016-09-17T19:14:02Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=C0XxyOlDBjk"></link>
+  </entry>
+  <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
+    <updated>2016-09-17T19:14:00Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
+  </entry>
+  <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
+    <updated>2016-09-17T19:13:59Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
+  </entry>
   <entry>
     <title>QND #4: pas bô Docker</title>
     <updated>2016-09-17T14:28:33Z</updated>
@@ -297,13 +395,6 @@
     <id>tag:integratedcode.us,2016-08-16:/2016/08/16/ibms-bluemix-containers-applied-container-security/</id>
     <content type="html"></content>
     <link href="https://integratedcode.us/2016/08/16/ibms-bluemix-containers-applied-container-security/"></link>
-  </entry>
-  <entry>
-    <title>QND#5 : Docker4Mac et Windows</title>
-    <updated>2016-08-16T00:52:46Z</updated>
-    <id>tag:www.youtube.com,2016-08-16:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
   </entry>
   <entry>
     <title>Containers – Clean up your House</title>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-21T12:00:17Z</updated>
+  <updated>2016-09-22T00:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
-    <updated>2016-09-20T21:11:16Z</updated>
-    <id>tag:www.youtube.com,2016-09-20:/watch</id>
+    <title>Easing the use of the AWS CLI</title>
+    <updated>2016-09-21T15:32:06Z</updated>
+    <id>tag:lostechies.com,2016-09-21:/gabrielschenker/2016/09/21/easing-the-use-of-the-aws-cli/</id>
     <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/21/easing-the-use-of-the-aws-cli/"></link>
+  </entry>
+  <entry>
+    <title>Docker and IoT at Agile Peterborough</title>
+    <updated>2016-09-21T13:44:27Z</updated>
+    <id>tag:blog.alexellis.io,2016-09-21:/docker-iot-agile-pbo/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/docker-iot-agile-pbo/"></link>
   </entry>
   <entry>
     <title>QND #2 boot2docker, docker-machine, et les volumes</title>
@@ -38,90 +45,6 @@
     <id>tag:www.brianchristner.io,2016-09-19:/no-more-ugly-upgrades/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/no-more-ugly-upgrades/"></link>
-  </entry>
-  <entry>
-    <title>IoT demo from Dockercon, goes rainbow with AngularJS!</title>
-    <updated>2016-09-17T19:24:50Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=cQx_kcrP44s"></link>
-  </entry>
-  <entry>
-    <title>Raspberry PI powered robot</title>
-    <updated>2016-09-17T19:23:01Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=0A8E3v69a4Q"></link>
-  </entry>
-  <entry>
-    <title>Docker IoT Cluster with Raspberry PI</title>
-    <updated>2016-09-17T19:14:26Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
-  </entry>
-  <entry>
-    <title>Raspberry PI NoIR camera with TV remote</title>
-    <updated>2016-09-17T19:14:23Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=T_X1EsxXNd0"></link>
-  </entry>
-  <entry>
-    <title>Dagu 4WD Rover 5 with Raspberry PI</title>
-    <updated>2016-09-17T19:14:19Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=cg4BKu7AVFs"></link>
-  </entry>
-  <entry>
-    <title>IoT Dockercon Demo</title>
-    <updated>2016-09-17T19:14:17Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
-  </entry>
-  <entry>
-    <title>4WD Robocar controlled by Raspberry PI</title>
-    <updated>2016-09-17T19:14:14Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=lAlKvFWEfKU"></link>
-  </entry>
-  <entry>
-    <title>Docker Birthday Challenge #3 full demo</title>
-    <updated>2016-09-17T19:14:12Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=lau7e2Uow3I"></link>
-  </entry>
-  <entry>
-    <title>Mint cuttings on - PI Zero Timelapse</title>
-    <updated>2016-09-17T19:14:11Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=Kkg6dyr4t0c"></link>
-  </entry>
-  <entry>
-    <title>Docker Azure private Beta preview</title>
-    <updated>2016-09-17T19:14:03Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=Lxvg7OMcPac"></link>
-  </entry>
-  <entry>
-    <title>Captains&#39; Global RPi BOTNET Live!</title>
-    <updated>2016-09-17T19:14:02Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=C0XxyOlDBjk"></link>
-  </entry>
-  <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
-    <updated>2016-09-17T19:13:59Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
   </entry>
   <entry>
     <title>QND #4: pas bô Docker</title>
@@ -616,16 +539,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -644,16 +567,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -672,23 +595,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
-    <title>Deploy a multi services application with swarm mode</title>
-    <updated>2016-07-07T21:13:11Z</updated>
     <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
-    <title>Deploy a service with Swarm mode of Engine 1.12</title>
-    <updated>2016-07-06T20:20:07Z</updated>
-    <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
+    <title>Deploy a multi services application with swarm mode</title>
+    <updated>2016-07-07T21:13:11Z</updated>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -696,6 +612,13 @@
     <id>tag:lucjuggery.com,2016-07-06:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=582"></link>
+  </entry>
+  <entry>
+    <title>Deploy a service with Swarm mode of Engine 1.12</title>
+    <updated>2016-07-06T20:20:07Z</updated>
+    <id>tag:medium.com,2016-07-06:/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/deploy-a-service-with-swarm-mode-of-engine-1-12-9914c92be5fb?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Create a swarm cluster with Docker 1.12 swarm mode</title>
@@ -761,13 +684,6 @@
     <link href="http://blogs.cornell.edu/cloudification/2016/06/22/how-to-run-jenkins-in-elasticbeanstalk/"></link>
   </entry>
   <entry>
-    <title>DockerCon 2016 – Day 2, Presentations</title>
-    <updated>2016-06-21T22:31:35Z</updated>
-    <id>tag:lostechies.com,2016-06-21:/gabrielschenker/2016/06/21/dockercon-2016-day-2-presentations/</id>
-    <content type="html"></content>
-    <link href="https://lostechies.com/gabrielschenker/2016/06/21/dockercon-2016-day-2-presentations/"></link>
-  </entry>
-  <entry>
     <title>How to use Docker 1.12 Built-In Orchestration and Service Creation</title>
     <updated>2016-06-21T06:50:00Z</updated>
     <id>tag:www.brianchristner.io,2016-06-21:/docker_1-12_builtin_orchestration/</id>
@@ -815,13 +731,6 @@
     <id>tag:blog.codeship.com,2016-06-16:/nginx-reverse-proxy-docker-swarm-clusters/</id>
     <content type="html"></content>
     <link href="https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/"></link>
-  </entry>
-  <entry>
-    <title>Meet me at Dockercon</title>
-    <updated>2016-06-14T13:47:36Z</updated>
-    <id>tag:blog.alexellis.io,2016-06-14:/meet-me-at-dockercon/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/meet-me-at-dockercon/"></link>
   </entry>
   <entry>
     <title>Docker + Backup = Dockup</title>

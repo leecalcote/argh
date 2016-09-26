@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-25T12:00:18Z</updated>
+  <updated>2016-09-26T00:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Docker load-balanced LED cluster Raspberry Pi</title>
+    <updated>2016-09-25T21:24:14Z</updated>
+    <id>tag:www.youtube.com,2016-09-25:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
+  </entry>
+  <entry>
+    <title>5 things about Docker on Raspberry Pi</title>
+    <updated>2016-09-25T17:17:00Z</updated>
+    <id>tag:blog.alexellis.io,2016-09-25:/5-things-docker-rpi/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/5-things-docker-rpi/"></link>
+  </entry>
+  <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
+    <updated>2016-09-24T22:40:01Z</updated>
+    <id>tag:www.youtube.com,2016-09-24:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
+  </entry>
   <entry>
     <title>Easing the use of the AWS CLI</title>
     <updated>2016-09-21T15:32:06Z</updated>
@@ -19,11 +40,88 @@
     <link href="http://blog.alexellis.io/docker-iot-agile-pbo/"></link>
   </entry>
   <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
+    <updated>2016-09-20T21:11:16Z</updated>
+    <id>tag:www.youtube.com,2016-09-20:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
+  </entry>
+  <entry>
     <title>No More Ugly Upgrades</title>
     <updated>2016-09-19T18:34:00Z</updated>
     <id>tag:www.brianchristner.io,2016-09-19:/no-more-ugly-upgrades/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/no-more-ugly-upgrades/"></link>
+  </entry>
+  <entry>
+    <title>IoT demo from Dockercon, goes rainbow with AngularJS!</title>
+    <updated>2016-09-17T19:24:50Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=cQx_kcrP44s"></link>
+  </entry>
+  <entry>
+    <title>Raspberry PI powered robot</title>
+    <updated>2016-09-17T19:23:01Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=0A8E3v69a4Q"></link>
+  </entry>
+  <entry>
+    <title>Raspberry PI NoIR camera with TV remote</title>
+    <updated>2016-09-17T19:14:23Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=T_X1EsxXNd0"></link>
+  </entry>
+  <entry>
+    <title>Dagu 4WD Rover 5 with Raspberry PI</title>
+    <updated>2016-09-17T19:14:19Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=cg4BKu7AVFs"></link>
+  </entry>
+  <entry>
+    <title>IoT Dockercon Demo</title>
+    <updated>2016-09-17T19:14:17Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
+  </entry>
+  <entry>
+    <title>4WD Robocar controlled by Raspberry PI</title>
+    <updated>2016-09-17T19:14:14Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=lAlKvFWEfKU"></link>
+  </entry>
+  <entry>
+    <title>Docker Birthday Challenge #3 full demo</title>
+    <updated>2016-09-17T19:14:12Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=lau7e2Uow3I"></link>
+  </entry>
+  <entry>
+    <title>Mint cuttings on - PI Zero Timelapse</title>
+    <updated>2016-09-17T19:14:11Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=Kkg6dyr4t0c"></link>
+  </entry>
+  <entry>
+    <title>Docker Azure private Beta preview</title>
+    <updated>2016-09-17T19:14:03Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=Lxvg7OMcPac"></link>
+  </entry>
+  <entry>
+    <title>Captains&#39; Global RPi BOTNET Live!</title>
+    <updated>2016-09-17T19:14:02Z</updated>
+    <id>tag:www.youtube.com,2016-09-17:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=C0XxyOlDBjk"></link>
   </entry>
   <entry>
     <title>Docker-Slaves 1.0 released</title>
@@ -504,16 +602,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -612,13 +710,6 @@
     <id>tag:blog.loof.fr,2016-06-20:/2016/06/dockercon-quand-docker-swarm-laisse-la.html</id>
     <content type="html"></content>
     <link href="http://blog.loof.fr/2016/06/dockercon-quand-docker-swarm-laisse-la.html"></link>
-  </entry>
-  <entry>
-    <title>Learn Docker Swarm Mode - scale in 5 minutes!</title>
-    <updated>2016-06-20T17:26:45Z</updated>
-    <id>tag:blog.alexellis.io,2016-06-20:/docker-swarm-mode-part1/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/docker-swarm-mode-part1/"></link>
   </entry>
   <entry>
     <title>Docker 1.12 orchestration built-in</title>
@@ -803,18 +894,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
-  </entry>
-  <entry>
     <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
+  </entry>
+  <entry>
+    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>
@@ -1055,18 +1146,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

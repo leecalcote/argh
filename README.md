@@ -6,7 +6,7 @@ subscription!
 # are you a Docker Captain?
 You already know what you need to do but if you don't remember follow this points:
 
-* Create a feed with your contants about docker (it's really important. Just docker!).
+* Create a feed with your contents about docker (it's really important. Just docker!).
 * Create a PR and update `/feeds.txt` with your feed.
 
 This feed is generated every three hours (0-3-6...)

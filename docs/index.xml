@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-27T00:00:17Z</updated>
+  <updated>2016-09-27T12:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Use Docker to build, test and push your Artifacts</title>
+    <updated>2016-09-27T02:13:58Z</updated>
+    <id>tag:lostechies.com,2016-09-27:/gabrielschenker/2016/09/26/use-docker-to-build-test-and-push-your-artifacts/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/26/use-docker-to-build-test-and-push-your-artifacts/"></link>
+  </entry>
   <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
     <updated>2016-09-26T21:28:12Z</updated>
@@ -770,16 +777,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -836,13 +843,6 @@
     <id>tag:blog.alexellis.io,2016-06-22:/microservice-swarm-mode/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/microservice-swarm-mode/"></link>
-  </entry>
-  <entry>
-    <title>DockerCon 2016 – Day 3, Presentations</title>
-    <updated>2016-06-22T03:03:05Z</updated>
-    <id>tag:lostechies.com,2016-06-22:/gabrielschenker/2016/06/21/dockercon-2016-day-3-presentations/</id>
-    <content type="html"></content>
-    <link href="https://lostechies.com/gabrielschenker/2016/06/21/dockercon-2016-day-3-presentations/"></link>
   </entry>
   <entry>
     <title>How to run Jenkins in ElasticBeanstalk</title>
@@ -1069,18 +1069,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
-  </entry>
-  <entry>
     <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
+  </entry>
+  <entry>
+    <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>

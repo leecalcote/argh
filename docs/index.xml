@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-27T12:00:17Z</updated>
+  <updated>2016-09-28T00:00:18Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>1, 2, 3, GO! Run IIS in Docker on Windows Server 2016</title>
+    <updated>2016-09-27T20:41:17Z</updated>
+    <id>tag:blog.sixeyed.com,2016-09-27:/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/</id>
+    <content type="html"></content>
+    <link href="http://blog.sixeyed.com/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/"></link>
+  </entry>
+  <entry>
+    <title>Docker load-balanced LED cluster Raspberry Pi</title>
+    <updated>2016-09-27T17:55:27Z</updated>
+    <id>tag:www.youtube.com,2016-09-27:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
+  </entry>
   <entry>
     <title>Use Docker to build, test and push your Artifacts</title>
     <updated>2016-09-27T02:13:58Z</updated>
@@ -40,13 +54,6 @@
     <link href="http://www.youtube.com/watch?v=cQx_kcrP44s"></link>
   </entry>
   <entry>
-    <title>Docker load-balanced LED cluster Raspberry Pi</title>
-    <updated>2016-09-25T21:24:14Z</updated>
-    <id>tag:www.youtube.com,2016-09-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
-  </entry>
-  <entry>
     <title>5 things about Docker on Raspberry Pi</title>
     <updated>2016-09-25T17:17:00Z</updated>
     <id>tag:blog.alexellis.io,2016-09-25:/5-things-docker-rpi/</id>
@@ -59,6 +66,13 @@
     <id>tag:collabnix.com,2016-09-24:/archives/1910</id>
     <content type="html"></content>
     <link href="http://collabnix.com/archives/1910"></link>
+  </entry>
+  <entry>
+    <title>{code} Represents at the first Dell EMC Public Event!</title>
+    <updated>2016-09-22T20:48:55Z</updated>
+    <id>tag:blog.codedellemc.com,2016-09-22:/2016/09/22/code-represents-at-the-first-dell-emc-public-event/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/09/22/code-represents-at-the-first-dell-emc-public-event/"></link>
   </entry>
   <entry>
     <title>DockerCon&#39;16 Seattle</title>
@@ -129,6 +143,13 @@
     <id>tag:www.brianchristner.io,2016-09-19:/no-more-ugly-upgrades/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/no-more-ugly-upgrades/"></link>
+  </entry>
+  <entry>
+    <title>Highly Available &amp; Distributed Containers - Video and Presentation at ContainerCon 2016</title>
+    <updated>2016-09-19T12:46:23-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-09-19:/~r/KendrickColeman/~3/NyrQvG7FT6E/highly-available-distributed-containers-video-and-presentation-at-containercon-2016.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/NyrQvG7FT6E/highly-available-distributed-containers-video-and-presentation-at-containercon-2016.html"></link>
   </entry>
   <entry>
     <title>Raspberry PI powered robot</title>
@@ -271,6 +292,13 @@
     <link href="http://collabnix.com/archives/1778"></link>
   </entry>
   <entry>
+    <title>Multiplayer Minecraft in Moments</title>
+    <updated>2016-09-08T17:36:34Z</updated>
+    <id>tag:blog.codedellemc.com,2016-09-08:/2016/09/08/multiplayer-minecraft-in-moments/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/09/08/multiplayer-minecraft-in-moments/"></link>
+  </entry>
+  <entry>
     <title>Docker Comes to Peterborough</title>
     <updated>2016-09-07T15:33:53Z</updated>
     <id>tag:blog.alexellis.io,2016-09-07:/dpip-ftw/</id>
@@ -397,6 +425,13 @@
     <link href="https://lostechies.com/gabrielschenker/2016/08/26/containers-an-index/"></link>
   </entry>
   <entry>
+    <title>ContainerCon North America 2016 Slides - Highly Available and Distributed Containers</title>
+    <updated>2016-08-25T17:26:20-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-08-25:/~r/KendrickColeman/~3/NteOsmfu3D4/containercon-north-america-2016-slides-highly-available-and-distributed-containers.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/NteOsmfu3D4/containercon-north-america-2016-slides-highly-available-and-distributed-containers.html"></link>
+  </entry>
+  <entry>
     <title>1k</title>
     <updated>2016-08-25T18:30:21Z</updated>
     <id>tag:www.youtube.com,2016-08-25:/watch</id>
@@ -409,6 +444,13 @@
     <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
+  </entry>
+  <entry>
+    <title>Building a RackHD home lab</title>
+    <updated>2016-08-24T20:16:16Z</updated>
+    <id>tag:blog.codedellemc.com,2016-08-24:/2016/08/24/building-a-rackhd-home-lab/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/08/24/building-a-rackhd-home-lab/"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>
@@ -446,11 +488,25 @@
     <link href="http://collabnix.com/archives/1695"></link>
   </entry>
   <entry>
+    <title>How to Use Volume Drivers and Storage with New Docker Service Command</title>
+    <updated>2016-08-22T14:34:25-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-08-22:/~r/KendrickColeman/~3/49fbYIseWPE/how-to-use-volume-drivers-and-storage-with-new-docker-service-command.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/49fbYIseWPE/how-to-use-volume-drivers-and-storage-with-new-docker-service-command.html"></link>
+  </entry>
+  <entry>
     <title>Container Entrypoint</title>
     <updated>2016-08-21T22:41:34Z</updated>
     <id>tag:lostechies.com,2016-08-21:/gabrielschenker/2016/08/21/container-entrypoint/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/08/21/container-entrypoint/"></link>
+  </entry>
+  <entry>
+    <title>Linux Turns 25 in Style</title>
+    <updated>2016-08-18T20:42:05Z</updated>
+    <id>tag:blog.codedellemc.com,2016-08-18:/2016/08/18/linux-turns-25-in-style/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/08/18/linux-turns-25-in-style/"></link>
   </entry>
   <entry>
     <title>Run PowerShell Natively on Linux and Docker!</title>
@@ -472,6 +528,13 @@
     <id>tag:blog.alexellis.io,2016-08-17:/getting-started-with-docker-on-raspberry-pi/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/"></link>
+  </entry>
+  <entry>
+    <title>VMTurbo rebranding to Turbonomic</title>
+    <updated>2016-08-17T15:37:49-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-08-17:/~r/KendrickColeman/~3/_8s7O1OTjYc/vmturbo-rebranding-to-turbonomic.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/_8s7O1OTjYc/vmturbo-rebranding-to-turbonomic.html"></link>
   </entry>
   <entry>
     <title>IBM’s Bluemix Containers: Applied Container Security</title>
@@ -500,6 +563,13 @@
     <id>tag:lostechies.com,2016-08-12:/gabrielschenker/2016/08/11/troubleshooting-containers/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/08/11/troubleshooting-containers/"></link>
+  </entry>
+  <entry>
+    <title>Buzz from the Drone Nationals</title>
+    <updated>2016-08-11T15:32:36Z</updated>
+    <id>tag:blog.codedellemc.com,2016-08-11:/2016/08/11/buzz-from-the-drone-nationals/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/08/11/buzz-from-the-drone-nationals/"></link>
   </entry>
   <entry>
     <title>Why do we have containers</title>
@@ -551,6 +621,20 @@
     <link href="http://blogs.cornell.edu/cloudification/2016/08/05/configure-jenkins-to-use-cornell-shibboleth-authentication/"></link>
   </entry>
   <entry>
+    <title>Drones Dart Across Governors Island for the Title</title>
+    <updated>2016-08-04T16:08:46Z</updated>
+    <id>tag:blog.codedellemc.com,2016-08-04:/2016/08/04/drones-dart-across-governors-island-for-the-title/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/08/04/drones-dart-across-governors-island-for-the-title/"></link>
+  </entry>
+  <entry>
+    <title>Connecting EMC, Open Source and Drones! Oh my!</title>
+    <updated>2016-08-03T14:34:48Z</updated>
+    <id>tag:blog.codedellemc.com,2016-08-03:/2016/08/03/connecting-emc-open-source-and-drones-oh-my/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/08/03/connecting-emc-open-source-and-drones-oh-my/"></link>
+  </entry>
+  <entry>
     <title>Building a CaaS for the enterprise. Part 2</title>
     <updated>2016-08-02T07:26:43Z</updated>
     <id>tag:scottydoesntknow.io,2016-08-02:/building-a-caas-for-the-enterprise-part-2/</id>
@@ -593,6 +677,13 @@
     <link href="https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/"></link>
   </entry>
   <entry>
+    <title>Apache Mesos 1.0 Integrates {code} Projects for Experimental Storage Support</title>
+    <updated>2016-07-29T13:54:25Z</updated>
+    <id>tag:blog.codedellemc.com,2016-07-29:/2016/07/29/apache-mesos-1-0-integrates-code-projects-for-experimental-storage-support/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/07/29/apache-mesos-1-0-integrates-code-projects-for-experimental-storage-support/"></link>
+  </entry>
+  <entry>
     <title>Docker Swarm Introduction (Tour Around Docker 1.12 Series)</title>
     <updated>2016-07-29T09:20:10Z</updated>
     <id>tag:technologyconversations.com,2016-07-29:/2016/07/29/docker-swarm-introduction-tour-around-docker-1-12-series/</id>
@@ -628,6 +719,13 @@
     <link href="http://blogs.cornell.edu/cloudification/2016/07/26/docker-puppet-win/"></link>
   </entry>
   <entry>
+    <title>Monitoring EMC ScaleIO with Grafana using Intel SDI’s Snap</title>
+    <updated>2016-07-26T15:00:29Z</updated>
+    <id>tag:blog.codedellemc.com,2016-07-26:/2016/07/26/monitoring-emc-scaleio-with-grafana-using-intel-sdis-snap/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/07/26/monitoring-emc-scaleio-with-grafana-using-intel-sdis-snap/"></link>
+  </entry>
+  <entry>
     <title>Using Chimp to test a Docker Compose application</title>
     <updated>2016-07-25T22:14:13Z</updated>
     <id>tag:medium.com,2016-07-25:/lucjuggery/using-chimp-to-test-a-docker-compose-application-a258a610a57e</id>
@@ -654,6 +752,13 @@
     <id>tag:nickjanetakis.com,2016-07-21:/blog/see-how-virtual-desktops-let-you-get-more-done-in-less-time</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/see-how-virtual-desktops-let-you-get-more-done-in-less-time"></link>
+  </entry>
+  <entry>
+    <title>LinuxCon Japan Wrap Up</title>
+    <updated>2016-07-20T17:00:46Z</updated>
+    <id>tag:blog.codedellemc.com,2016-07-20:/2016/07/20/linuxcon-japan-wrap-up/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/07/20/linuxcon-japan-wrap-up/"></link>
   </entry>
   <entry>
     <title>Docker.DotNet is Graduating!</title>
@@ -749,16 +854,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -777,16 +882,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -985,6 +1090,13 @@
     <link href="http://lucjuggery.com/blog/?p=681"></link>
   </entry>
   <entry>
+    <title>VMTURBO VMWORLD® 2016 SWEEPSTAKES</title>
+    <updated>2016-05-09T11:13:32-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-05-09:/~r/KendrickColeman/~3/PcYdwjDlAAQ/vmturbo-vmworld-2016-sweepstakes.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/PcYdwjDlAAQ/vmturbo-vmworld-2016-sweepstakes.html"></link>
+  </entry>
+  <entry>
     <title>Improved Dockerfile for a Node.js application</title>
     <updated>2016-05-08T18:51:00Z</updated>
     <id>tag:lucjuggery.com,2016-05-08:/blog/</id>
@@ -1132,6 +1244,13 @@
     <link href="https://ahmetalpbalkan.com/blog/docker-machine-azure"></link>
   </entry>
   <entry>
+    <title>Advice from 25 Experts on Getting Started with Javascript</title>
+    <updated>2016-03-24T09:38:08-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-03-24:/~r/KendrickColeman/~3/SarIG4zRV1E/advice-from-25-experts-on-getting-started-with-javascript.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/SarIG4zRV1E/advice-from-25-experts-on-getting-started-with-javascript.html"></link>
+  </entry>
+  <entry>
     <title>Concurrency in Go Part II</title>
     <updated>2016-03-23T15:15:53Z</updated>
     <id>tag:blog.codeship.com,2016-03-23:/concurrency-in-go-part-ii/</id>
@@ -1144,6 +1263,13 @@
     <id>tag:technologyconversations.com,2016-03-21:/2016/03/21/docker-flow-proxy-on-demand-haproxy-service-discovery-and-reconfiguration/</id>
     <content type="html"></content>
     <link href="https://technologyconversations.com/2016/03/21/docker-flow-proxy-on-demand-haproxy-service-discovery-and-reconfiguration/"></link>
+  </entry>
+  <entry>
+    <title>Latest Project with Docker Machine and RackHD</title>
+    <updated>2016-03-16T13:29:37-04:00</updated>
+    <id>tag:feedproxy.google.com,2016-03-16:/~r/KendrickColeman/~3/yH3Xce2Xo6k/latest-project-with-docker-machine-and-rackhd.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/yH3Xce2Xo6k/latest-project-with-docker-machine-and-rackhd.html"></link>
   </entry>
   <entry>
     <title>Build a SAAS App with Flask Is Getting a Complete Make over Soon</title>
@@ -1216,11 +1342,25 @@
     <link href="http://nickjanetakis.com/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware"></link>
   </entry>
   <entry>
+    <title>Total Noob Guide To Move Your Old Wired Security System to SmartThings</title>
+    <updated>2016-02-21T22:09:36-05:00</updated>
+    <id>tag:feedproxy.google.com,2016-02-21:/~r/KendrickColeman/~3/NY1HgqNv4hA/total-noob-guide-to-move-your-old-wired-security-system-to-smartthings.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/NY1HgqNv4hA/total-noob-guide-to-move-your-old-wired-security-system-to-smartthings.html"></link>
+  </entry>
+  <entry>
     <title>Docker Tips: How to Delete All Docker Containers and Images</title>
     <updated>2016-02-21T20:32:28Z</updated>
     <id>tag:www.brianchristner.io,2016-02-21:/how-to-delete-all-docker-containers-and-images/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/how-to-delete-all-docker-containers-and-images/"></link>
+  </entry>
+  <entry>
+    <title>Moving from Ruby on Rails to Node.js + Express</title>
+    <updated>2016-02-17T15:57:43-05:00</updated>
+    <id>tag:feedproxy.google.com,2016-02-17:/~r/KendrickColeman/~3/hPKV7_O1jFI/moving-from-ruby-on-rails-to-node-js-express.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/hPKV7_O1jFI/moving-from-ruby-on-rails-to-node-js-express.html"></link>
   </entry>
   <entry>
     <title>HBase Succinctly: free eBook about real-time Big Data</title>
@@ -1340,6 +1480,13 @@
     <id>tag:ahmetalpbalkan.com,2015-12-10:/blog/docker-swarm-azure</id>
     <content type="html"></content>
     <link href="https://ahmetalpbalkan.com/blog/docker-swarm-azure"></link>
+  </entry>
+  <entry>
+    <title>Use Travis CI to Update Your Website using FTP and Git</title>
+    <updated>2015-12-09T19:52:09-05:00</updated>
+    <id>tag:feedproxy.google.com,2015-12-09:/~r/KendrickColeman/~3/EUQg2uMerIM/use-travis-ci-to-update-your-website-using-ftp-and-git.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/EUQg2uMerIM/use-travis-ci-to-update-your-website-using-ftp-and-git.html"></link>
   </entry>
   <entry>
     <title>Using Docker for Rails Development</title>
@@ -1468,6 +1615,13 @@
     <link href="http://blog.loof.fr/2015/10/how-to-run-2500-webservers-on-raspberry.html"></link>
   </entry>
   <entry>
+    <title>NAKIVO Enables Converting Western Digital NAS into a VM Backup Appliance</title>
+    <updated>2015-10-13T11:40:11-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-10-13:/~r/KendrickColeman/~3/jk2gQIg7oyA/nakivo-enables-converting-western-digital-nas-into-a-vm-backup-appliance.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/jk2gQIg7oyA/nakivo-enables-converting-western-digital-nas-into-a-vm-backup-appliance.html"></link>
+  </entry>
+  <entry>
     <title>RPiDocker Challenge</title>
     <updated>2015-10-08T11:13:56+02:00</updated>
     <id>tag:blog.loof.fr,2015-10-08:/2015/10/rpidocker-challenge.html</id>
@@ -1475,11 +1629,25 @@
     <link href="http://blog.loof.fr/2015/10/rpidocker-challenge.html"></link>
   </entry>
   <entry>
+    <title>Docker Machine and Complete Customization</title>
+    <updated>2015-10-06T15:29:59-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-10-06:/~r/KendrickColeman/~3/4QZSYILVWi0/docker-machine-and-complete-customization.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/4QZSYILVWi0/docker-machine-and-complete-customization.html"></link>
+  </entry>
+  <entry>
     <title>Interested in a Docker Course?</title>
     <updated>2015-09-25T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2015-09-25:/blog/interested-in-a-docker-course</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/interested-in-a-docker-course"></link>
+  </entry>
+  <entry>
+    <title>AT&amp;T Uverse Doesn&#39;t Work With Docker Hub and They Want ME To Pay To Fix It</title>
+    <updated>2015-09-24T15:16:21-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-09-24:/~r/KendrickColeman/~3/ig-9vJWEBpY/at-t-uverse-doesn-t-work-with-docker-hub-and-they-want-me-to-pay-to-fix-it.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/ig-9vJWEBpY/at-t-uverse-doesn-t-work-with-docker-hub-and-they-want-me-to-pay-to-fix-it.html"></link>
   </entry>
   <entry>
     <title></title>
@@ -1524,11 +1692,25 @@
     <link href="http://blog.loof.fr/2015/09/moving-my-demo-to-docker.html"></link>
   </entry>
   <entry>
+    <title>CONTAINERS ARE THE FUTURE, IF … (my response)</title>
+    <updated>2015-08-26T13:57:37-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-08-26:/~r/KendrickColeman/~3/XODwxPTcqrQ/containers-are-the-future-if-my-response.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/XODwxPTcqrQ/containers-are-the-future-if-my-response.html"></link>
+  </entry>
+  <entry>
     <title>HDInsight HBase Emulator</title>
     <updated>2015-08-26T11:49:00Z</updated>
     <id>tag:blog.sixeyed.com,2015-08-26:/hdinsight-hbase-emulator/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/hdinsight-hbase-emulator/"></link>
+  </entry>
+  <entry>
+    <title>ContainerCon 2015 Slides</title>
+    <updated>2015-08-21T04:25:15-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-08-21:/~r/KendrickColeman/~3/kDbdyGqKAMk/containercon-2015-slides.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/kDbdyGqKAMk/containercon-2015-slides.html"></link>
   </entry>
   <entry>
     <title>Deploy Web Apps with Docker</title>
@@ -1545,11 +1727,32 @@
     <link href="http://blog.loof.fr/2015/08/docker-zombies.html"></link>
   </entry>
   <entry>
+    <title>Make The Embedded Libsyn Podcast Player Responsive</title>
+    <updated>2015-07-29T11:39:35-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-07-29:/~r/KendrickColeman/~3/VQsE6TJDgzA/make-the-embedded-libsyn-podcast-player-responsive.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/VQsE6TJDgzA/make-the-embedded-libsyn-podcast-player-responsive.html"></link>
+  </entry>
+  <entry>
     <title>Moving my websites to Docker</title>
     <updated>2015-07-19T13:05:48Z</updated>
     <id>tag:lucjuggery.com,2015-07-19:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=517"></link>
+  </entry>
+  <entry>
+    <title>Watch Out! Docker is Creating a New Infrastructure Platform</title>
+    <updated>2015-07-09T13:22:26-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-07-09:/~r/KendrickColeman/~3/m8XFKDZFJYc/watch-out-docker-is-creating-a-new-infrastructure-platform.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/m8XFKDZFJYc/watch-out-docker-is-creating-a-new-infrastructure-platform.html"></link>
+  </entry>
+  <entry>
+    <title>VMTurbo Has a New SaaSy Offering</title>
+    <updated>2015-07-09T10:37:19-04:00</updated>
+    <id>tag:feedproxy.google.com,2015-07-09:/~r/KendrickColeman/~3/BkUU_q_-bZ8/vmturbo-has-a-new-saasy-offering.html</id>
+    <content type="html"></content>
+    <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/BkUU_q_-bZ8/vmturbo-has-a-new-saasy-offering.html"></link>
   </entry>
   <entry>
     <title>Build a SAAS App with Flask: Part 5</title>

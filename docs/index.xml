@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-09-28T12:00:15Z</updated>
+  <updated>2016-09-29T00:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Run IIS + ASP.NET on Windows 10 with Docker</title>
+    <updated>2016-09-28T20:24:00Z</updated>
+    <id>tag:blog.alexellis.io,2016-09-28:/run-iis-asp-net-on-windows-10-with-docker/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/run-iis-asp-net-on-windows-10-with-docker/"></link>
+  </entry>
+  <entry>
+    <title>QND #4: pas bô Docker</title>
+    <updated>2016-09-28T13:47:38Z</updated>
+    <id>tag:www.youtube.com,2016-09-28:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
+  </entry>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2016-09-28T13:17:41Z</updated>
+    <id>tag:www.youtube.com,2016-09-28:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
   <entry>
     <title>1, 2, 3, GO! Run IIS in Docker on Windows Server 2016</title>
     <updated>2016-09-27T20:41:17Z</updated>
@@ -82,13 +103,6 @@
     <link href="http://www.youtube.com/watch?v=o-xmhFMZsGU"></link>
   </entry>
   <entry>
-    <title>QND #4: pas bô Docker</title>
-    <updated>2016-09-22T06:19:17Z</updated>
-    <id>tag:www.youtube.com,2016-09-22:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
-  </entry>
-  <entry>
     <title>Turn Your Raspberry Pi into Out-of-band Monitoring Device using Docker</title>
     <updated>2016-09-21T18:43:53Z</updated>
     <id>tag:collabnix.com,2016-09-21:/archives/1885</id>
@@ -122,13 +136,6 @@
     <id>tag:www.youtube.com,2016-09-20:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2016-09-20T19:33:05Z</updated>
-    <id>tag:www.youtube.com,2016-09-20:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>QND#5 : Docker4Mac et Windows</title>
@@ -826,16 +833,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -941,13 +948,6 @@
     <id>tag:scottydoesntknow.io,2016-06-27:/docker-engine-1-12-local-development-environment/</id>
     <content type="html"></content>
     <link href="https://scottydoesntknow.io/docker-engine-1-12-local-development-environment/"></link>
-  </entry>
-  <entry>
-    <title>Scale a real microservice with Docker 1.12 Swarm Mode</title>
-    <updated>2016-06-22T22:14:46Z</updated>
-    <id>tag:blog.alexellis.io,2016-06-22:/microservice-swarm-mode/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/microservice-swarm-mode/"></link>
   </entry>
   <entry>
     <title>How to run Jenkins in ElasticBeanstalk</title>
@@ -1181,18 +1181,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
-  </entry>
-  <entry>
     <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
+  </entry>
+  <entry>
+    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>
@@ -1461,18 +1461,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

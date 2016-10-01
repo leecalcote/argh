@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-01T00:00:16Z</updated>
+  <updated>2016-10-01T12:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
+    <title>IoT Dockercon Demo</title>
+    <updated>2016-10-01T09:12:03Z</updated>
+    <id>tag:www.youtube.com,2016-10-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
+  </entry>
+  <entry>
+    <title>Docker load-balanced LED cluster Raspberry Pi</title>
+    <updated>2016-10-01T09:05:22Z</updated>
+    <id>tag:www.youtube.com,2016-10-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
+  </entry>
+  <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
-    <updated>2016-09-29T22:04:44Z</updated>
-    <id>tag:www.youtube.com,2016-09-29:/watch</id>
+    <updated>2016-10-01T09:02:44Z</updated>
+    <id>tag:www.youtube.com,2016-10-01:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
   </entry>
@@ -66,13 +80,6 @@
     <id>tag:blog.sixeyed.com,2016-09-27:/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/"></link>
-  </entry>
-  <entry>
-    <title>Docker load-balanced LED cluster Raspberry Pi</title>
-    <updated>2016-09-27T17:55:27Z</updated>
-    <id>tag:www.youtube.com,2016-09-27:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
   </entry>
   <entry>
     <title>Use Docker to build, test and push your Artifacts</title>
@@ -213,13 +220,6 @@
     <id>tag:www.youtube.com,2016-09-17:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=cg4BKu7AVFs"></link>
-  </entry>
-  <entry>
-    <title>IoT Dockercon Demo</title>
-    <updated>2016-09-17T19:14:17Z</updated>
-    <id>tag:www.youtube.com,2016-09-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
   </entry>
   <entry>
     <title>4WD Robocar controlled by Raspberry PI</title>

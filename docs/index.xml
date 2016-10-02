@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-01T12:00:16Z</updated>
+  <updated>2016-10-02T00:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Docker Voting App - like never before - Windows Containers!</title>
+    <updated>2016-10-01T23:47:03Z</updated>
+    <id>tag:www.youtube.com,2016-10-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=6ULh5RWTKz0"></link>
+  </entry>
+  <entry>
+    <title>Docker load-balanced LED cluster Raspberry Pi</title>
+    <updated>2016-10-01T20:47:53Z</updated>
+    <id>tag:www.youtube.com,2016-10-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
+  </entry>
+  <entry>
+    <title>Microsoft SQL 2016 in a Windows Container with Docker</title>
+    <updated>2016-10-01T19:21:40Z</updated>
+    <id>tag:www.youtube.com,2016-10-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=vkCelpe40Nc"></link>
+  </entry>
   <entry>
     <title>IoT Dockercon Demo</title>
     <updated>2016-10-01T09:12:03Z</updated>
     <id>tag:www.youtube.com,2016-10-01:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
-  </entry>
-  <entry>
-    <title>Docker load-balanced LED cluster Raspberry Pi</title>
-    <updated>2016-10-01T09:05:22Z</updated>
-    <id>tag:www.youtube.com,2016-10-01:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
   </entry>
   <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
@@ -854,16 +868,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -882,16 +896,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -910,16 +924,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -1216,18 +1230,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
-  </entry>
-  <entry>
     <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
+  </entry>
+  <entry>
+    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>
@@ -1538,18 +1552,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

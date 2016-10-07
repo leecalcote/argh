@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-07T00:00:17Z</updated>
+  <updated>2016-10-07T12:00:19Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2016-10-07T06:53:04Z</updated>
+    <id>tag:www.youtube.com,2016-10-07:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
   <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
     <updated>2016-10-06T18:45:22Z</updated>
@@ -52,13 +59,6 @@
     <id>tag:www.youtube.com,2016-10-04:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2016-10-04T14:09:26Z</updated>
-    <id>tag:www.youtube.com,2016-10-04:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>I&#39;ve installed Docker on Windows! Now what?</title>

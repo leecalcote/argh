@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-07T12:00:19Z</updated>
+  <updated>2016-10-08T00:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#5 : Docker4Mac et Windows</title>
+    <updated>2016-10-07T22:00:59Z</updated>
+    <id>tag:www.youtube.com,2016-10-07:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
+  </entry>
   <entry>
     <title>QND#1 Docker 101</title>
     <updated>2016-10-07T06:53:04Z</updated>
@@ -248,13 +255,6 @@
     <id>tag:www.youtube.com,2016-09-20:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
-  </entry>
-  <entry>
-    <title>QND#5 : Docker4Mac et Windows</title>
-    <updated>2016-09-20T11:38:53Z</updated>
-    <id>tag:www.youtube.com,2016-09-20:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
   </entry>
   <entry>
     <title>No More Ugly Upgrades</title>

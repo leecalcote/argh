@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-09T12:00:16Z</updated>
+  <updated>2016-10-10T00:00:13Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2016-10-09T23:31:09Z</updated>
+    <id>tag:www.youtube.com,2016-10-09:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
+  <entry>
+    <title>QND #4: pas bô Docker</title>
+    <updated>2016-10-09T21:30:35Z</updated>
+    <id>tag:www.youtube.com,2016-10-09:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
+  </entry>
   <entry>
     <title>QND #2 boot2docker, docker-machine, et les volumes</title>
     <updated>2016-10-09T11:38:29Z</updated>
@@ -17,13 +31,6 @@
     <id>tag:www.youtube.com,2016-10-07:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2016-10-07T06:53:04Z</updated>
-    <id>tag:www.youtube.com,2016-10-07:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
@@ -115,13 +122,6 @@
     <id>tag:www.youtube.com,2016-10-02:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
-  </entry>
-  <entry>
-    <title>QND #4: pas bô Docker</title>
-    <updated>2016-10-02T10:32:44Z</updated>
-    <id>tag:www.youtube.com,2016-10-02:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
   </entry>
   <entry>
     <title>IoT Dockercon Demo</title>

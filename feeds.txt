@@ -25,3 +25,4 @@ https://manesh.me/tag/docker/feed/
 http://lucjuggery.com/blog/?feed=rss2&tag=docker
 http://feeds.feedburner.com/KendrickColeman?format=xml
 https://blog.codedellemc.com/feed/
+http://www.johnzaccone.io/rss/

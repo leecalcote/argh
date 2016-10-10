@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-10T00:00:13Z</updated>
+  <updated>2016-10-10T12:00:17Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Deep dive: Docker Voting App in Windows Containers</title>
+    <updated>2016-10-10T06:59:15Z</updated>
+    <id>tag:www.youtube.com,2016-10-10:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
+  </entry>
   <entry>
     <title>QND#1 Docker 101</title>
     <updated>2016-10-09T23:31:09Z</updated>
@@ -73,13 +80,6 @@
     <id>tag:www.youtube.com,2016-10-04:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=IaKRqBRq6CE"></link>
-  </entry>
-  <entry>
-    <title>Deep dive: Docker Voting App in Windows Containers</title>
-    <updated>2016-10-04T20:34:13Z</updated>
-    <id>tag:www.youtube.com,2016-10-04:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
   </entry>
   <entry>
     <title>I&#39;ve installed Docker on Windows! Now what?</title>
@@ -733,6 +733,13 @@
     <link href="https://blog.codedellemc.com/2016/08/03/connecting-emc-open-source-and-drones-oh-my/"></link>
   </entry>
   <entry>
+    <title>Node Failures In Docker Swarm</title>
+    <updated>2016-08-03T14:33:35Z</updated>
+    <id>tag:www.johnzaccone.io,2016-08-03:/node-failures-in-docker-swarm/</id>
+    <content type="html"></content>
+    <link href="http://www.johnzaccone.io/node-failures-in-docker-swarm/"></link>
+  </entry>
+  <entry>
     <title>Building a CaaS for the enterprise. Part 2</title>
     <updated>2016-08-02T07:26:43Z</updated>
     <id>tag:scottydoesntknow.io,2016-08-02:/building-a-caas-for-the-enterprise-part-2/</id>
@@ -766,6 +773,13 @@
     <id>tag:www.youtube.com,2016-07-29:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=LzYFVoxnyAI"></link>
+  </entry>
+  <entry>
+    <title>3 Node Swarm Cluster in 30 seconds (Docker 1.12)</title>
+    <updated>2016-07-29T17:31:55Z</updated>
+    <id>tag:www.johnzaccone.io,2016-07-29:/3-node-cluster-in-30-seconds/</id>
+    <content type="html"></content>
+    <link href="http://www.johnzaccone.io/3-node-cluster-in-30-seconds/"></link>
   </entry>
   <entry>
     <title>Service Discovery and Load balancing Internals in Docker 1.12</title>
@@ -896,16 +910,16 @@
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=688"></link>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
@@ -1125,6 +1139,13 @@
     <link href="https://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/"></link>
   </entry>
   <entry>
+    <title>Don&#39;t Waste Time on Unimportant Decisions</title>
+    <updated>2016-05-18T19:34:31Z</updated>
+    <id>tag:www.johnzaccone.io,2016-05-18:/host-your-ghost-blog-for-free-on-openshift/</id>
+    <content type="html"></content>
+    <link href="http://www.johnzaccone.io/host-your-ghost-blog-for-free-on-openshift/"></link>
+  </entry>
+  <entry>
     <title>How to Setup AWS Route53 to Work with Cornell-Managed DNS</title>
     <updated>2016-05-17T11:49:54Z</updated>
     <id>tag:blogs.cornell.edu,2016-05-17:/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/</id>
@@ -1251,18 +1272,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
-  </entry>
-  <entry>
     <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
+  </entry>
+  <entry>
+    <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>

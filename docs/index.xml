@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-10T12:00:17Z</updated>
+  <updated>2016-10-11T00:00:14Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>A Comparative Study of Docker Engine on Windows Server Vs Linux Platform</title>
+    <updated>2016-10-10T22:20:40Z</updated>
+    <id>tag:collabnix.com,2016-10-10:/archives/1965</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/1965"></link>
+  </entry>
+  <entry>
+    <title>Microsoft SQL 2016 in a Windows Container with Docker</title>
+    <updated>2016-10-10T20:09:34Z</updated>
+    <id>tag:www.youtube.com,2016-10-10:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=vkCelpe40Nc"></link>
+  </entry>
+  <entry>
+    <title>Running Fault Tolerant Jenkins Inside A Docker Swarm Cluster</title>
+    <updated>2016-10-10T13:39:37Z</updated>
+    <id>tag:technologyconversations.com,2016-10-10:/2016/10/10/running-fault-tolerant-jenkins-inside-a-docker-swarm-cluster/</id>
+    <content type="html"></content>
+    <link href="https://technologyconversations.com/2016/10/10/running-fault-tolerant-jenkins-inside-a-docker-swarm-cluster/"></link>
+  </entry>
   <entry>
     <title>Deep dive: Docker Voting App in Windows Containers</title>
     <updated>2016-10-10T06:59:15Z</updated>
@@ -108,13 +129,6 @@
     <id>tag:blog.sixeyed.com,2016-10-03:/windows-dockerfiles-and-the-backtick-backslash-backlash/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/windows-dockerfiles-and-the-backtick-backslash-backlash/"></link>
-  </entry>
-  <entry>
-    <title>Microsoft SQL 2016 in a Windows Container with Docker</title>
-    <updated>2016-10-03T07:10:54Z</updated>
-    <id>tag:www.youtube.com,2016-10-03:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=vkCelpe40Nc"></link>
   </entry>
   <entry>
     <title>ET SI ... Docker était resté Français</title>
@@ -810,13 +824,6 @@
     <link href="http://nickjanetakis.com/blog/transform-a-toshiba-chromebook-cb35-into-a-linux-development-environment-with-galliumos"></link>
   </entry>
   <entry>
-    <title>Demystifying Service Discovery under Docker Engine 1.12.0</title>
-    <updated>2016-07-27T11:00:32Z</updated>
-    <id>tag:collabnix.com,2016-07-27:/archives/1504</id>
-    <content type="html"></content>
-    <link href="http://collabnix.com/archives/1504"></link>
-  </entry>
-  <entry>
     <title>Docker + Puppet = Win!</title>
     <updated>2016-07-26T15:26:59Z</updated>
     <id>tag:blogs.cornell.edu,2016-07-26:/cloudification/2016/07/26/docker-puppet-win/</id>
@@ -959,16 +966,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -1489,13 +1496,6 @@
     <link href="https://www.brianchristner.io/docker-ghost-hacker-news/"></link>
   </entry>
   <entry>
-    <title>Blue-Green Deployment</title>
-    <updated>2016-02-08T16:49:27Z</updated>
-    <id>tag:technologyconversations.com,2016-02-08:/2016/02/08/blue-green-deployment/</id>
-    <content type="html"></content>
-    <link href="https://technologyconversations.com/2016/02/08/blue-green-deployment/"></link>
-  </entry>
-  <entry>
     <title>Docker Official Images are Moving to Alpine Linux</title>
     <updated>2016-02-05T13:25:04Z</updated>
     <id>tag:www.brianchristner.io,2016-02-05:/docker-is-moving-to-alpine-linux/</id>
@@ -1594,18 +1594,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

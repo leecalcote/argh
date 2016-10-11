@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-11T00:00:14Z</updated>
+  <updated>2016-10-11T12:00:15Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Docker 1.12 Swarm Mode &amp; Persistent Storage using NFS</title>
+    <updated>2016-10-11T11:47:14Z</updated>
+    <id>tag:collabnix.com,2016-10-11:/archives/2001</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2001"></link>
+  </entry>
   <entry>
     <title>A Comparative Study of Docker Engine on Windows Server Vs Linux Platform</title>
     <updated>2016-10-10T22:20:40Z</updated>
@@ -773,13 +780,6 @@
     <id>tag:blog.alexellis.io,2016-08-01:/linux-desktop-on-mac/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/linux-desktop-on-mac/"></link>
-  </entry>
-  <entry>
-    <title>Demonstrating Docker 1.12 Service Discovery with Docker Compose</title>
-    <updated>2016-07-30T14:08:07Z</updated>
-    <id>tag:collabnix.com,2016-07-30:/archives/1545</id>
-    <content type="html"></content>
-    <link href="http://collabnix.com/archives/1545"></link>
   </entry>
   <entry>
     <title>Chanson du Merci</title>
@@ -1594,18 +1594,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

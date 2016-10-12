@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-12T00:00:16Z</updated>
+  <updated>2016-10-12T12:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Deep dive: Docker Voting App in Windows Containers</title>
+    <updated>2016-10-12T04:19:08Z</updated>
+    <id>tag:www.youtube.com,2016-10-12:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
+  </entry>
   <entry>
     <title>QND#7: Docker sur ARM</title>
     <updated>2016-10-11T21:43:33Z</updated>
@@ -59,13 +66,6 @@
     <id>tag:technologyconversations.com,2016-10-10:/2016/10/10/running-fault-tolerant-jenkins-inside-a-docker-swarm-cluster/</id>
     <content type="html"></content>
     <link href="https://technologyconversations.com/2016/10/10/running-fault-tolerant-jenkins-inside-a-docker-swarm-cluster/"></link>
-  </entry>
-  <entry>
-    <title>Deep dive: Docker Voting App in Windows Containers</title>
-    <updated>2016-10-10T06:59:15Z</updated>
-    <id>tag:www.youtube.com,2016-10-10:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
   </entry>
   <entry>
     <title>QND #4: pas bô Docker</title>

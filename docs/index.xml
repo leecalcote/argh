@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-11T12:00:15Z</updated>
+  <updated>2016-10-12T00:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#7: Docker sur ARM</title>
+    <updated>2016-10-11T21:43:33Z</updated>
+    <id>tag:www.youtube.com,2016-10-11:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
+  </entry>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2016-10-11T21:42:45Z</updated>
+    <id>tag:www.youtube.com,2016-10-11:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
+  <entry>
+    <title>RackHD Machine Driver v0.2.0</title>
+    <updated>2016-10-11T16:47:56Z</updated>
+    <id>tag:blog.codedellemc.com,2016-10-11:/2016/10/11/rackhd-machine-driver-v0-2-0/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2016/10/11/rackhd-machine-driver-v0-2-0/"></link>
+  </entry>
+  <entry>
+    <title>Class Roster – Launching Scheduler in the Cloud</title>
+    <updated>2016-10-11T12:14:55Z</updated>
+    <id>tag:blogs.cornell.edu,2016-10-11:/cloudification/2016/10/11/class-roster-launching-scheduler-in-the-cloud/</id>
+    <content type="html"></content>
+    <link href="http://blogs.cornell.edu/cloudification/2016/10/11/class-roster-launching-scheduler-in-the-cloud/"></link>
+  </entry>
   <entry>
     <title>Docker 1.12 Swarm Mode &amp; Persistent Storage using NFS</title>
     <updated>2016-10-11T11:47:14Z</updated>
@@ -38,13 +66,6 @@
     <id>tag:www.youtube.com,2016-10-10:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2016-10-09T23:31:09Z</updated>
-    <id>tag:www.youtube.com,2016-10-09:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>QND #4: pas bô Docker</title>
@@ -332,13 +353,6 @@
     <id>tag:www.youtube.com,2016-09-17:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=C0XxyOlDBjk"></link>
-  </entry>
-  <entry>
-    <title>QND#7: Docker sur ARM</title>
-    <updated>2016-09-15T19:21:21Z</updated>
-    <id>tag:www.youtube.com,2016-09-15:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
   </entry>
   <entry>
     <title>Docker-Slaves 1.0 released</title>
@@ -803,13 +817,6 @@
     <link href="https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/"></link>
   </entry>
   <entry>
-    <title>Apache Mesos 1.0 Integrates {code} Projects for Experimental Storage Support</title>
-    <updated>2016-07-29T13:54:25Z</updated>
-    <id>tag:blog.codedellemc.com,2016-07-29:/2016/07/29/apache-mesos-1-0-integrates-code-projects-for-experimental-storage-support/</id>
-    <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2016/07/29/apache-mesos-1-0-integrates-code-projects-for-experimental-storage-support/"></link>
-  </entry>
-  <entry>
     <title>Docker Swarm Introduction (Tour Around Docker 1.12 Series)</title>
     <updated>2016-07-29T09:20:10Z</updated>
     <id>tag:technologyconversations.com,2016-07-29:/2016/07/29/docker-swarm-introduction-tour-around-docker-1-12-series/</id>
@@ -945,16 +952,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -966,16 +973,16 @@
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
     <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -1151,13 +1158,6 @@
     <id>tag:www.johnzaccone.io,2016-05-18:/host-your-ghost-blog-for-free-on-openshift/</id>
     <content type="html"></content>
     <link href="http://www.johnzaccone.io/host-your-ghost-blog-for-free-on-openshift/"></link>
-  </entry>
-  <entry>
-    <title>How to Setup AWS Route53 to Work with Cornell-Managed DNS</title>
-    <updated>2016-05-17T11:49:54Z</updated>
-    <id>tag:blogs.cornell.edu,2016-05-17:/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/</id>
-    <content type="html"></content>
-    <link href="http://blogs.cornell.edu/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/"></link>
   </entry>
   <entry>
     <title>Production Docker Swarm on Azure: Why You Should Use PowerShell and Docker Machine</title>
@@ -1594,18 +1594,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-13T00:00:16Z</updated>
+  <updated>2016-10-13T12:00:15Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -467,48 +467,6 @@
     <link href="https://lostechies.com/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/"></link>
   </entry>
   <entry>
-    <title>Docker for AWS – Deployment options</title>
-    <updated>2016-09-03T06:38:58Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-for-aws-deployment-options/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-for-aws-deployment-options/"></link>
-  </entry>
-  <entry>
-    <title>AWS ECS – Docker Container service</title>
-    <updated>2016-09-03T06:36:10Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/aws-ecs-docker-container-service/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/09/03/aws-ecs-docker-container-service/"></link>
-  </entry>
-  <entry>
-    <title>Docker Datacenter for AWS</title>
-    <updated>2016-09-03T06:33:40Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-datacenter-for-aws/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-datacenter-for-aws/"></link>
-  </entry>
-  <entry>
-    <title>Docker Cloud for AWS</title>
-    <updated>2016-09-03T06:30:40Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-cloud-for-aws/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-cloud-for-aws/"></link>
-  </entry>
-  <entry>
-    <title>Docker for AWS beta</title>
-    <updated>2016-09-03T06:29:11Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-for-aws-beta/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-for-aws-beta/"></link>
-  </entry>
-  <entry>
-    <title>Docker-machine for AWS</title>
-    <updated>2016-09-03T06:26:35Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-09-03:/2016/09/03/docker-machine-for-aws/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/09/03/docker-machine-for-aws/"></link>
-  </entry>
-  <entry>
     <title>What’s new in Docker 1.12 Scheduling? – Part-I</title>
     <updated>2016-09-03T04:36:52Z</updated>
     <id>tag:collabnix.com,2016-09-03:/archives/1738</id>
@@ -817,13 +775,6 @@
     <link href="http://www.johnzaccone.io/3-node-cluster-in-30-seconds/"></link>
   </entry>
   <entry>
-    <title>Service Discovery and Load balancing Internals in Docker 1.12</title>
-    <updated>2016-07-29T16:58:32Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-07-29:/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/"></link>
-  </entry>
-  <entry>
     <title>Docker Swarm Introduction (Tour Around Docker 1.12 Series)</title>
     <updated>2016-07-29T09:20:10Z</updated>
     <id>tag:technologyconversations.com,2016-07-29:/2016/07/29/docker-swarm-introduction-tour-around-docker-1-12-series/</id>
@@ -887,13 +838,6 @@
     <link href="http://nickjanetakis.com/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it"></link>
   </entry>
   <entry>
-    <title>Comparing Swarm, Swarmkit and Swarm Mode</title>
-    <updated>2016-07-14T14:16:19Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-07-14:/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/"></link>
-  </entry>
-  <entry>
     <title>DockerCon Seattle: Follow-up Thoughts</title>
     <updated>2016-07-12T20:24:52Z</updated>
     <id>tag:integratedcode.us,2016-07-12:/2016/07/12/dockercon-seattle-follow-up-thoughts/</id>
@@ -941,13 +885,6 @@
     <id>tag:blog.sixeyed.com,2016-07-10:/hadoop-and-net-core-a-match-made-in-docker/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/hadoop-and-net-core-a-match-made-in-docker/"></link>
-  </entry>
-  <entry>
-    <title>Docker Security presentation at Bangalore meetup</title>
-    <updated>2016-07-09T13:46:41Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-07-09:/2016/07/09/docker-security-presentation-at-bangalore-meetup/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/07/09/docker-security-presentation-at-bangalore-meetup/"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
@@ -1060,13 +997,6 @@
     <id>tag:gianarb.it,2016-06-20:/blog/docker-1-12-orchestration-built-in</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-1-12-orchestration-built-in"></link>
-  </entry>
-  <entry>
-    <title>Mesos DC/OS Hands-On</title>
-    <updated>2016-06-19T15:55:27Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-06-19:/2016/06/19/mesos-dcos-hands-on/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/06/19/mesos-dcos-hands-on/"></link>
   </entry>
   <entry>
     <title>NGINX as a Reverse Proxy for Docker Swarm Clusters</title>
@@ -1594,18 +1524,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

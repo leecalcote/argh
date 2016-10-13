@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-12T12:00:16Z</updated>
+  <updated>2016-10-13T00:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#3 Docker Images: le grand plongeon</title>
+    <updated>2016-10-12T21:51:28Z</updated>
+    <id>tag:www.youtube.com,2016-10-12:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
+  </entry>
   <entry>
     <title>Deep dive: Docker Voting App in Windows Containers</title>
     <updated>2016-10-12T04:19:08Z</updated>
@@ -852,13 +859,6 @@
     <link href="http://www.youtube.com/watch?v=HonFSXDp08Q"></link>
   </entry>
   <entry>
-    <title>QND#3 Docker Images: le grand plongeon</title>
-    <updated>2016-07-21T09:41:58Z</updated>
-    <id>tag:www.youtube.com,2016-07-21:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
-  </entry>
-  <entry>
     <title>See How Virtual Desktops Let You Get More Done in Less Time</title>
     <updated>2016-07-21T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-07-21:/blog/see-how-virtual-desktops-let-you-get-more-done-in-less-time</id>
@@ -952,16 +952,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -1279,18 +1279,18 @@
     <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
   </entry>
   <entry>
-    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
-  </entry>
-  <entry>
     <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
     <updated>2016-04-13T00:00:00Z</updated>
     <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
     <content type="html"></content>
     <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
+  </entry>
+  <entry>
+    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
+    <updated>2016-04-13T00:00:00Z</updated>
+    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
+    <content type="html"></content>
+    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
   </entry>
   <entry>
     <title>Results after Using a Standing Desk for 3 Months</title>
@@ -1594,18 +1594,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

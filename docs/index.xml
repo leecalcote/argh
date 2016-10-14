@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-14T00:00:16Z</updated>
+  <updated>2016-10-14T12:00:16Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Keeping Shipping your blog with Docker volumes</title>
+    <updated>2016-10-14T09:49:20Z</updated>
+    <id>tag:blog.alexellis.io,2016-10-14:/keeping-shipping-your-blog/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/keeping-shipping-your-blog/"></link>
+  </entry>
   <entry>
     <title>QND#5 : Docker4Mac et Windows</title>
     <updated>2016-10-13T20:57:01Z</updated>
@@ -675,13 +682,6 @@
     <id>tag:blog.codeship.com,2016-08-18:/building-a-remote-caching-system/</id>
     <content type="html"></content>
     <link href="https://blog.codeship.com/building-a-remote-caching-system/"></link>
-  </entry>
-  <entry>
-    <title>Get Started with Docker 1.12 on Raspberry Pi</title>
-    <updated>2016-08-17T21:38:00Z</updated>
-    <id>tag:blog.alexellis.io,2016-08-17:/getting-started-with-docker-on-raspberry-pi/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/"></link>
   </entry>
   <entry>
     <title>VMTurbo rebranding to Turbonomic</title>

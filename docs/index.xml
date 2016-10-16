@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-16T00:00:14Z</updated>
+  <updated>2016-10-16T12:00:14Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
+    <updated>2016-10-16T10:41:56Z</updated>
+    <id>tag:www.youtube.com,2016-10-16:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
+  </entry>
   <entry>
     <title>Docker Announcements, Wienerschnitzel, and Presentation Links from ContainerCon Berlin 2016</title>
     <updated>2016-10-14T16:36:18Z</updated>
@@ -710,13 +717,6 @@
     <id>tag:lostechies.com,2016-08-14:/gabrielschenker/2016/08/14/containers-clean-up-your-house/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/"></link>
-  </entry>
-  <entry>
-    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
-    <updated>2016-08-12T22:58:35Z</updated>
-    <id>tag:www.youtube.com,2016-08-12:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
   </entry>
   <entry>
     <title>Troubleshooting Containers</title>

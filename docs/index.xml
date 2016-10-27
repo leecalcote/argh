@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-26T10:31:38+02:00</updated>
+  <updated>2016-10-28T00:01:56+01:00</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>3 Steps to MSBuild with Docker</title>
+    <updated>2016-10-27T22:11:23Z</updated>
+    <id>tag:www.youtube.com,2016-10-27:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=F6IxCMyYoi0"></link>
+  </entry>
+  <entry>
+    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
+    <updated>2016-10-27T11:43:39Z</updated>
+    <id>tag:www.youtube.com,2016-10-27:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
+  </entry>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2016-10-27T05:33:42Z</updated>
+    <id>tag:www.youtube.com,2016-10-27:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
+  <entry>
+    <title>QND#5 : Docker4Mac et Windows</title>
+    <updated>2016-10-26T21:41:18Z</updated>
+    <id>tag:www.youtube.com,2016-10-26:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
+  </entry>
+  <entry>
+    <title>3 Steps to MSBuild with Docker</title>
+    <updated>2016-10-26T19:55:15+01:00</updated>
+    <id>tag:blog.alexellis.io,2016-10-26:/3-steps-to-msbuild-with-docker/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/3-steps-to-msbuild-with-docker/"></link>
+  </entry>
   <entry>
     <title>QND#7: Docker sur ARM</title>
     <updated>2016-10-25T19:01:11Z</updated>
@@ -20,14 +55,14 @@
   </entry>
   <entry>
     <title>How to protect a Windows 2016 Docker engine with TLS</title>
-    <updated>2016-10-23T22:35:19Z</updated>
+    <updated>2016-10-23T23:35:19+01:00</updated>
     <id>tag:stefanscherer.github.io,2016-10-23:/protecting-a-windows-2016-docker-engine-with-tls/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/protecting-a-windows-2016-docker-engine-with-tls/"></link>
   </entry>
   <entry>
     <title>Packaging Redis for Windows Containers</title>
-    <updated>2016-10-23T18:34:00Z</updated>
+    <updated>2016-10-23T19:34:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-10-23:/packaging-windows-containers/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/packaging-windows-containers/"></link>
@@ -75,13 +110,6 @@
     <link href="http://www.youtube.com/watch?v=afJGqpN3iGs"></link>
   </entry>
   <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
-    <updated>2016-10-23T02:25:23Z</updated>
-    <id>tag:www.youtube.com,2016-10-23:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
-  </entry>
-  <entry>
     <title>Docker and Swarmkit – Part 4</title>
     <updated>2016-10-22T23:31:22Z</updated>
     <id>tag:lostechies.com,2016-10-22:/gabrielschenker/2016/10/22/docker-and-swarmkit-part-4/</id>
@@ -97,8 +125,8 @@
   </entry>
   <entry>
     <title>Published Ports On Windows Containers Don&#39;t Do Loopback</title>
-    <updated>2016-10-20T23:07:56Z</updated>
-    <id>tag:blog.sixeyed.com,2016-10-20:/published-ports-on-windows-containers-dont-do-loopback/</id>
+    <updated>2016-10-21T00:07:56+01:00</updated>
+    <id>tag:blog.sixeyed.com,2016-10-21:/published-ports-on-windows-containers-dont-do-loopback/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/published-ports-on-windows-containers-dont-do-loopback/"></link>
   </entry>
@@ -108,20 +136,6 @@
     <id>tag:blog.codedellemc.com,2016-10-20:/2016/10/19/introducing-rackhd-cli/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2016/10/19/introducing-rackhd-cli/"></link>
-  </entry>
-  <entry>
-    <title>QND#5 : Docker4Mac et Windows</title>
-    <updated>2016-10-19T11:20:18Z</updated>
-    <id>tag:www.youtube.com,2016-10-19:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2016-10-17T21:52:31Z</updated>
-    <id>tag:www.youtube.com,2016-10-17:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>QND#6 : Docker 1.11, Containerd et RunC</title>
@@ -139,7 +153,7 @@
   </entry>
   <entry>
     <title>Keeping Shipping your blog with Docker volumes</title>
-    <updated>2016-10-14T09:49:00Z</updated>
+    <updated>2016-10-14T10:49:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-10-14:/keeping-shipping-your-blog/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/keeping-shipping-your-blog/"></link>
@@ -153,7 +167,7 @@
   </entry>
   <entry>
     <title>Docker&#39;s #BerlinSummit</title>
-    <updated>2016-10-13T20:30:36Z</updated>
+    <updated>2016-10-13T21:30:36+01:00</updated>
     <id>tag:blog.alexellis.io,2016-10-13:/docker-berlinsummit-2016/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/docker-berlinsummit-2016/"></link>
@@ -251,8 +265,8 @@
   </entry>
   <entry>
     <title>Dockerizing Nerd Dinner: Part 1, Running a Legacy ASP.NET App in a Windows Container</title>
-    <updated>2016-10-05T23:05:40Z</updated>
-    <id>tag:blog.sixeyed.com,2016-10-05:/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/</id>
+    <updated>2016-10-06T00:05:40+01:00</updated>
+    <id>tag:blog.sixeyed.com,2016-10-06:/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/"></link>
   </entry>
@@ -265,7 +279,7 @@
   </entry>
   <entry>
     <title>First look: Jenkins CI with Windows Containers and Docker</title>
-    <updated>2016-10-05T08:21:12Z</updated>
+    <updated>2016-10-05T09:21:12+01:00</updated>
     <id>tag:blog.alexellis.io,2016-10-05:/continuous-integration-docker-windows-containers/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/continuous-integration-docker-windows-containers/"></link>
@@ -279,31 +293,24 @@
   </entry>
   <entry>
     <title>I&#39;ve installed Docker on Windows! Now what?</title>
-    <updated>2016-10-04T10:37:53Z</updated>
+    <updated>2016-10-04T11:37:53+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-10-04:/ve-installed-docker-on-windows-now-what/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/ve-installed-docker-on-windows-now-what/"></link>
   </entry>
   <entry>
     <title>Docker with Microsoft SQL 2016 + ASP.NET</title>
-    <updated>2016-10-03T16:19:00Z</updated>
+    <updated>2016-10-03T17:19:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-10-03:/docker-does-sql2016-aspnet/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/docker-does-sql2016-aspnet/"></link>
   </entry>
   <entry>
     <title>Windows, Dockerfiles and the Backtick Backslash Backlash</title>
-    <updated>2016-10-03T11:31:41Z</updated>
+    <updated>2016-10-03T12:31:41+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-10-03:/windows-dockerfiles-and-the-backtick-backslash-backlash/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/windows-dockerfiles-and-the-backtick-backslash-backlash/"></link>
-  </entry>
-  <entry>
-    <title>IoT Dockercon Demo</title>
-    <updated>2016-10-01T09:12:03Z</updated>
-    <id>tag:www.youtube.com,2016-10-01:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=NzrxwsAs_Vw"></link>
   </entry>
   <entry>
     <title>What’s the story of Docker Compose under Docker 1.12.1 “Swarm Mode”?</title>
@@ -321,7 +328,7 @@
   </entry>
   <entry>
     <title>An Overview of .NET and Containers</title>
-    <updated>2016-09-29T16:26:19Z</updated>
+    <updated>2016-09-29T17:26:19+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-29:/docker-dotnet-containers/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/docker-dotnet-containers/"></link>
@@ -335,14 +342,14 @@
   </entry>
   <entry>
     <title>Run IIS + ASP.NET on Windows 10 with Docker</title>
-    <updated>2016-09-28T20:24:00Z</updated>
+    <updated>2016-09-28T21:24:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-28:/run-iis-asp-net-on-windows-10-with-docker/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/run-iis-asp-net-on-windows-10-with-docker/"></link>
   </entry>
   <entry>
     <title>1, 2, 3, GO! Run IIS in Docker on Windows Server 2016</title>
-    <updated>2016-09-27T20:41:17Z</updated>
+    <updated>2016-09-27T21:41:17+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-09-27:/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/"></link>
@@ -356,7 +363,7 @@
   </entry>
   <entry>
     <title>MongoDB replica set on swarm mode</title>
-    <updated>2016-09-26T16:07:19Z</updated>
+    <updated>2016-09-26T17:07:19+01:00</updated>
     <id>tag:medium.com,2016-09-26:/lucjuggery/mongodb-replica-set-on-swarm-mode-45d66bc9245</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/mongodb-replica-set-on-swarm-mode-45d66bc9245?source=rss----993cf4324c50---4"></link>
@@ -377,7 +384,7 @@
   </entry>
   <entry>
     <title>5 things about Docker on Raspberry Pi</title>
-    <updated>2016-09-25T17:17:00Z</updated>
+    <updated>2016-09-25T18:17:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-25:/5-things-docker-rpi/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/5-things-docker-rpi/"></link>
@@ -391,7 +398,7 @@
   </entry>
   <entry>
     <title>Run Linux and Windows Containers on Windows 10</title>
-    <updated>2016-09-24T12:55:29Z</updated>
+    <updated>2016-09-24T13:55:29+01:00</updated>
     <id>tag:stefanscherer.github.io,2016-09-24:/run-linux-and-windows-containers-on-windows-10/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/run-linux-and-windows-containers-on-windows-10/"></link>
@@ -426,14 +433,14 @@
   </entry>
   <entry>
     <title>Docker and IoT at Agile Peterborough</title>
-    <updated>2016-09-21T13:44:27Z</updated>
+    <updated>2016-09-21T14:44:27+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-21:/docker-iot-agile-pbo/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/docker-iot-agile-pbo/"></link>
   </entry>
   <entry>
     <title>No More Ugly Upgrades</title>
-    <updated>2016-09-19T18:34:00Z</updated>
+    <updated>2016-09-19T19:34:00+01:00</updated>
     <id>tag:www.brianchristner.io,2016-09-19:/no-more-ugly-upgrades/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/no-more-ugly-upgrades/"></link>
@@ -461,7 +468,7 @@
   </entry>
   <entry>
     <title>Build your PiZero Swarm with OTG networking</title>
-    <updated>2016-09-14T18:56:00Z</updated>
+    <updated>2016-09-14T19:56:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-14:/pizero-otg-swarm/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/pizero-otg-swarm/"></link>
@@ -489,14 +496,14 @@
   </entry>
   <entry>
     <title>Test-drive Docker Healthcheck in 10 minutes</title>
-    <updated>2016-09-12T20:47:30Z</updated>
+    <updated>2016-09-12T21:47:30+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-12:/test-drive-healthcheck/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/test-drive-healthcheck/"></link>
   </entry>
   <entry>
     <title>Running swarm mode on an ARM / x64 hybrid cluster</title>
-    <updated>2016-09-12T20:23:51Z</updated>
+    <updated>2016-09-12T21:23:51+01:00</updated>
     <id>tag:medium.com,2016-09-12:/lucjuggery/running-swarm-mode-on-an-arm-x64-hybrid-cluster-64bf9276ebce</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/running-swarm-mode-on-an-arm-x64-hybrid-cluster-64bf9276ebce?source=rss----993cf4324c50---4"></link>
@@ -510,14 +517,14 @@
   </entry>
   <entry>
     <title>Docker for AWS : zoom on ELB</title>
-    <updated>2016-09-11T08:06:31Z</updated>
+    <updated>2016-09-11T09:06:31+01:00</updated>
     <id>tag:medium.com,2016-09-11:/lucjuggery/docker-for-aws-zoom-on-elb-8236ce0590e</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/docker-for-aws-zoom-on-elb-8236ce0590e?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Contain Yourself! in London</title>
-    <updated>2016-09-10T08:41:00Z</updated>
+    <updated>2016-09-10T09:41:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-10:/contain-yourself-in-london/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/contain-yourself-in-london/"></link>
@@ -538,7 +545,7 @@
   </entry>
   <entry>
     <title>Docker Comes to Peterborough</title>
-    <updated>2016-09-07T15:33:53Z</updated>
+    <updated>2016-09-07T16:33:53+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-07:/dpip-ftw/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/dpip-ftw/"></link>
@@ -615,14 +622,14 @@
   </entry>
   <entry>
     <title>Jenkins makes a UX splash with Blue Ocean</title>
-    <updated>2016-09-02T20:48:00Z</updated>
+    <updated>2016-09-02T21:48:00+01:00</updated>
     <id>tag:blog.alexellis.io,2016-09-02:/jenkins-splashes-with-blue-ocean/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/jenkins-splashes-with-blue-ocean/"></link>
   </entry>
   <entry>
     <title>Windows Containers and Docker: The 5 Things You Need to Know</title>
-    <updated>2016-08-31T22:01:54Z</updated>
+    <updated>2016-08-31T23:01:54+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-08-31:/windows-containers-and-docker-5-things-you-need-to-know/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/windows-containers-and-docker-5-things-you-need-to-know/"></link>
@@ -640,13 +647,6 @@
     <id>tag:scottydoesntknow.io,2016-08-30:/docker-remote-apis-meets-eye/</id>
     <content type="html"></content>
     <link href="https://scottydoesntknow.io/docker-remote-apis-meets-eye/"></link>
-  </entry>
-  <entry>
-    <title>Live Deep Dive - Docker Swarm Mode on the Pi</title>
-    <updated>2016-08-27T21:55:23Z</updated>
-    <id>tag:blog.alexellis.io,2016-08-27:/live-deep-dive-pi-swarm/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/live-deep-dive-pi-swarm/"></link>
   </entry>
   <entry>
     <title>Containers – An Index</title>
@@ -685,7 +685,7 @@
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>
-    <updated>2016-08-24T19:28:50Z</updated>
+    <updated>2016-08-24T20:28:50+01:00</updated>
     <id>tag:medium.com,2016-08-24:/lucjuggery/docker-apparmor-30-000-foot-view-60c5a5deb7b</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/docker-apparmor-30-000-foot-view-60c5a5deb7b?source=rss----993cf4324c50---4"></link>
@@ -776,7 +776,7 @@
   </entry>
   <entry>
     <title>Setup GitLab using AWS services</title>
-    <updated>2016-08-09T13:22:57Z</updated>
+    <updated>2016-08-09T14:22:57+01:00</updated>
     <id>tag:medium.com,2016-08-09:/lucjuggery/setup-gitlab-using-aws-services-4f6d314393d</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/setup-gitlab-using-aws-services-4f6d314393d?source=rss----993cf4324c50---4"></link>
@@ -790,7 +790,7 @@
   </entry>
   <entry>
     <title>Use Logentries with Docker Compose application</title>
-    <updated>2016-08-07T17:04:24Z</updated>
+    <updated>2016-08-07T18:04:24+01:00</updated>
     <id>tag:medium.com,2016-08-07:/lucjuggery/use-logentries-with-docker-compose-application-dad1def7940c</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/use-logentries-with-docker-compose-application-dad1def7940c?source=rss----993cf4324c50---4"></link>
@@ -804,14 +804,14 @@
   </entry>
   <entry>
     <title>Adding Hyper-V support to 2016 TP5 Docker VM</title>
-    <updated>2016-08-04T19:59:37Z</updated>
+    <updated>2016-08-04T20:59:37+01:00</updated>
     <id>tag:stefanscherer.github.io,2016-08-04:/adding-hyper-v-support-to-2016-tp5-docker-vm/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/adding-hyper-v-support-to-2016-tp5-docker-vm/"></link>
   </entry>
   <entry>
     <title>Node Failures In Docker Swarm</title>
-    <updated>2016-08-03T14:33:35Z</updated>
+    <updated>2016-08-03T15:33:35+01:00</updated>
     <id>tag:www.johnzaccone.io,2016-08-03:/node-failures-in-docker-swarm/</id>
     <content type="html"></content>
     <link href="http://www.johnzaccone.io/node-failures-in-docker-swarm/"></link>
@@ -839,7 +839,7 @@
   </entry>
   <entry>
     <title>3 Node Swarm Cluster in 30 seconds (Docker 1.12)</title>
-    <updated>2016-07-29T17:31:55Z</updated>
+    <updated>2016-07-29T18:31:55+01:00</updated>
     <id>tag:www.johnzaccone.io,2016-07-29:/3-node-cluster-in-30-seconds/</id>
     <content type="html"></content>
     <link href="http://www.johnzaccone.io/3-node-cluster-in-30-seconds/"></link>
@@ -874,7 +874,7 @@
   </entry>
   <entry>
     <title>Using Chimp to test a Docker Compose application</title>
-    <updated>2016-07-25T22:14:13Z</updated>
+    <updated>2016-07-25T23:14:13+01:00</updated>
     <id>tag:medium.com,2016-07-25:/lucjuggery/using-chimp-to-test-a-docker-compose-application-a258a610a57e</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/using-chimp-to-test-a-docker-compose-application-a258a610a57e?source=rss----993cf4324c50---4"></link>
@@ -895,7 +895,7 @@
   </entry>
   <entry>
     <title>Updated: Docker Monitoring Prometheus + Grafana</title>
-    <updated>2016-07-18T07:33:00Z</updated>
+    <updated>2016-07-18T08:33:00+01:00</updated>
     <id>tag:www.brianchristner.io,2016-07-18:/updated-docker-monitoring-prometheus-grafana/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/updated-docker-monitoring-prometheus-grafana/"></link>
@@ -923,7 +923,7 @@
   </entry>
   <entry>
     <title>Setting up a Mail Forwarder in Docker</title>
-    <updated>2016-07-12T05:22:00Z</updated>
+    <updated>2016-07-12T06:22:00+01:00</updated>
     <id>tag:www.brianchristner.io,2016-07-12:/setting-up-a-mail-forwarder-in-docker/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/setting-up-a-mail-forwarder-in-docker/"></link>
@@ -944,21 +944,21 @@
   </entry>
   <entry>
     <title>Discovering Docker for AWS</title>
+    <updated>2016-07-10T21:55:35+01:00</updated>
+    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
+  </entry>
+  <entry>
+    <title>Discovering Docker for AWS</title>
     <updated>2016-07-10T20:55:35Z</updated>
     <id>tag:lucjuggery.com,2016-07-10:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=688"></link>
   </entry>
   <entry>
-    <title>Discovering Docker for AWS</title>
-    <updated>2016-07-10T20:55:35Z</updated>
-    <id>tag:medium.com,2016-07-10:/lucjuggery/discovering-docker-for-aws-caad873ebe91</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-for-aws-caad873ebe91?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
     <title>Hadoop and .NET: A Match Made in Docker</title>
-    <updated>2016-07-10T06:38:00Z</updated>
+    <updated>2016-07-10T07:38:00+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-07-10:/hadoop-and-net-core-a-match-made-in-docker/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/hadoop-and-net-core-a-match-made-in-docker/"></link>
@@ -973,16 +973,16 @@
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
-    <title>My first try with DAB (aka Distributed Application Bundle)</title>
-    <updated>2016-07-08T11:13:05Z</updated>
     <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
     <link href="http://lucjuggery.com/blog/?p=632"></link>
+  </entry>
+  <entry>
+    <title>My first try with DAB (aka Distributed Application Bundle)</title>
+    <updated>2016-07-08T12:13:05+01:00</updated>
+    <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
     <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
@@ -1000,7 +1000,7 @@
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
-    <updated>2016-07-07T21:13:11Z</updated>
+    <updated>2016-07-07T22:13:11+01:00</updated>
     <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
@@ -1056,7 +1056,7 @@
   </entry>
   <entry>
     <title>How to use Docker 1.12 Built-In Orchestration and Service Creation</title>
-    <updated>2016-06-21T06:50:00Z</updated>
+    <updated>2016-06-21T07:50:00+01:00</updated>
     <id>tag:www.brianchristner.io,2016-06-21:/docker_1-12_builtin_orchestration/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/docker_1-12_builtin_orchestration/"></link>
@@ -1098,7 +1098,7 @@
   </entry>
   <entry>
     <title>Docker + Backup = Dockup</title>
-    <updated>2016-06-14T06:32:17Z</updated>
+    <updated>2016-06-14T07:32:17+01:00</updated>
     <id>tag:www.brianchristner.io,2016-06-14:/docker-backup-dockup/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/docker-backup-dockup/"></link>
@@ -1147,7 +1147,7 @@
   </entry>
   <entry>
     <title>Querying Elasticsearch with PowerBI</title>
-    <updated>2016-06-06T13:41:40Z</updated>
+    <updated>2016-06-06T14:41:40+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-06-06:/querying-elasticsearch-with-powerbi/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/querying-elasticsearch-with-powerbi/"></link>
@@ -1168,21 +1168,21 @@
   </entry>
   <entry>
     <title>How to build a Node.js Nano Server Docker base image</title>
-    <updated>2016-05-29T18:00:53Z</updated>
+    <updated>2016-05-29T19:00:53+01:00</updated>
     <id>tag:stefanscherer.github.io,2016-05-29:/how-to-build-nodejs-nanoserver-image/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/"></link>
   </entry>
   <entry>
     <title>Don&#39;t Waste Time on Unimportant Decisions</title>
-    <updated>2016-05-18T19:34:31Z</updated>
+    <updated>2016-05-18T20:34:31+01:00</updated>
     <id>tag:www.johnzaccone.io,2016-05-18:/host-your-ghost-blog-for-free-on-openshift/</id>
     <content type="html"></content>
     <link href="http://www.johnzaccone.io/host-your-ghost-blog-for-free-on-openshift/"></link>
   </entry>
   <entry>
     <title>Production Docker Swarm on Azure: Why You Should Use PowerShell and Docker Machine</title>
-    <updated>2016-05-13T15:33:44Z</updated>
+    <updated>2016-05-13T16:33:44+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-05-13:/production-docker-swarm-on-azure-why-you-should-use-powershell-and-docker-machine/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/production-docker-swarm-on-azure-why-you-should-use-powershell-and-docker-machine/"></link>
@@ -1224,7 +1224,7 @@
   </entry>
   <entry>
     <title>Docker Cleanup Scripts Comparison</title>
-    <updated>2016-05-03T19:11:13Z</updated>
+    <updated>2016-05-03T20:11:13+01:00</updated>
     <id>tag:www.brianchristner.io,2016-05-03:/docker-cleanup-script-comparison/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/docker-cleanup-script-comparison/"></link>
@@ -1238,14 +1238,14 @@
   </entry>
   <entry>
     <title>Setup a local Windows 2016 TP5 Docker VM</title>
-    <updated>2016-05-01T08:43:00Z</updated>
+    <updated>2016-05-01T09:43:00+01:00</updated>
     <id>tag:stefanscherer.github.io,2016-05-01:/setup-local-windows-2016-tp5-docker-vm/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/setup-local-windows-2016-tp5-docker-vm/"></link>
   </entry>
   <entry>
     <title>First impressions of Docker on Windows 2016 TP5</title>
-    <updated>2016-04-29T00:11:03Z</updated>
+    <updated>2016-04-29T01:11:03+01:00</updated>
     <id>tag:stefanscherer.github.io,2016-04-29:/first-impressions-of-windows-2016-tp5/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/first-impressions-of-windows-2016-tp5/"></link>
@@ -1336,7 +1336,7 @@
   </entry>
   <entry>
     <title>Review: Docker for Mac</title>
-    <updated>2016-03-30T07:49:12Z</updated>
+    <updated>2016-03-30T08:49:12+01:00</updated>
     <id>tag:www.brianchristner.io,2016-03-30:/review-docker-for-mac/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/review-docker-for-mac/"></link>
@@ -1826,7 +1826,7 @@
   </entry>
   <entry>
     <title>Running .NET Core apps in a Docker container</title>
-    <updated>2015-09-16T16:28:37Z</updated>
+    <updated>2015-09-16T17:28:37+01:00</updated>
     <id>tag:blog.sixeyed.com,2015-09-16:/running-net-core-apps-in-a-linux-container/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/running-net-core-apps-in-a-linux-container/"></link>
@@ -1847,7 +1847,7 @@
   </entry>
   <entry>
     <title>Kitematic meets Windows Docker</title>
-    <updated>2015-09-08T22:03:23Z</updated>
+    <updated>2015-09-08T23:03:23+01:00</updated>
     <id>tag:stefanscherer.github.io,2015-09-08:/kitematic-meets-windows-docker/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/kitematic-meets-windows-docker/"></link>
@@ -1861,14 +1861,14 @@
   </entry>
   <entry>
     <title>HDInsight HBase Emulator</title>
-    <updated>2015-08-26T11:49:00Z</updated>
+    <updated>2015-08-26T12:49:00+01:00</updated>
     <id>tag:blog.sixeyed.com,2015-08-26:/hdinsight-hbase-emulator/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/hdinsight-hbase-emulator/"></link>
   </entry>
   <entry>
     <title>Create a Node.js Container image for Windows</title>
-    <updated>2015-08-23T18:36:00Z</updated>
+    <updated>2015-08-23T19:36:00+01:00</updated>
     <id>tag:stefanscherer.github.io,2015-08-23:/create-an-io-js-container-image-for-windows/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/create-an-io-js-container-image-for-windows/"></link>
@@ -1966,7 +1966,7 @@
   </entry>
   <entry>
     <title>How to setup Docker Monitoring</title>
-    <updated>2015-05-20T16:35:32Z</updated>
+    <updated>2015-05-20T17:35:32+01:00</updated>
     <id>tag:www.brianchristner.io,2015-05-20:/how-to-setup-docker-monitoring/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/how-to-setup-docker-monitoring/"></link>

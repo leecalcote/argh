@@ -1,36 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2016-10-28T00:01:56+01:00</updated>
+  <updated>2016-11-08T09:15:56Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
-    <title>3 Steps to MSBuild with Docker</title>
-    <updated>2016-10-27T22:11:23Z</updated>
-    <id>tag:www.youtube.com,2016-10-27:/watch</id>
+    <title>Docker Voting App - like never before - Windows Containers!</title>
+    <updated>2016-11-08T07:39:00Z</updated>
+    <id>tag:www.youtube.com,2016-11-08:/watch</id>
     <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=F6IxCMyYoi0"></link>
+    <link href="http://www.youtube.com/watch?v=6ULh5RWTKz0"></link>
   </entry>
   <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi (scaled)</title>
-    <updated>2016-10-27T11:43:39Z</updated>
-    <id>tag:www.youtube.com,2016-10-27:/watch</id>
+    <title>Deploy and scale an application on AWS with Docker Swarm</title>
+    <updated>2016-11-07T22:55:41Z</updated>
+    <id>tag:www.youtube.com,2016-11-07:/watch</id>
     <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=9m352pAoaow"></link>
+    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
+  </entry>
+  <entry>
+    <title>Hands on Docker for Raspberry Pi</title>
+    <updated>2016-11-07T22:55:25Z</updated>
+    <id>tag:www.youtube.com,2016-11-07:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=7YlvS8YOnrY"></link>
   </entry>
   <entry>
     <title>QND#1 Docker 101</title>
-    <updated>2016-10-27T05:33:42Z</updated>
-    <id>tag:www.youtube.com,2016-10-27:/watch</id>
+    <updated>2016-11-07T20:23:47Z</updated>
+    <id>tag:www.youtube.com,2016-11-07:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
+    <title>Collecting Metrics and Monitoring Docker Swarm Clusters</title>
+    <updated>2016-11-07T14:59:22Z</updated>
+    <id>tag:technologyconversations.com,2016-11-07:/2016/11/07/collecting-metrics-and-monitoring-the-cluster/</id>
+    <content type="html"></content>
+    <link href="https://technologyconversations.com/2016/11/07/collecting-metrics-and-monitoring-the-cluster/"></link>
+  </entry>
+  <entry>
+    <title>Hands-on Docker for Raspberry Pi</title>
+    <updated>2016-11-06T21:09:00Z</updated>
+    <id>tag:blog.alexellis.io,2016-11-06:/hands-on-docker-raspberrypi/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/hands-on-docker-raspberrypi/"></link>
+  </entry>
+  <entry>
+    <title>QND #4: pas bô Docker</title>
+    <updated>2016-11-06T15:51:31Z</updated>
+    <id>tag:www.youtube.com,2016-11-06:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
+  </entry>
+  <entry>
+    <title>QND#7: Docker sur ARM</title>
+    <updated>2016-11-06T04:20:05Z</updated>
+    <id>tag:www.youtube.com,2016-11-06:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
+  </entry>
+  <entry>
+    <title>Learn How to Schedule Your Time</title>
+    <updated>2016-11-06T00:00:00-04:00</updated>
+    <id>tag:nickjanetakis.com,2016-11-06:/blog/learn-how-to-schedule-your-time</id>
+    <content type="html"></content>
+    <link href="https://nickjanetakis.com/blog/learn-how-to-schedule-your-time"></link>
+  </entry>
+  <entry>
+    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
+    <updated>2016-11-05T11:58:42Z</updated>
+    <id>tag:www.youtube.com,2016-11-05:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
+  </entry>
+  <entry>
+    <title>QND #2 boot2docker, docker-machine, et les volumes</title>
+    <updated>2016-11-04T14:00:00Z</updated>
+    <id>tag:www.youtube.com,2016-11-04:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
+  </entry>
+  <entry>
+    <title>Deploy &amp; scale your application on AWS with Docker Swarm</title>
+    <updated>2016-11-03T23:42:33Z</updated>
+    <id>tag:blog.alexellis.io,2016-11-03:/scale-docker-swarm-on-aws/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/scale-docker-swarm-on-aws/"></link>
+  </entry>
+  <entry>
+    <title>Puppet loves Docker</title>
+    <updated>2016-11-03T07:10:09Z</updated>
+    <id>tag:scottydoesntknow.io,2016-11-03:/puppet-loves-docker/</id>
+    <content type="html"></content>
+    <link href="https://scottydoesntknow.io/puppet-loves-docker/"></link>
+  </entry>
+  <entry>
     <title>QND#5 : Docker4Mac et Windows</title>
-    <updated>2016-10-26T21:41:18Z</updated>
-    <id>tag:www.youtube.com,2016-10-26:/watch</id>
+    <updated>2016-11-03T05:50:12Z</updated>
+    <id>tag:www.youtube.com,2016-11-03:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=aNXkBOkh-c8"></link>
+  </entry>
+  <entry>
+    <title>3 Steps to MSBuild with Docker</title>
+    <updated>2016-11-02T21:30:45Z</updated>
+    <id>tag:www.youtube.com,2016-11-02:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=F6IxCMyYoi0"></link>
+  </entry>
+  <entry>
+    <title>QND#3 Docker Images: le grand plongeon</title>
+    <updated>2016-11-02T14:40:09Z</updated>
+    <id>tag:www.youtube.com,2016-11-02:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
+  </entry>
+  <entry>
+    <title>Flash: cocktail gagnant</title>
+    <updated>2016-11-02T01:35:23Z</updated>
+    <id>tag:www.youtube.com,2016-11-02:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=p7ek9w2n0jI"></link>
+  </entry>
+  <entry>
+    <title>How to Track Docker Hub Metrics</title>
+    <updated>2016-11-01T06:15:40Z</updated>
+    <id>tag:www.brianchristner.io,2016-11-01:/how-to-track-docker-hub-metrics/</id>
+    <content type="html"></content>
+    <link href="https://www.brianchristner.io/how-to-track-docker-hub-metrics/"></link>
+  </entry>
+  <entry>
+    <title>DockerCon demo early preview</title>
+    <updated>2016-10-31T19:50:30Z</updated>
+    <id>tag:www.youtube.com,2016-10-31:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=4eVuAM2b0qs"></link>
+  </entry>
+  <entry>
+    <title>J&#39;ay pris le temps d&#39;e-lire</title>
+    <updated>2016-10-30T17:07:21+01:00</updated>
+    <id>tag:blog.loof.fr,2016-10-30:/2016/10/jay-pris-le-temps-de-lire.html</id>
+    <content type="html"></content>
+    <link href="http://blog.loof.fr/2016/10/jay-pris-le-temps-de-lire.html"></link>
+  </entry>
+  <entry>
+    <title>Get Mining Zcash with Docker in no time</title>
+    <updated>2016-10-29T08:55:57+01:00</updated>
+    <id>tag:blog.alexellis.io,2016-10-29:/mine-zcash-with-docker/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/mine-zcash-with-docker/"></link>
+  </entry>
+  <entry>
+    <title>Mobile laser turret - with Raspberry Pi and PS3 controller</title>
+    <updated>2016-10-28T02:42:13Z</updated>
+    <id>tag:www.youtube.com,2016-10-28:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=FTuB5BOALao"></link>
   </entry>
   <entry>
     <title>3 Steps to MSBuild with Docker</title>
@@ -38,13 +164,6 @@
     <id>tag:blog.alexellis.io,2016-10-26:/3-steps-to-msbuild-with-docker/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/3-steps-to-msbuild-with-docker/"></link>
-  </entry>
-  <entry>
-    <title>QND#7: Docker sur ARM</title>
-    <updated>2016-10-25T19:01:11Z</updated>
-    <id>tag:www.youtube.com,2016-10-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=fS9mB1Gvctw"></link>
   </entry>
   <entry>
     <title>Forwarding Logs From All Containers Running Anywhere Inside A Docker Swarm Cluster</title>
@@ -89,13 +208,6 @@
     <link href="http://www.youtube.com/watch?v=uaxIGm2E0VE"></link>
   </entry>
   <entry>
-    <title>Mobile laser turret - with Raspberry Pi and PS3 controller</title>
-    <updated>2016-10-23T09:48:17Z</updated>
-    <id>tag:www.youtube.com,2016-10-23:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=FTuB5BOALao"></link>
-  </entry>
-  <entry>
     <title>Quadcopter propeller cutting paper via solar power</title>
     <updated>2016-10-23T09:46:36Z</updated>
     <id>tag:www.youtube.com,2016-10-23:/watch</id>
@@ -138,13 +250,6 @@
     <link href="https://blog.codedellemc.com/2016/10/19/introducing-rackhd-cli/"></link>
   </entry>
   <entry>
-    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
-    <updated>2016-10-16T10:41:56Z</updated>
-    <id>tag:www.youtube.com,2016-10-16:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
-  </entry>
-  <entry>
     <title>Docker Announcements, Wienerschnitzel, and Presentation Links from ContainerCon Berlin 2016</title>
     <updated>2016-10-14T16:36:18Z</updated>
     <id>tag:blog.codedellemc.com,2016-10-14:/2016/10/14/docker-announcements-wienerschnitzel-and-presentation-links-from-containercon-berlin-2016/</id>
@@ -159,25 +264,11 @@
     <link href="http://blog.alexellis.io/keeping-shipping-your-blog/"></link>
   </entry>
   <entry>
-    <title>Flash: cocktail gagnant</title>
-    <updated>2016-10-13T20:44:47Z</updated>
-    <id>tag:www.youtube.com,2016-10-13:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=p7ek9w2n0jI"></link>
-  </entry>
-  <entry>
     <title>Docker&#39;s #BerlinSummit</title>
     <updated>2016-10-13T21:30:36+01:00</updated>
     <id>tag:blog.alexellis.io,2016-10-13:/docker-berlinsummit-2016/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/docker-berlinsummit-2016/"></link>
-  </entry>
-  <entry>
-    <title>QND #4: pas bô Docker</title>
-    <updated>2016-10-13T20:24:41Z</updated>
-    <id>tag:www.youtube.com,2016-10-13:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=2tP9PgvmBSY"></link>
   </entry>
   <entry>
     <title>Flash : unikernels</title>
@@ -194,25 +285,11 @@
     <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
   </entry>
   <entry>
-    <title>QND#3 Docker Images: le grand plongeon</title>
-    <updated>2016-10-13T19:58:41Z</updated>
-    <id>tag:www.youtube.com,2016-10-13:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
-  </entry>
-  <entry>
     <title>Deep dive: Docker Voting App in Windows Containers</title>
     <updated>2016-10-13T19:49:44Z</updated>
     <id>tag:www.youtube.com,2016-10-13:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=c1AT2JeX56A"></link>
-  </entry>
-  <entry>
-    <title>QND #2 boot2docker, docker-machine, et les volumes</title>
-    <updated>2016-10-13T19:28:41Z</updated>
-    <id>tag:www.youtube.com,2016-10-13:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
   </entry>
   <entry>
     <title>RackHD Machine Driver v0.2.0</title>
@@ -257,13 +334,6 @@
     <link href="https://technologyconversations.com/2016/10/10/running-fault-tolerant-jenkins-inside-a-docker-swarm-cluster/"></link>
   </entry>
   <entry>
-    <title>Docker Swarm mode Deep Dive on Raspberry Pi</title>
-    <updated>2016-10-06T18:45:22Z</updated>
-    <id>tag:www.youtube.com,2016-10-06:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=0QtVQLjDhMI"></link>
-  </entry>
-  <entry>
     <title>Dockerizing Nerd Dinner: Part 1, Running a Legacy ASP.NET App in a Windows Container</title>
     <updated>2016-10-06T00:05:40+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-10-06:/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/</id>
@@ -283,13 +353,6 @@
     <id>tag:blog.alexellis.io,2016-10-05:/continuous-integration-docker-windows-containers/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/continuous-integration-docker-windows-containers/"></link>
-  </entry>
-  <entry>
-    <title>Docker Voting App - like never before - Windows Containers!</title>
-    <updated>2016-10-05T06:41:33Z</updated>
-    <id>tag:www.youtube.com,2016-10-05:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=6ULh5RWTKz0"></link>
   </entry>
   <entry>
     <title>I&#39;ve installed Docker on Windows! Now what?</title>
@@ -367,13 +430,6 @@
     <id>tag:medium.com,2016-09-26:/lucjuggery/mongodb-replica-set-on-swarm-mode-45d66bc9245</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/mongodb-replica-set-on-swarm-mode-45d66bc9245?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
-    <title>Docker Azure private Beta preview in the cloud</title>
-    <updated>2016-09-26T11:33:39Z</updated>
-    <id>tag:www.youtube.com,2016-09-26:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=Lxvg7OMcPac"></link>
   </entry>
   <entry>
     <title>IoT demo from Dockercon, goes rainbow with AngularJS &amp; SmoothieCharts!</title>
@@ -523,13 +579,6 @@
     <link href="https://medium.com/lucjuggery/docker-for-aws-zoom-on-elb-8236ce0590e?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
-    <title>Contain Yourself! in London</title>
-    <updated>2016-09-10T09:41:00+01:00</updated>
-    <id>tag:blog.alexellis.io,2016-09-10:/contain-yourself-in-london/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/contain-yourself-in-london/"></link>
-  </entry>
-  <entry>
     <title>Building the first CentOS 7.2 ARM docker image on Raspberry Pi 3</title>
     <updated>2016-09-09T11:57:18Z</updated>
     <id>tag:collabnix.com,2016-09-09:/archives/1778</id>
@@ -542,13 +591,6 @@
     <id>tag:blog.codedellemc.com,2016-09-08:/2016/09/08/multiplayer-minecraft-in-moments/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2016/09/08/multiplayer-minecraft-in-moments/"></link>
-  </entry>
-  <entry>
-    <title>Docker Comes to Peterborough</title>
-    <updated>2016-09-07T16:33:53+01:00</updated>
-    <id>tag:blog.alexellis.io,2016-09-07:/dpip-ftw/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/dpip-ftw/"></link>
   </entry>
   <entry>
     <title>The DevOps Toolkit Series Are Born</title>
@@ -621,13 +663,6 @@
     <link href="http://blogs.cornell.edu/cloudification/2016/09/03/using-docker-datacenter-to-launch-load-test/"></link>
   </entry>
   <entry>
-    <title>Jenkins makes a UX splash with Blue Ocean</title>
-    <updated>2016-09-02T21:48:00+01:00</updated>
-    <id>tag:blog.alexellis.io,2016-09-02:/jenkins-splashes-with-blue-ocean/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/jenkins-splashes-with-blue-ocean/"></link>
-  </entry>
-  <entry>
     <title>Windows Containers and Docker: The 5 Things You Need to Know</title>
     <updated>2016-08-31T23:01:54+01:00</updated>
     <id>tag:blog.sixeyed.com,2016-08-31:/windows-containers-and-docker-5-things-you-need-to-know/</id>
@@ -668,6 +703,13 @@
     <id>tag:www.youtube.com,2016-08-25:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
+  </entry>
+  <entry>
+    <title>Docker The fundamentals</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
   </entry>
   <entry>
     <title>Be smart like your healthcheck</title>
@@ -859,11 +901,11 @@
     <link href="https://technologyconversations.com/2016/07/29/docker-swarm-introduction-tour-around-docker-1-12-series/"></link>
   </entry>
   <entry>
-    <title>Transform a Toshiba Chromebook CB35 into a Linux development environment with GalliumOS</title>
-    <updated>2016-07-29T00:00:00Z</updated>
+    <title>Transform a Toshiba Chromebook CB35 into a Linux Development Environment with GalliumOS</title>
+    <updated>2016-07-29T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-07-29:/blog/transform-a-toshiba-chromebook-cb35-into-a-linux-development-environment-with-galliumos</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/transform-a-toshiba-chromebook-cb35-into-a-linux-development-environment-with-galliumos"></link>
+    <link href="https://nickjanetakis.com/blog/transform-a-toshiba-chromebook-cb35-into-a-linux-development-environment-with-galliumos"></link>
   </entry>
   <entry>
     <title>Docker + Puppet = Win!</title>
@@ -881,10 +923,10 @@
   </entry>
   <entry>
     <title>See How Virtual Desktops Let You Get More Done in Less Time</title>
-    <updated>2016-07-21T00:00:00Z</updated>
+    <updated>2016-07-21T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-07-21:/blog/see-how-virtual-desktops-let-you-get-more-done-in-less-time</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/see-how-virtual-desktops-let-you-get-more-done-in-less-time"></link>
+    <link href="https://nickjanetakis.com/blog/see-how-virtual-desktops-let-you-get-more-done-in-less-time"></link>
   </entry>
   <entry>
     <title>Docker.DotNet is Graduating!</title>
@@ -902,10 +944,10 @@
   </entry>
   <entry>
     <title>Schedules Aren&#39;t a Constraint on Life, They Let You Live It</title>
-    <updated>2016-07-18T00:00:00Z</updated>
+    <updated>2016-07-18T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-07-18:/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it"></link>
+    <link href="https://nickjanetakis.com/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it"></link>
   </entry>
   <entry>
     <title>Comparing Swarm, Swarmkit and Swarm Mode</title>
@@ -972,31 +1014,24 @@
   </entry>
   <entry>
     <title>My first try with DAB (aka Distributed Application Bundle)</title>
-    <updated>2016-07-08T11:13:05Z</updated>
-    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
-    <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=632"></link>
-  </entry>
-  <entry>
-    <title>My first try with DAB (aka Distributed Application Bundle)</title>
     <updated>2016-07-08T12:13:05+01:00</updated>
     <id>tag:medium.com,2016-07-08:/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/my-first-try-with-dab-aka-distributed-application-bundle-8a0401e32831?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
-    <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application</title>
-    <updated>2016-07-08T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-07-08:/blog/dockerize-a-rails-5-postgres-redis-sidekiq-action-cable-app-with-docker-compose</id>
+    <title>My first try with DAB (aka Distributed Application Bundle)</title>
+    <updated>2016-07-08T11:13:05Z</updated>
+    <id>tag:lucjuggery.com,2016-07-08:/blog/</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/dockerize-a-rails-5-postgres-redis-sidekiq-action-cable-app-with-docker-compose"></link>
+    <link href="http://lucjuggery.com/blog/?p=632"></link>
   </entry>
   <entry>
-    <title>Deploy a multi services application with swarm mode</title>
-    <updated>2016-07-07T21:13:11Z</updated>
-    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <title>Dockerize a Rails 5, Postgres, Redis, Sidekiq and Action Cable Application with Docker Compose</title>
+    <updated>2016-07-08T00:00:00-04:00</updated>
+    <id>tag:nickjanetakis.com,2016-07-08:/blog/dockerize-a-rails-5-postgres-redis-sidekiq-action-cable-app-with-docker-compose</id>
     <content type="html"></content>
-    <link href="http://lucjuggery.com/blog/?p=604"></link>
+    <link href="https://nickjanetakis.com/blog/dockerize-a-rails-5-postgres-redis-sidekiq-action-cable-app-with-docker-compose"></link>
   </entry>
   <entry>
     <title>Deploy a multi services application with swarm mode</title>
@@ -1004,6 +1039,13 @@
     <id>tag:medium.com,2016-07-07:/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/deploy-a-multi-services-application-with-swarm-mode-6058521374b6?source=rss----993cf4324c50---4"></link>
+  </entry>
+  <entry>
+    <title>Deploy a multi services application with swarm mode</title>
+    <updated>2016-07-07T21:13:11Z</updated>
+    <id>tag:lucjuggery.com,2016-07-07:/blog/</id>
+    <content type="html"></content>
+    <link href="http://lucjuggery.com/blog/?p=604"></link>
   </entry>
   <entry>
     <title>Deploy a service with Swarm mode of Engine 1.12</title>
@@ -1035,10 +1077,10 @@
   </entry>
   <entry>
     <title>Planning a Trip to Boston? Here Is What I Did for 5 Days</title>
-    <updated>2016-06-29T00:00:00Z</updated>
+    <updated>2016-06-29T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-06-29:/blog/planning-a-trip-to-boston-here-is-what-i-did-for-5-days</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/planning-a-trip-to-boston-here-is-what-i-did-for-5-days"></link>
+    <link href="https://nickjanetakis.com/blog/planning-a-trip-to-boston-here-is-what-i-did-for-5-days"></link>
   </entry>
   <entry>
     <title>Docker Engine 1.12 Local  Development Environment</title>
@@ -1126,10 +1168,10 @@
   </entry>
   <entry>
     <title>Fix Missing CSRF Token Issues with Flask</title>
-    <updated>2016-06-11T00:00:00Z</updated>
+    <updated>2016-06-11T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-06-11:/blog/fix-missing-csrf-token-issues-with-flask</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/fix-missing-csrf-token-issues-with-flask"></link>
+    <link href="https://nickjanetakis.com/blog/fix-missing-csrf-token-issues-with-flask"></link>
   </entry>
   <entry>
     <title>Introducing dexec</title>
@@ -1140,10 +1182,10 @@
   </entry>
   <entry>
     <title>Dockerize a Flask, Celery, and Redis Application with Docker Compose</title>
-    <updated>2016-06-10T00:00:00Z</updated>
+    <updated>2016-06-10T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-06-10:/blog/dockerize-a-flask-celery-and-redis-application-with-docker-compose</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/dockerize-a-flask-celery-and-redis-application-with-docker-compose"></link>
+    <link href="https://nickjanetakis.com/blog/dockerize-a-flask-celery-and-redis-application-with-docker-compose"></link>
   </entry>
   <entry>
     <title>Querying Elasticsearch with PowerBI</title>
@@ -1209,18 +1251,18 @@
     <link href="http://lucjuggery.com/blog/?p=666"></link>
   </entry>
   <entry>
+    <title>Build a SAAS App With Flask Free Sample Videos</title>
+    <updated>2016-05-05T00:00:00-04:00</updated>
+    <id>tag:nickjanetakis.com,2016-05-05:/blog/build-a-saas-app-with-flask-free-sample-videos</id>
+    <content type="html"></content>
+    <link href="https://nickjanetakis.com/blog/build-a-saas-app-with-flask-free-sample-videos"></link>
+  </entry>
+  <entry>
     <title>(hors sujet) Le CrowdFunding Ulule</title>
     <updated>2016-05-05T03:12:24Z</updated>
     <id>tag:www.youtube.com,2016-05-05:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=u4b0orT0U_0"></link>
-  </entry>
-  <entry>
-    <title>Build a SAAS App With Flask Free Sample Videos</title>
-    <updated>2016-05-05T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-05-05:/blog/build-a-saas-app-with-flask-free-sample-videos</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-free-sample-videos"></link>
   </entry>
   <entry>
     <title>Docker Cleanup Scripts Comparison</title>
@@ -1231,10 +1273,10 @@
   </entry>
   <entry>
     <title>Save Yourself from Years of Turmoil by Using Docker Today</title>
-    <updated>2016-05-02T00:00:00Z</updated>
+    <updated>2016-05-02T00:00:00-04:00</updated>
     <id>tag:nickjanetakis.com,2016-05-02:/blog/save-yourself-from-years-of-turmoil-by-using-docker-today</id>
     <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/save-yourself-from-years-of-turmoil-by-using-docker-today"></link>
+    <link href="https://nickjanetakis.com/blog/save-yourself-from-years-of-turmoil-by-using-docker-today"></link>
   </entry>
   <entry>
     <title>Setup a local Windows 2016 TP5 Docker VM</title>
@@ -1293,34 +1335,6 @@
     <link href="https://technologyconversations.com/2016/04/18/docker-flow/"></link>
   </entry>
   <entry>
-    <title>Alpine Based Docker Images Make a Difference in Real World Apps</title>
-    <updated>2016-04-14T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-14:/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps"></link>
-  </entry>
-  <entry>
-    <title>25 Sublime Text 3 Packages for Polyglot Programmers</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/25-sublime-text-3-packages-for-polyglot-programmers</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/25-sublime-text-3-packages-for-polyglot-programmers"></link>
-  </entry>
-  <entry>
-    <title>Why Sublime Text 3 Is Still My Preferred Code Editor</title>
-    <updated>2016-04-13T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-13:/blog/why-sublime-text-3-is-still-my-preferred-code-editor</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/why-sublime-text-3-is-still-my-preferred-code-editor"></link>
-  </entry>
-  <entry>
-    <title>Results after Using a Standing Desk for 3 Months</title>
-    <updated>2016-04-07T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-04-07:/blog/results-after-using-a-standing-desk-for-3-months</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/results-after-using-a-standing-desk-for-3-months"></link>
-  </entry>
-  <entry>
     <title>Distributed Data Analysis with Plain UNIX Commands and Docker Swarm</title>
     <updated>2016-04-06T15:15:17Z</updated>
     <id>tag:blog.codeship.com,2016-04-06:/distributed-data-analysis-with-docker-swarm/</id>
@@ -1377,25 +1391,11 @@
     <link href="https://blog.codeship.com/concurrency-in-go-part-ii/"></link>
   </entry>
   <entry>
-    <title>Docker Flow: Proxy – On-Demand HAProxy Service Discovery and Reconfiguration</title>
-    <updated>2016-03-21T14:34:20Z</updated>
-    <id>tag:technologyconversations.com,2016-03-21:/2016/03/21/docker-flow-proxy-on-demand-haproxy-service-discovery-and-reconfiguration/</id>
-    <content type="html"></content>
-    <link href="https://technologyconversations.com/2016/03/21/docker-flow-proxy-on-demand-haproxy-service-discovery-and-reconfiguration/"></link>
-  </entry>
-  <entry>
     <title>Latest Project with Docker Machine and RackHD</title>
     <updated>2016-03-16T13:29:37-04:00</updated>
     <id>tag:feedproxy.google.com,2016-03-16:/~r/KendrickColeman/~3/yH3Xce2Xo6k/latest-project-with-docker-machine-and-rackhd.html</id>
     <content type="html"></content>
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/yH3Xce2Xo6k/latest-project-with-docker-machine-and-rackhd.html"></link>
-  </entry>
-  <entry>
-    <title>Build a SAAS App with Flask Is Getting a Complete Make over Soon</title>
-    <updated>2016-03-14T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-03-14:/blog/build-a-saas-app-with-flask-is-getting-a-complete-make-over-soon</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-is-getting-a-complete-make-over-soon"></link>
   </entry>
   <entry>
     <title>Semi-retirement for REST APIs with NGINX and Docker</title>
@@ -1410,13 +1410,6 @@
     <id>tag:www.brianchristner.io,2016-03-10:/docker-tips-save-time-with-this-quick-typing-hack/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/docker-tips-save-time-with-this-quick-typing-hack/"></link>
-  </entry>
-  <entry>
-    <title>Udemy Is Far from Perfect but It Is Getting Better</title>
-    <updated>2016-03-09T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-03-09:/blog/recent-changes-to-udemys-pricing</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/recent-changes-to-udemys-pricing"></link>
   </entry>
   <entry>
     <title>Build Docker Swarm binary for Windows the &#34;Docker way&#34;</title>
@@ -1452,20 +1445,6 @@
     <id>tag:stefanscherer.github.io,2016-03-01:/build-your-local-windows-docker-swarm/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/build-your-local-windows-docker-swarm/"></link>
-  </entry>
-  <entry>
-    <title>Managing Your Passwords on the Command Line in Linux with pass</title>
-    <updated>2016-02-26T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-02-26:/blog/managing-your-passwords-on-the-command-line-in-linux-with-pass</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/managing-your-passwords-on-the-command-line-in-linux-with-pass"></link>
-  </entry>
-  <entry>
-    <title>Create an Awesome Linux Development Environment in Windows with vmware</title>
-    <updated>2016-02-23T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-02-23:/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware"></link>
   </entry>
   <entry>
     <title>Total Noob Guide To Move Your Old Wired Security System to SmartThings</title>
@@ -1566,20 +1545,6 @@
     <link href="https://stefanscherer.github.io/get-started-with-docker-on-windows-using-chocolatey/"></link>
   </entry>
   <entry>
-    <title>Build a Home Made Standing Desk for 50 Dollars in 10 Easy Steps</title>
-    <updated>2016-01-12T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-01-12:/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps"></link>
-  </entry>
-  <entry>
-    <title>Sennheiser HD 201 vs Sennheiser HD 202 II for Budget Death Metal Headphones</title>
-    <updated>2016-01-06T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2016-01-06:/blog/sennheiser-hd-201-vs-sennheiser-hd-202-for-budget-death-metal-headphones</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/sennheiser-hd-201-vs-sennheiser-hd-202-for-budget-death-metal-headphones"></link>
-  </entry>
-  <entry>
     <title>A Webinar Introduction to Web Applications with Docker</title>
     <updated>2016-01-04T16:15:45Z</updated>
     <id>tag:blog.codeship.com,2016-01-04:/an-introduction-to-web-applications-with-docker/</id>
@@ -1608,18 +1573,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>
@@ -1720,13 +1685,6 @@
     <link href="https://manesh.me/2015/11/18/setup-jenkins-master-on-microsoft-azure-for-cicd-with-dtr/"></link>
   </entry>
   <entry>
-    <title>Less than 24 Hours on Udemy as an Instructor and I Am Close to Leaving</title>
-    <updated>2015-11-18T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-11-18:/blog/less-than-24-hours-on-udemy-as-an-instructor-and-i-am-close-to-leaving</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/less-than-24-hours-on-udemy-as-an-instructor-and-i-am-close-to-leaving"></link>
-  </entry>
-  <entry>
     <title>Setup Docker Trusted Registry on Microsoft Azure</title>
     <updated>2015-11-16T15:18:10Z</updated>
     <id>tag:manesh.me,2015-11-16:/2015/11/16/setup-docker-trusted-registry-on-microsoft-azure/</id>
@@ -1788,13 +1746,6 @@
     <id>tag:feedproxy.google.com,2015-10-06:/~r/KendrickColeman/~3/4QZSYILVWi0/docker-machine-and-complete-customization.html</id>
     <content type="html"></content>
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/4QZSYILVWi0/docker-machine-and-complete-customization.html"></link>
-  </entry>
-  <entry>
-    <title>Interested in a Docker Course?</title>
-    <updated>2015-09-25T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-09-25:/blog/interested-in-a-docker-course</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/interested-in-a-docker-course"></link>
   </entry>
   <entry>
     <title>AT&amp;T Uverse Doesn&#39;t Work With Docker Hub and They Want ME To Pay To Fix It</title>
@@ -1881,13 +1832,6 @@
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/kDbdyGqKAMk/containercon-2015-slides.html"></link>
   </entry>
   <entry>
-    <title>Deploy Web Apps with Docker</title>
-    <updated>2015-08-15T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-08-15:/blog/deploy-web-apps-with-docker</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/deploy-web-apps-with-docker"></link>
-  </entry>
-  <entry>
     <title>Docker Zombies</title>
     <updated>2015-08-03T09:58:24+02:00</updated>
     <id>tag:blog.loof.fr,2015-08-03:/2015/08/docker-zombies.html</id>
@@ -1923,27 +1867,6 @@
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/BkUU_q_-bZ8/vmturbo-has-a-new-saasy-offering.html"></link>
   </entry>
   <entry>
-    <title>Build a SAAS App with Flask: Part 5</title>
-    <updated>2015-06-24T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-06-24:/blog/build-a-saas-app-with-flask-part-5</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-part-5"></link>
-  </entry>
-  <entry>
-    <title>Build a SAAS App with Flask: Part 4</title>
-    <updated>2015-06-05T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-06-05:/blog/build-a-saas-app-with-flask-part-4</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-part-4"></link>
-  </entry>
-  <entry>
-    <title>Manage Your Assets with Flask-Webpack</title>
-    <updated>2015-06-03T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-06-03:/blog/manage-your-assets-with-flask-webpack</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/manage-your-assets-with-flask-webpack"></link>
-  </entry>
-  <entry>
     <title>filmer une conférence (suite)</title>
     <updated>2015-06-01T16:17:57+02:00</updated>
     <id>tag:blog.loof.fr,2015-06-01:/2015/06/filmer-une-conference-suite.html</id>
@@ -1951,45 +1874,10 @@
     <link href="http://blog.loof.fr/2015/06/filmer-une-conference-suite.html"></link>
   </entry>
   <entry>
-    <title>Build a SAAS App with Flask: Part 3</title>
-    <updated>2015-05-30T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-05-30:/blog/build-a-saas-app-with-flask-part-3</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-part-3"></link>
-  </entry>
-  <entry>
-    <title>Build a SAAS App with Flask: Part 2</title>
-    <updated>2015-05-23T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-05-23:/blog/build-a-saas-app-with-flask-part-2</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-part-2"></link>
-  </entry>
-  <entry>
-    <title>How to setup Docker Monitoring</title>
-    <updated>2015-05-20T17:35:32+01:00</updated>
-    <id>tag:www.brianchristner.io,2015-05-20:/how-to-setup-docker-monitoring/</id>
-    <content type="html"></content>
-    <link href="https://www.brianchristner.io/how-to-setup-docker-monitoring/"></link>
-  </entry>
-  <entry>
-    <title>Build a SAAS App with Flask: Part 1</title>
-    <updated>2015-05-20T00:00:00Z</updated>
-    <id>tag:nickjanetakis.com,2015-05-20:/blog/build-a-saas-app-with-flask-part-1</id>
-    <content type="html"></content>
-    <link href="http://nickjanetakis.com/blog/build-a-saas-app-with-flask-part-1"></link>
-  </entry>
-  <entry>
     <title>&#34;Mon talk a été rejeté&#34;</title>
     <updated>2015-05-14T14:10:03+02:00</updated>
     <id>tag:blog.loof.fr,2015-05-14:/2015/05/mon-talk-ete-rejete.html</id>
     <content type="html"></content>
     <link href="http://blog.loof.fr/2015/05/mon-talk-ete-rejete.html"></link>
-  </entry>
-  <entry>
-    <title>Gilet Rouge</title>
-    <updated>2015-05-06T17:01:12+02:00</updated>
-    <id>tag:blog.loof.fr,2015-05-06:/2015/05/gilet-rouge.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/05/gilet-rouge.html"></link>
   </entry>
 </feed>

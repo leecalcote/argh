@@ -26,3 +26,4 @@ http://lucjuggery.com/blog/?feed=rss2&tag=docker
 http://feeds.feedburner.com/KendrickColeman?format=xml
 https://blog.codedellemc.com/feed/
 http://www.johnzaccone.io/rss/
+http://www.bretfisher.com/rss/

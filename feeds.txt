@@ -27,3 +27,4 @@ http://feeds.feedburner.com/KendrickColeman?format=xml
 https://blog.codedellemc.com/feed/
 http://www.johnzaccone.io/rss/
 http://www.bretfisher.com/rss/
+https://www.akalipetis.com/tags/docker/index.xml

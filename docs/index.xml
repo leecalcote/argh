@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-01-29T17:29:51Z</updated>
+  <updated>2017-01-29T17:32:53Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -45,6 +45,13 @@
     <id>tag:blog.codedellemc.com,2017-01-27:/2017/01/27/rexray-ceph/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2017/01/27/rexray-ceph/"></link>
+  </entry>
+  <entry>
+    <title>You deserve a better developer environment</title>
+    <updated>2017-01-27T12:55:00Z</updated>
+    <id>tag:www.akalipetis.com,2017-01-27:/post/2017-01-27-you-need-a-better-developer-environment/</id>
+    <content type="html"></content>
+    <link href="https://www.akalipetis.com/post/2017-01-27-you-need-a-better-developer-environment/"></link>
   </entry>
   <entry>
     <title>Golang basics - fetch JSON from an API</title>
@@ -1069,18 +1076,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Docker The fundamentals</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
-  </entry>
-  <entry>
     <title>Be smart like your healthcheck</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
+  </entry>
+  <entry>
+    <title>Docker The fundamentals</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>

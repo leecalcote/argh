@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-01-30T09:10:26Z</updated>
+  <updated>2017-01-30T13:10:26Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Deep Dive into Functions as a Service (FaaS) on Docker</title>
+    <updated>2017-01-30T13:01:36Z</updated>
+    <id>tag:www.youtube.com,2017-01-30:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=sp1B7l5mEzc"></link>
+  </entry>
   <entry>
     <title>Hands-on Docker for Raspberry Pi</title>
     <updated>2017-01-29T17:05:09Z</updated>
@@ -80,13 +87,6 @@
     <id>tag:blog.codedellemc.com,2017-01-24:/2017/01/24/flexrex-adds-storage-options-kubernetes/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2017/01/24/flexrex-adds-storage-options-kubernetes/"></link>
-  </entry>
-  <entry>
-    <title>Deep Dive into Functions as a Service (FaaS) on Docker</title>
-    <updated>2017-01-24T10:10:18Z</updated>
-    <id>tag:www.youtube.com,2017-01-24:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=sp1B7l5mEzc"></link>
   </entry>
   <entry>
     <title>QND#6 : Docker 1.11, Containerd et RunC</title>

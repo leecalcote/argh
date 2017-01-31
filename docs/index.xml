@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-01-31T09:10:26Z</updated>
+  <updated>2017-01-31T13:10:25Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Launching techwhale.io</title>
+    <updated>2017-01-31T12:20:30Z</updated>
+    <id>tag:medium.com,2017-01-31:/lucjuggery/launching-techwhale-io-2bb7db8313e5</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/launching-techwhale-io-2bb7db8313e5?source=rss----993cf4324c50---4"></link>
+  </entry>
+  <entry>
+    <title>Blue-Green Deployments With Docker Services Running Inside a Swarm Cluster</title>
+    <updated>2017-01-31T11:02:08Z</updated>
+    <id>tag:technologyconversations.com,2017-01-31:/2017/01/31/blue-green-deployments-with-docker-services-running-inside-a-swarm-cluster/</id>
+    <content type="html"></content>
+    <link href="https://technologyconversations.com/2017/01/31/blue-green-deployments-with-docker-services-running-inside-a-swarm-cluster/"></link>
+  </entry>
   <entry>
     <title>Deep Dive into Functions as a Service (FaaS) on Docker</title>
     <updated>2017-01-30T22:23:15Z</updated>
@@ -1076,18 +1090,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Docker The fundamentals</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
-  </entry>
-  <entry>
     <title>Be smart like your healthcheck</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
+  </entry>
+  <entry>
+    <title>Docker The fundamentals</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>
@@ -1153,13 +1167,6 @@
     <link href="http://blog.fntlnz.wtf/post/why-containers/"></link>
   </entry>
   <entry>
-    <title>Setup GitLab using AWS services</title>
-    <updated>2016-08-09T13:22:57Z</updated>
-    <id>tag:medium.com,2016-08-09:/lucjuggery/setup-gitlab-using-aws-services-4f6d314393d</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/setup-gitlab-using-aws-services-4f6d314393d?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
     <title>Distributed Application Bundles (Tour Around Docker 1.12 Series)</title>
     <updated>2016-08-08T14:22:08Z</updated>
     <id>tag:technologyconversations.com,2016-08-08:/2016/08/08/distributed-application-bundles-tour-around-docker-1-12-series/</id>
@@ -1221,13 +1228,6 @@
     <id>tag:sreeninet.wordpress.com,2016-07-29:/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/</id>
     <content type="html"></content>
     <link href="https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/"></link>
-  </entry>
-  <entry>
-    <title>Docker Swarm Introduction (Tour Around Docker 1.12 Series)</title>
-    <updated>2016-07-29T09:20:10Z</updated>
-    <id>tag:technologyconversations.com,2016-07-29:/2016/07/29/docker-swarm-introduction-tour-around-docker-1-12-series/</id>
-    <content type="html"></content>
-    <link href="https://technologyconversations.com/2016/07/29/docker-swarm-introduction-tour-around-docker-1-12-series/"></link>
   </entry>
   <entry>
     <title>Docker + Puppet = Win!</title>
@@ -1734,18 +1734,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

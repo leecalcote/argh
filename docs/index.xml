@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-01-30T21:10:25Z</updated>
+  <updated>2017-01-31T01:10:25Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
     <title>Deep Dive into Functions as a Service (FaaS) on Docker</title>
-    <updated>2017-01-30T17:11:34Z</updated>
+    <updated>2017-01-30T22:23:15Z</updated>
     <id>tag:www.youtube.com,2017-01-30:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=sp1B7l5mEzc"></link>
+  </entry>
+  <entry>
+    <title>How to Pick a Good Monitor for Software Development</title>
+    <updated>2017-01-30T00:00:00-05:00</updated>
+    <id>tag:nickjanetakis.com,2017-01-30:/blog/how-to-pick-a-good-monitor-for-software-development</id>
+    <content type="html"></content>
+    <link href="https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development"></link>
   </entry>
   <entry>
     <title>Hands-on Docker for Raspberry Pi</title>
@@ -621,13 +628,6 @@
     <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
   </entry>
   <entry>
-    <title>I Almost Rage Bought a MacBook Pro</title>
-    <updated>2016-11-21T00:00:00-05:00</updated>
-    <id>tag:nickjanetakis.com,2016-11-21:/blog/i-almost-rage-bought-a-macbook-pro</id>
-    <content type="html"></content>
-    <link href="https://nickjanetakis.com/blog/i-almost-rage-bought-a-macbook-pro"></link>
-  </entry>
-  <entry>
     <title>Boost your site&#39;s performance and save money with NGinx</title>
     <updated>2016-11-19T17:39:07Z</updated>
     <id>tag:blog.alexellis.io,2016-11-19:/save-and-boost-with-nginx/</id>
@@ -1076,18 +1076,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Be smart like your healthcheck</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
-  </entry>
-  <entry>
     <title>Docker The fundamentals</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
+  </entry>
+  <entry>
+    <title>Be smart like your healthcheck</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>

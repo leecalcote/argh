@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-01T05:10:25Z</updated>
+  <updated>2017-02-01T09:10:25Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>ET SI ... Docker était resté Français</title>
+    <updated>2017-02-01T07:54:01Z</updated>
+    <id>tag:www.youtube.com,2017-02-01:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
+  </entry>
   <entry>
     <title>{code} Community’s Impressive Achievements</title>
     <updated>2017-02-01T01:00:56Z</updated>
@@ -521,13 +528,6 @@
     <id>tag:ahmetalpbalkan.com,2016-12-08:/blog/azure-container-registry/</id>
     <content type="html"></content>
     <link href="https://ahmetalpbalkan.com/blog/azure-container-registry/"></link>
-  </entry>
-  <entry>
-    <title>ET SI ... Docker était resté Français</title>
-    <updated>2016-12-08T11:02:49Z</updated>
-    <id>tag:www.youtube.com,2016-12-08:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
   </entry>
   <entry>
     <title>Top 5 Benefits of Docker</title>

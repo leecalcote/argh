@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-02T17:10:25Z</updated>
+  <updated>2017-02-04T22:26:19Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Why Kubernetes promises much for those willing to embrace a cultural shift</title>
+    <updated>2017-02-03T23:31:50Z</updated>
+    <id>tag:blog.codedellemc.com,2017-02-03:/2017/02/03/why-kubernetes-promises-much-for-those-willing-to-embrace-a-cultural-shift/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2017/02/03/why-kubernetes-promises-much-for-those-willing-to-embrace-a-cultural-shift/"></link>
+  </entry>
+  <entry>
+    <title>DockerCon 2017!</title>
+    <updated>2017-02-03T17:21:20Z</updated>
+    <id>tag:integratedcode.us,2017-02-03:/2017/02/03/dockercon-2017/</id>
+    <content type="html"></content>
+    <link href="https://integratedcode.us/2017/02/03/dockercon-2017/"></link>
+  </entry>
+  <entry>
+    <title>Serverless functions in Docker on a Raspberry Pi cluster</title>
+    <updated>2017-02-03T12:53:41Z</updated>
+    <id>tag:www.youtube.com,2017-02-03:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=BQP67FWF1P8"></link>
+  </entry>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2017-02-03T10:52:57Z</updated>
+    <id>tag:www.youtube.com,2017-02-03:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
+  <entry>
+    <title>Deep Dive into Docker 1.13 Storage Plugins and Propagated Mounts</title>
+    <updated>2017-02-02T18:56:35Z</updated>
+    <id>tag:blog.codedellemc.com,2017-02-02:/2017/02/02/deep-dive-docker-1-13-storage-plugins-propagated-mounts/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2017/02/02/deep-dive-docker-1-13-storage-plugins-propagated-mounts/"></link>
+  </entry>
   <entry>
     <title>Deep Dive into Functions as a Service (FaaS) on Docker</title>
     <updated>2017-02-01T11:34:28Z</updated>
@@ -61,18 +96,18 @@
     <link href="http://www.youtube.com/watch?v=7YlvS8YOnrY"></link>
   </entry>
   <entry>
+    <title>Docker For Mac 1.13.0 brings support for macOS Sierra, now runs ARM &amp; AARCH64 based Docker containers</title>
+    <updated>2017-01-29T09:53:34Z</updated>
+    <id>tag:collabnix.com,2017-01-29:/archives/2505</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2505"></link>
+  </entry>
+  <entry>
     <title>Golang and Docker 1.13 on your Raspberry Pi</title>
     <updated>2017-01-28T19:51:51Z</updated>
     <id>tag:blog.alexellis.io,2017-01-28:/golang-docker-rpi/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/golang-docker-rpi/"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2017-01-27T22:04:14Z</updated>
-    <id>tag:www.youtube.com,2017-01-27:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>Docker 1.13 Experimental features</title>
@@ -150,13 +185,6 @@
     <id>tag:www.youtube.com,2017-01-23:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=F6IxCMyYoi0"></link>
-  </entry>
-  <entry>
-    <title>Serverless functions in Docker on a Raspberry Pi cluster</title>
-    <updated>2017-01-21T00:26:45Z</updated>
-    <id>tag:www.youtube.com,2017-01-21:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=BQP67FWF1P8"></link>
   </entry>
   <entry>
     <title>What’s New in Docker 1.13</title>
@@ -327,13 +355,6 @@
     <link href="http://www.bretfisher.com/10-minutes-to-highly-available-docker/"></link>
   </entry>
   <entry>
-    <title>Migrating a Flocker Storage Driver to REX-Ray</title>
-    <updated>2017-01-06T15:00:23Z</updated>
-    <id>tag:blog.codedellemc.com,2017-01-06:/2017/01/06/migrate_flocker_drivers_rexray/</id>
-    <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2017/01/06/migrate_flocker_drivers_rexray/"></link>
-  </entry>
-  <entry>
     <title>My Alexa Christmas tree with Raspberry Pi + Docker</title>
     <updated>2017-01-05T18:59:59Z</updated>
     <id>tag:www.youtube.com,2017-01-05:/watch</id>
@@ -346,13 +367,6 @@
     <id>tag:ahmetalpbalkan.com,2017-01-04:/blog/docker-logs-api-binary-format-explained/</id>
     <content type="html"></content>
     <link href="https://ahmetalpbalkan.com/blog/docker-logs-api-binary-format-explained/"></link>
-  </entry>
-  <entry>
-    <title>The 20-minutes Docker 1.12 Swarm Mode demonstration on Azure Platform – Collabnix</title>
-    <updated>2017-01-04T19:26:00Z</updated>
-    <id>tag:blog.codedellemc.com,2017-01-04:/2017/01/04/the-20-minutes-docker-1-12-swarm-mode-demonstration-on-azure-platform-collabnix/</id>
-    <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2017/01/04/the-20-minutes-docker-1-12-swarm-mode-demonstration-on-azure-platform-collabnix/"></link>
   </entry>
   <entry>
     <title>Functions as a Service (FaaS)</title>
@@ -822,13 +836,6 @@
     <id>tag:lostechies.com,2016-10-22:/gabrielschenker/2016/10/22/docker-and-swarmkit-part-4/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/10/22/docker-and-swarmkit-part-4/"></link>
-  </entry>
-  <entry>
-    <title>Test-Drive Docker “Infrakit” using Docker container</title>
-    <updated>2016-10-22T20:10:51Z</updated>
-    <id>tag:collabnix.com,2016-10-22:/archives/2033</id>
-    <content type="html"></content>
-    <link href="http://collabnix.com/archives/2033"></link>
   </entry>
   <entry>
     <title>Published Ports On Windows Containers Don&#39;t Do Loopback</title>
@@ -1734,18 +1741,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

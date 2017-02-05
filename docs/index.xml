@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-05T01:10:24Z</updated>
+  <updated>2017-02-05T05:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -721,9 +721,9 @@
   <entry>
     <title>Using systemd-nspawn for some containerization needs</title>
     <updated>2016-11-14T10:00:22+02:00</updated>
-    <id>tag:blog.fntlnz.wtf,2016-11-14:/post/systemd-nspawn/</id>
+    <id>tag:fntlnz.wtf,2016-11-14:/post/systemd-nspawn/</id>
     <content type="html"></content>
-    <link href="http://blog.fntlnz.wtf/post/systemd-nspawn/"></link>
+    <link href="https://fntlnz.wtf/post/systemd-nspawn/"></link>
   </entry>
   <entry>
     <title>Assessing the current state of Docker Engine &amp; Tools on Raspberry Pi</title>
@@ -1169,9 +1169,9 @@
   <entry>
     <title>Why do we have containers</title>
     <updated>2016-08-11T15:35:53Z</updated>
-    <id>tag:blog.fntlnz.wtf,2016-08-11:/post/why-containers/</id>
+    <id>tag:fntlnz.wtf,2016-08-11:/post/why-containers/</id>
     <content type="html"></content>
-    <link href="http://blog.fntlnz.wtf/post/why-containers/"></link>
+    <link href="https://fntlnz.wtf/post/why-containers/"></link>
   </entry>
   <entry>
     <title>Distributed Application Bundles (Tour Around Docker 1.12 Series)</title>

@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-06T09:10:24Z</updated>
+  <updated>2017-02-06T13:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>10 ways for a speaker to upset conference organizers</title>
+    <updated>2017-02-06T12:46:46+01:00</updated>
+    <id>tag:blog.loof.fr,2017-02-06:/2017/02/10-ways-for-speaker-to-upset-conference.html</id>
+    <content type="html"></content>
+    <link href="http://blog.loof.fr/2017/02/10-ways-for-speaker-to-upset-conference.html"></link>
+  </entry>
   <entry>
     <title>Why Kubernetes promises much for those willing to embrace a cultural shift</title>
     <updated>2017-02-03T23:31:50Z</updated>
@@ -1984,12 +1991,5 @@
     <id>tag:feedproxy.google.com,2015-07-09:/~r/KendrickColeman/~3/m8XFKDZFJYc/watch-out-docker-is-creating-a-new-infrastructure-platform.html</id>
     <content type="html"></content>
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/m8XFKDZFJYc/watch-out-docker-is-creating-a-new-infrastructure-platform.html"></link>
-  </entry>
-  <entry>
-    <title>filmer une conférence (suite)</title>
-    <updated>2015-06-01T16:17:57+02:00</updated>
-    <id>tag:blog.loof.fr,2015-06-01:/2015/06/filmer-une-conference-suite.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/06/filmer-une-conference-suite.html"></link>
   </entry>
 </feed>

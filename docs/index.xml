@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-07T17:10:24Z</updated>
+  <updated>2017-02-07T21:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Open Source: Merging Pull Requests (PRs) by example</title>
+    <updated>2017-02-07T21:07:05Z</updated>
+    <id>tag:www.youtube.com,2017-02-07:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=a2uoVnIHwMk"></link>
+  </entry>
   <entry>
     <title>My Alexa Christmas tree with Raspberry Pi + Docker</title>
     <updated>2017-02-07T00:03:25Z</updated>
@@ -656,13 +663,6 @@
     <link href="https://lostechies.com/gabrielschenker/2016/11/25/docker-and-swarmkit-part-6-new-features-of-v1-13/"></link>
   </entry>
   <entry>
-    <title>Mobile laser turret - with Raspberry Pi and PS3 controller</title>
-    <updated>2016-11-25T07:50:52Z</updated>
-    <id>tag:www.youtube.com,2016-11-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=FTuB5BOALao"></link>
-  </entry>
-  <entry>
     <title>Deploy and scale an application on AWS with Docker Swarm</title>
     <updated>2016-11-25T07:50:20Z</updated>
     <id>tag:www.youtube.com,2016-11-25:/watch</id>
@@ -1104,18 +1104,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Be smart like your healthcheck</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
-  </entry>
-  <entry>
     <title>Docker The fundamentals</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
+  </entry>
+  <entry>
+    <title>Be smart like your healthcheck</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>

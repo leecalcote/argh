@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-08T05:10:24Z</updated>
+  <updated>2017-02-08T09:10:26Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Deploy and scale an application on AWS with Docker Swarm</title>
+    <updated>2017-02-08T09:10:45Z</updated>
+    <id>tag:www.youtube.com,2017-02-08:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
+  </entry>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2017-02-08T08:17:24Z</updated>
+    <id>tag:www.youtube.com,2017-02-08:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
   <entry>
     <title>Open Source: Merging Pull Requests (PRs) by example</title>
     <updated>2017-02-08T02:04:21Z</updated>
@@ -31,13 +45,6 @@
     <id>tag:www.youtube.com,2017-02-07:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=u4aIFOdGP2k"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2017-02-06T23:28:41Z</updated>
-    <id>tag:www.youtube.com,2017-02-06:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>10 ways for a speaker to upset conference organizers</title>
@@ -670,13 +677,6 @@
     <link href="https://lostechies.com/gabrielschenker/2016/11/25/docker-and-swarmkit-part-6-new-features-of-v1-13/"></link>
   </entry>
   <entry>
-    <title>Deploy and scale an application on AWS with Docker Swarm</title>
-    <updated>2016-11-25T07:50:20Z</updated>
-    <id>tag:www.youtube.com,2016-11-25:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
-  </entry>
-  <entry>
     <title>Boost your site&#39;s performance and save money with NGinx</title>
     <updated>2016-11-19T17:39:07Z</updated>
     <id>tag:blog.alexellis.io,2016-11-19:/save-and-boost-with-nginx/</id>
@@ -1104,18 +1104,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Docker The fundamentals</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
-  </entry>
-  <entry>
     <title>Be smart like your healthcheck</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
+  </entry>
+  <entry>
+    <title>Docker The fundamentals</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
   </entry>
   <entry>
     <title>Docker &amp; AppArmor: 30.000 foot view</title>

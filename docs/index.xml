@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-09T13:10:26Z</updated>
+  <updated>2017-02-09T17:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Hands-on Docker for Raspberry Pi</title>
+    <updated>2017-02-09T13:17:18Z</updated>
+    <id>tag:www.youtube.com,2017-02-09:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=7YlvS8YOnrY"></link>
+  </entry>
   <entry>
     <title>Deploy and scale an application on AWS with Docker Swarm</title>
     <updated>2017-02-09T07:53:22Z</updated>
@@ -136,13 +143,6 @@
     <id>tag:nickjanetakis.com,2017-01-30:/blog/how-to-pick-a-good-monitor-for-software-development</id>
     <content type="html"></content>
     <link href="https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development"></link>
-  </entry>
-  <entry>
-    <title>Hands-on Docker for Raspberry Pi</title>
-    <updated>2017-01-29T17:05:09Z</updated>
-    <id>tag:www.youtube.com,2017-01-29:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=7YlvS8YOnrY"></link>
   </entry>
   <entry>
     <title>Docker For Mac 1.13.0 brings support for macOS Sierra, now runs ARM &amp; AARCH64 based Docker containers</title>

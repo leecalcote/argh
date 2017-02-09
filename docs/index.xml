@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-09T05:10:24Z</updated>
+  <updated>2017-02-09T09:10:26Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Deploy and scale an application on AWS with Docker Swarm</title>
+    <updated>2017-02-09T07:53:22Z</updated>
+    <id>tag:www.youtube.com,2017-02-09:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
+  </entry>
   <entry>
     <title>2017: The year Linux will reach 5% market share – TechRepublic</title>
     <updated>2017-02-08T13:39:00Z</updated>
     <id>tag:blog.codedellemc.com,2017-02-08:/2017/02/08/2017-the-year-linux-will-reach-5-market-share-techrepublic/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2017/02/08/2017-the-year-linux-will-reach-5-market-share-techrepublic/"></link>
-  </entry>
-  <entry>
-    <title>Deploy and scale an application on AWS with Docker Swarm</title>
-    <updated>2017-02-08T09:10:45Z</updated>
-    <id>tag:www.youtube.com,2017-02-08:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
   </entry>
   <entry>
     <title>QND#1 Docker 101</title>

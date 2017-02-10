@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-10T05:10:24Z</updated>
+  <updated>2017-02-10T09:10:26Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Deploy and scale an application on AWS with Docker Swarm</title>
+    <updated>2017-02-10T08:32:34Z</updated>
+    <id>tag:www.youtube.com,2017-02-10:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
+  </entry>
   <entry>
     <title>Golang basics - writing unit tests</title>
     <updated>2017-02-09T23:20:39Z</updated>
@@ -31,13 +38,6 @@
     <id>tag:www.youtube.com,2017-02-09:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=7YlvS8YOnrY"></link>
-  </entry>
-  <entry>
-    <title>Deploy and scale an application on AWS with Docker Swarm</title>
-    <updated>2017-02-09T07:53:22Z</updated>
-    <id>tag:www.youtube.com,2017-02-09:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=F5J8eQHlR2I"></link>
   </entry>
   <entry>
     <title>2017: The year Linux will reach 5% market share – TechRepublic</title>

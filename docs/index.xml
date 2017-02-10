@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-10T13:10:26Z</updated>
+  <updated>2017-02-10T17:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Exploring Unseen Open Source Infrastructure – Andrew Nesbitt – Medium</title>
+    <updated>2017-02-10T13:55:00Z</updated>
+    <id>tag:blog.codedellemc.com,2017-02-10:/2017/02/10/exploring-unseen-open-source-infrastructure-andrew-nesbitt-medium/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2017/02/10/exploring-unseen-open-source-infrastructure-andrew-nesbitt-medium/"></link>
+  </entry>
   <entry>
     <title>Deploy the Voting App on a Docker Swarm using Compose version 3</title>
     <updated>2017-02-10T13:04:14Z</updated>
@@ -318,13 +325,6 @@
     <id>tag:blog.alexellis.io,2017-01-13:/fonction-service/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/fonction-service/"></link>
-  </entry>
-  <entry>
-    <title>Moving persistent data out of Redis</title>
-    <updated>2017-01-13T13:53:00Z</updated>
-    <id>tag:blog.codedellemc.com,2017-01-13:/2017/01/13/moving-persistent-data-out-of-redis/</id>
-    <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2017/01/13/moving-persistent-data-out-of-redis/"></link>
   </entry>
   <entry>
     <title>Test-Drive Docker 1.12 on first 64-bit ARM OpenSUSE running on Raspberry Pi 3</title>

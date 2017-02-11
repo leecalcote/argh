@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-11T13:10:24Z</updated>
+  <updated>2017-02-11T17:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Kubernetes CRI and Minikube</title>
+    <updated>2017-02-11T17:07:01Z</updated>
+    <id>tag:sreeninet.wordpress.com,2017-02-11:/2017/02/11/kubernetes-cri-and-minikube/</id>
+    <content type="html"></content>
+    <link href="https://sreeninet.wordpress.com/2017/02/11/kubernetes-cri-and-minikube/"></link>
+  </entry>
   <entry>
     <title>Serverless functions in Docker on a Raspberry Pi cluster</title>
     <updated>2017-02-10T23:31:03Z</updated>
@@ -1111,18 +1118,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Be smart like your healthcheck</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
-  </entry>
-  <entry>
     <title>Docker The fundamentals</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
+  </entry>
+  <entry>
+    <title>Be smart like your healthcheck</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
   </entry>
   <entry>
     <title>Watch demo about Docker 1.12 made during Docker Meetup</title>
@@ -1235,13 +1242,6 @@
     <id>tag:www.johnzaccone.io,2016-07-29:/3-node-cluster-in-30-seconds/</id>
     <content type="html"></content>
     <link href="http://www.johnzaccone.io/3-node-cluster-in-30-seconds/"></link>
-  </entry>
-  <entry>
-    <title>Service Discovery and Load balancing Internals in Docker 1.12</title>
-    <updated>2016-07-29T16:58:32Z</updated>
-    <id>tag:sreeninet.wordpress.com,2016-07-29:/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/</id>
-    <content type="html"></content>
-    <link href="https://sreeninet.wordpress.com/2016/07/29/service-discovery-and-load-balancing-internals-in-docker-1-12/"></link>
   </entry>
   <entry>
     <title>Docker + Puppet = Win!</title>
@@ -1748,18 +1748,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Swarm scales docker for free</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/wordpress-docker"></link>
+  </entry>
+  <entry>
+    <title>Swarm scales docker for free</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

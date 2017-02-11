@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-11T17:10:24Z</updated>
+  <updated>2017-02-11T21:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Dockerizing Ghost and Buster to run a blog on GitHub pages</title>
+    <updated>2017-02-11T18:46:46Z</updated>
+    <id>tag:stefanscherer.github.io,2017-02-11:/dockerizing-ghost-buster/</id>
+    <content type="html"></content>
+    <link href="https://stefanscherer.github.io/dockerizing-ghost-buster/"></link>
+  </entry>
   <entry>
     <title>Kubernetes CRI and Minikube</title>
     <updated>2017-02-11T17:07:01Z</updated>
@@ -1748,18 +1755,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>
@@ -1865,13 +1872,6 @@
     <id>tag:blog.loof.fr,2015-11-06:/2015/11/learning-go-from-java.html</id>
     <content type="html"></content>
     <link href="http://blog.loof.fr/2015/11/learning-go-from-java.html"></link>
-  </entry>
-  <entry>
-    <title>Run your own dockerized openVPN server at Scaleway</title>
-    <updated>2015-11-04T12:16:00Z</updated>
-    <id>tag:stefanscherer.github.io,2015-11-04:/run-your-own-dockerized-openvpn-server-at-scaleway/</id>
-    <content type="html"></content>
-    <link href="https://stefanscherer.github.io/run-your-own-dockerized-openvpn-server-at-scaleway/"></link>
   </entry>
   <entry>
     <title>First experiment with Tutum</title>

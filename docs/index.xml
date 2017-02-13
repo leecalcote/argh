@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-13T17:10:24Z</updated>
+  <updated>2017-02-13T21:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2017-02-13T18:47:30Z</updated>
+    <id>tag:www.youtube.com,2017-02-13:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
   <entry>
     <title>Deploy and scale an application on AWS with Docker Swarm</title>
     <updated>2017-02-13T11:46:30Z</updated>
@@ -87,13 +94,6 @@
     <id>tag:blog.alexellis.io,2017-02-09:/golang-writing-unit-tests/</id>
     <content type="html"></content>
     <link href="http://blog.alexellis.io/golang-writing-unit-tests/"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2017-02-09T18:54:08Z</updated>
-    <id>tag:www.youtube.com,2017-02-09:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>Persistent storage in Docker for AWS is not a mystery</title>

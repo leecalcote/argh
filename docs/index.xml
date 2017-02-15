@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-15T05:10:24Z</updated>
+  <updated>2017-02-15T09:10:26Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -208,6 +208,13 @@
     <link href="https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development"></link>
   </entry>
   <entry>
+    <title>Docker For Mac 1.13.0 brings support for macOS Sierra, now runs ARM &amp; AARCH64 based Docker containers</title>
+    <updated>2017-01-29T09:53:34Z</updated>
+    <id>tag:collabnix.com,2017-01-29:/archives/2505</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2505"></link>
+  </entry>
+  <entry>
     <title>Golang and Docker 1.13 on your Raspberry Pi</title>
     <updated>2017-01-28T19:51:51Z</updated>
     <id>tag:blog.alexellis.io,2017-01-28:/golang-docker-rpi/</id>
@@ -348,6 +355,13 @@
     <link href="http://blog.alexellis.io/fonction-service/"></link>
   </entry>
   <entry>
+    <title>Test-Drive Docker 1.12 on first 64-bit ARM OpenSUSE running on Raspberry Pi 3</title>
+    <updated>2017-01-13T13:23:26Z</updated>
+    <id>tag:collabnix.com,2017-01-13:/archives/2431</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2431"></link>
+  </entry>
+  <entry>
     <title>Using Build Arguments on Codeship Pro</title>
     <updated>2017-01-11T16:48:52Z</updated>
     <id>tag:blog.codeship.com,2017-01-11:/using-build-arguments-codeship-pro/</id>
@@ -404,6 +418,13 @@
     <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
   </entry>
   <entry>
+    <title>What’s New in Docker Engine 1.13 Swarm Mode?</title>
+    <updated>2017-01-07T18:59:41Z</updated>
+    <id>tag:collabnix.com,2017-01-07:/archives/2381</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2381"></link>
+  </entry>
+  <entry>
     <title>10 Minutes To HA Docker</title>
     <updated>2017-01-06T19:01:00Z</updated>
     <id>tag:www.bretfisher.com,2017-01-06:/10-minutes-to-highly-available-docker/</id>
@@ -430,6 +451,13 @@
     <id>tag:medium.com,2017-01-04:/lucjuggery/running-docker-application-in-autopilot-45611f574917</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/running-docker-application-in-autopilot-45611f574917?source=rss----993cf4324c50---4"></link>
+  </entry>
+  <entry>
+    <title>Key Takeaways from Docker “Containerd ~ A Core Container Runtime Project” Announcement</title>
+    <updated>2017-01-03T07:50:43Z</updated>
+    <id>tag:collabnix.com,2017-01-03:/archives/2351</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2351"></link>
   </entry>
   <entry>
     <title>Have You Hit the Point of Diminishing Returns as a Developer?</title>
@@ -465,6 +493,13 @@
     <id>tag:nickjanetakis.com,2016-12-27:/blog/plain-text-and-google-keep-is-a-killer-combo-for-notes-and-organization</id>
     <content type="html"></content>
     <link href="https://nickjanetakis.com/blog/plain-text-and-google-keep-is-a-killer-combo-for-notes-and-organization"></link>
+  </entry>
+  <entry>
+    <title>The 20-minutes Docker 1.12 Swarm Mode demonstration on Azure Platform</title>
+    <updated>2016-12-26T17:34:18Z</updated>
+    <id>tag:collabnix.com,2016-12-26:/archives/2324</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2324"></link>
   </entry>
   <entry>
     <title>Docker in Docker and play-with-docker</title>
@@ -507,6 +542,13 @@
     <id>tag:blog.sixeyed.com,2016-12-19:/relay-iis-log-entries-to-read-them-in-docker/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/relay-iis-log-entries-to-read-them-in-docker/"></link>
+  </entry>
+  <entry>
+    <title>Top 10 Cool New Features in Docker Datacenter for Dev &amp; IT Operations Team</title>
+    <updated>2016-12-17T04:19:04Z</updated>
+    <id>tag:collabnix.com,2016-12-17:/archives/2252</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2252"></link>
   </entry>
   <entry>
     <title>Discover a New World of Sound by Upgrading Your Headphones</title>
@@ -558,6 +600,13 @@
     <link href="https://nickjanetakis.com/blog/configure-your-code-editor-to-be-a-very-productive-writing-tool"></link>
   </entry>
   <entry>
+    <title>Walkthrough: Building distributed Docker persistent storage platform for Microservices using DellEMC RexRay &amp; ScaleIO</title>
+    <updated>2016-12-09T02:25:26Z</updated>
+    <id>tag:collabnix.com,2016-12-09:/archives/2186</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2186"></link>
+  </entry>
+  <entry>
     <title>Azure Container Registry is here!</title>
     <updated>2016-12-08T10:25:00-08:00</updated>
     <id>tag:ahmetalpbalkan.com,2016-12-08:/blog/azure-container-registry/</id>
@@ -584,6 +633,13 @@
     <id>tag:medium.com,2016-12-05:/lucjuggery/docker-containers-on-joyents-triton-cloud-8702e3dd7657</id>
     <content type="html"></content>
     <link href="https://medium.com/lucjuggery/docker-containers-on-joyents-triton-cloud-8702e3dd7657?source=rss----993cf4324c50---4"></link>
+  </entry>
+  <entry>
+    <title>I’m thrilled ! I’m a {code} Catalyst !</title>
+    <updated>2016-12-05T19:19:20Z</updated>
+    <id>tag:collabnix.com,2016-12-05:/archives/2163</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2163"></link>
   </entry>
   <entry>
     <title>AWSCLI S3 Backup via AWS Direct Connect</title>
@@ -710,6 +766,20 @@
     <id>tag:fntlnz.wtf,2016-11-14:/post/systemd-nspawn/</id>
     <content type="html"></content>
     <link href="https://fntlnz.wtf/post/systemd-nspawn/"></link>
+  </entry>
+  <entry>
+    <title>Assessing the current state of Docker Engine &amp; Tools on Raspberry Pi</title>
+    <updated>2016-11-13T21:25:31Z</updated>
+    <id>tag:collabnix.com,2016-11-13:/archives/2103</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2103"></link>
+  </entry>
+  <entry>
+    <title>What’s new upcoming in Docker Compose v1.9.0?</title>
+    <updated>2016-11-12T15:42:36Z</updated>
+    <id>tag:collabnix.com,2016-11-12:/archives/2073</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/2073"></link>
   </entry>
   <entry>
     <title>Docker and SwarmKit – Part 5 – going deep</title>
@@ -1062,18 +1132,18 @@
     <link href="http://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Be smart like your healthcheck</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
-  </entry>
-  <entry>
     <title>Docker The fundamentals</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
+  </entry>
+  <entry>
+    <title>Be smart like your healthcheck</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
   </entry>
   <entry>
     <title>Watch demo about Docker 1.12 made during Docker Meetup</title>
@@ -1685,18 +1755,18 @@
     <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
   </entry>
   <entry>
-    <title>Docker and wordpress for a better world</title>
-    <updated>2015-12-14T10:08:27Z</updated>
-    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/wordpress-docker"></link>
-  </entry>
-  <entry>
     <title>Swarm scales docker for free</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/swarm-scales-your-containter-for-free</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
+  </entry>
+  <entry>
+    <title>Docker and wordpress for a better world</title>
+    <updated>2015-12-14T10:08:27Z</updated>
+    <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/wordpress-docker"></link>
   </entry>
   <entry>
     <title>Effortless Docker Swarm Clusters on Azure</title>

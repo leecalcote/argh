@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-14T21:10:24Z</updated>
+  <updated>2017-02-15T01:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Modern Data Center: The Secret’s in the Software | Reflections</title>
+    <updated>2017-02-14T21:42:06Z</updated>
+    <id>tag:blog.codedellemc.com,2017-02-14:/2017/02/14/modern-data-center-the-secrets-in-the-software-reflections/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2017/02/14/modern-data-center-the-secrets-in-the-software-reflections/"></link>
+  </entry>
   <entry>
     <title>QND#1 Docker 101</title>
     <updated>2017-02-13T18:47:30Z</updated>
@@ -304,13 +311,6 @@
     <id>tag:www.youtube.com,2017-01-20:/watch</id>
     <content type="html"></content>
     <link href="http://www.youtube.com/watch?v=CjkovJdzmKw"></link>
-  </entry>
-  <entry>
-    <title>Does the Container Ecosystem Need a Map? – The New Stack</title>
-    <updated>2017-01-19T21:40:00Z</updated>
-    <id>tag:blog.codedellemc.com,2017-01-19:/2017/01/19/does-the-container-ecosystem-need-a-map-the-new-stack/</id>
-    <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2017/01/19/does-the-container-ecosystem-need-a-map-the-new-stack/"></link>
   </entry>
   <entry>
     <title>Containerize Everything</title>

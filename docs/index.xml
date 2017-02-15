@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-15T13:10:24Z</updated>
+  <updated>2017-02-15T17:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
+    <updated>2017-02-15T15:10:51Z</updated>
+    <id>tag:www.youtube.com,2017-02-15:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
+  </entry>
   <entry>
     <title>Modern Data Center: The Secret’s in the Software | Reflections</title>
     <updated>2017-02-14T21:42:06Z</updated>
@@ -276,13 +283,6 @@
     <id>tag:blog.codedellemc.com,2017-01-24:/2017/01/24/flexrex-adds-storage-options-kubernetes/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2017/01/24/flexrex-adds-storage-options-kubernetes/"></link>
-  </entry>
-  <entry>
-    <title>QND#6 : Docker 1.11, Containerd et RunC</title>
-    <updated>2017-01-23T18:14:27Z</updated>
-    <id>tag:www.youtube.com,2017-01-23:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=erZfXegGCnA"></link>
   </entry>
   <entry>
     <title>Ancient Babylonians May Have Invented IRC 2,000+ Years Ago</title>

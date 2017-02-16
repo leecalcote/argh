@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-16T13:10:27Z</updated>
+  <updated>2017-02-16T17:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Start-Homelab</title>
+    <updated>2017-02-16T13:58:00Z</updated>
+    <id>tag:blog.codedellemc.com,2017-02-16:/2017/02/16/start-homelab/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2017/02/16/start-homelab/"></link>
+  </entry>
+  <entry>
+    <title>QND#3 Docker Images: le grand plongeon</title>
+    <updated>2017-02-16T13:31:09Z</updated>
+    <id>tag:www.youtube.com,2017-02-16:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
+  </entry>
+  <entry>
+    <title>QND #2 boot2docker, docker-machine, et les volumes</title>
+    <updated>2017-02-16T13:14:38Z</updated>
+    <id>tag:www.youtube.com,2017-02-16:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
+  </entry>
   <entry>
     <title>QND#6 : Docker 1.11, Containerd et RunC</title>
     <updated>2017-02-15T15:10:51Z</updated>
@@ -278,13 +299,6 @@
     <link href="http://blogs.cornell.edu/cloudification/2017/01/24/redshift-at-vet-college/"></link>
   </entry>
   <entry>
-    <title>FlexREX adds Storage Options to Kubernetes</title>
-    <updated>2017-01-24T16:01:02Z</updated>
-    <id>tag:blog.codedellemc.com,2017-01-24:/2017/01/24/flexrex-adds-storage-options-kubernetes/</id>
-    <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2017/01/24/flexrex-adds-storage-options-kubernetes/"></link>
-  </entry>
-  <entry>
     <title>Ancient Babylonians May Have Invented IRC 2,000+ Years Ago</title>
     <updated>2017-01-23T00:00:00-05:00</updated>
     <id>tag:nickjanetakis.com,2017-01-23:/blog/ancient-babylonians-may-have-invented-irc-2000-years-ago</id>
@@ -409,13 +423,6 @@
     <id>tag:stefanscherer.github.io,2017-01-08:/keep-your-windows-containers-up-to-date/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/keep-your-windows-containers-up-to-date/"></link>
-  </entry>
-  <entry>
-    <title>QND #2 boot2docker, docker-machine, et les volumes</title>
-    <updated>2017-01-07T20:08:35Z</updated>
-    <id>tag:www.youtube.com,2017-01-07:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=KMttioiBQc0"></link>
   </entry>
   <entry>
     <title>What’s New in Docker Engine 1.13 Swarm Mode?</title>
@@ -794,13 +801,6 @@
     <id>tag:scottydoesntknow.io,2016-11-03:/puppet-loves-docker/</id>
     <content type="html"></content>
     <link href="https://scottydoesntknow.io/puppet-loves-docker/"></link>
-  </entry>
-  <entry>
-    <title>QND#3 Docker Images: le grand plongeon</title>
-    <updated>2016-11-02T14:40:09Z</updated>
-    <id>tag:www.youtube.com,2016-11-02:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=yHbGOdGROMs"></link>
   </entry>
   <entry>
     <title>How to Track Docker Hub Metrics</title>

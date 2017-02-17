@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-16T21:10:26Z</updated>
+  <updated>2017-02-17T01:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
   <entry>
@@ -600,6 +600,13 @@
     <link href="http://blog.loof.fr/2016/12/quoi-dneuf-docker-ben-rien-justement.html"></link>
   </entry>
   <entry>
+    <title>Containers – Cleanup your house revisited</title>
+    <updated>2016-12-13T03:10:02Z</updated>
+    <id>tag:lostechies.com,2016-12-13:/gabrielschenker/2016/12/12/containers-cleanup-your-house-revisited/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/12/12/containers-cleanup-your-house-revisited/"></link>
+  </entry>
+  <entry>
     <title>Configure Your Code Editor to Be a Very Productive Writing Tool</title>
     <updated>2016-12-10T00:00:00-05:00</updated>
     <id>tag:nickjanetakis.com,2016-12-10:/blog/configure-your-code-editor-to-be-a-very-productive-writing-tool</id>
@@ -712,6 +719,13 @@
     <link href="http://blog.alexellis.io/christmas-iot-tree/"></link>
   </entry>
   <entry>
+    <title>Docker and Swarmkit – Part 6 – New Features of v1.13</title>
+    <updated>2016-11-25T21:14:15Z</updated>
+    <id>tag:lostechies.com,2016-11-25:/gabrielschenker/2016/11/25/docker-and-swarmkit-part-6-new-features-of-v1-13/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/11/25/docker-and-swarmkit-part-6-new-features-of-v1-13/"></link>
+  </entry>
+  <entry>
     <title>Boost your site&#39;s performance and save money with NGinx</title>
     <updated>2016-11-19T17:39:07Z</updated>
     <id>tag:blog.alexellis.io,2016-11-19:/save-and-boost-with-nginx/</id>
@@ -773,6 +787,13 @@
     <id>tag:collabnix.com,2016-11-13:/archives/2103</id>
     <content type="html"></content>
     <link href="http://collabnix.com/archives/2103"></link>
+  </entry>
+  <entry>
+    <title>Docker and SwarmKit – Part 5 – going deep</title>
+    <updated>2016-11-11T17:52:39Z</updated>
+    <id>tag:lostechies.com,2016-11-11:/gabrielschenker/2016/11/11/docker-and-swarmkit-part-5-going-deep/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/11/11/docker-and-swarmkit-part-5-going-deep/"></link>
   </entry>
   <entry>
     <title>It&#39;s a Docker Pull Frenzy</title>
@@ -845,6 +866,13 @@
     <link href="http://www.youtube.com/watch?v=uaxIGm2E0VE"></link>
   </entry>
   <entry>
+    <title>Docker and Swarmkit – Part 4</title>
+    <updated>2016-10-22T23:31:22Z</updated>
+    <id>tag:lostechies.com,2016-10-22:/gabrielschenker/2016/10/22/docker-and-swarmkit-part-4/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/10/22/docker-and-swarmkit-part-4/"></link>
+  </entry>
+  <entry>
     <title>Published Ports On Windows Containers Don&#39;t Do Loopback</title>
     <updated>2016-10-20T23:07:56Z</updated>
     <id>tag:blog.sixeyed.com,2016-10-20:/published-ports-on-windows-containers-dont-do-loopback/</id>
@@ -873,6 +901,13 @@
     <link href="http://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/"></link>
   </entry>
   <entry>
+    <title>Docker and Swarm Mode – Part 3</title>
+    <updated>2016-10-05T16:09:02Z</updated>
+    <id>tag:lostechies.com,2016-10-05:/gabrielschenker/2016/10/05/docker-and-swarm-mode-part-3/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/10/05/docker-and-swarm-mode-part-3/"></link>
+  </entry>
+  <entry>
     <title>I&#39;ve installed Docker on Windows! Now what?</title>
     <updated>2016-10-04T10:37:53Z</updated>
     <id>tag:blog.sixeyed.com,2016-10-04:/ve-installed-docker-on-windows-now-what/</id>
@@ -894,6 +929,13 @@
     <link href="http://blog.sixeyed.com/1-2-3-iis-running-in-nano-server-in-docker-on-windows-server-2016/"></link>
   </entry>
   <entry>
+    <title>Use Docker to build, test and push your Artifacts</title>
+    <updated>2016-09-27T02:13:58Z</updated>
+    <id>tag:lostechies.com,2016-09-27:/gabrielschenker/2016/09/26/use-docker-to-build-test-and-push-your-artifacts/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/26/use-docker-to-build-test-and-push-your-artifacts/"></link>
+  </entry>
+  <entry>
     <title>MongoDB replica set on swarm mode</title>
     <updated>2016-09-26T16:07:19Z</updated>
     <id>tag:medium.com,2016-09-26:/lucjuggery/mongodb-replica-set-on-swarm-mode-45d66bc9245</id>
@@ -906,6 +948,13 @@
     <id>tag:stefanscherer.github.io,2016-09-24:/run-linux-and-windows-containers-on-windows-10/</id>
     <content type="html"></content>
     <link href="https://stefanscherer.github.io/run-linux-and-windows-containers-on-windows-10/"></link>
+  </entry>
+  <entry>
+    <title>Easing the use of the AWS CLI</title>
+    <updated>2016-09-21T15:32:06Z</updated>
+    <id>tag:lostechies.com,2016-09-21:/gabrielschenker/2016/09/21/easing-the-use-of-the-aws-cli/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/21/easing-the-use-of-the-aws-cli/"></link>
   </entry>
   <entry>
     <title>Strange Loop 2016: Docker Orchestration Workshop</title>
@@ -957,6 +1006,13 @@
     <link href="https://medium.com/lucjuggery/running-swarm-mode-on-an-arm-x64-hybrid-cluster-64bf9276ebce?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
+    <title>Docker and Swarm Mode – Part 2</title>
+    <updated>2016-09-11T18:40:03Z</updated>
+    <id>tag:lostechies.com,2016-09-11:/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/"></link>
+  </entry>
+  <entry>
     <title>Docker for AWS : zoom on ELB</title>
     <updated>2016-09-11T08:06:31Z</updated>
     <id>tag:medium.com,2016-09-11:/lucjuggery/docker-for-aws-zoom-on-elb-8236ce0590e</id>
@@ -969,6 +1025,13 @@
     <id>tag:technologyconversations.com,2016-09-07:/2016/09/07/the-devops-toolkit-series-are-born/</id>
     <content type="html"></content>
     <link href="https://technologyconversations.com/2016/09/07/the-devops-toolkit-series-are-born/"></link>
+  </entry>
+  <entry>
+    <title>Docker and Swarm Mode – Part 1</title>
+    <updated>2016-09-05T23:42:11Z</updated>
+    <id>tag:lostechies.com,2016-09-05:/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/09/05/docker-and-swarm-mode-part-1/"></link>
   </entry>
   <entry>
     <title>Docker for AWS – Deployment options</title>
@@ -1039,6 +1102,13 @@
     <id>tag:blog.sixeyed.com,2016-08-31:/windows-containers-and-docker-5-things-you-need-to-know/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/windows-containers-and-docker-5-things-you-need-to-know/"></link>
+  </entry>
+  <entry>
+    <title>Pimp my report with Docker</title>
+    <updated>2016-08-31T20:36:08Z</updated>
+    <id>tag:lostechies.com,2016-08-31:/gabrielschenker/2016/08/31/pimp-my-report-with-docker/</id>
+    <content type="html"></content>
+    <link href="https://lostechies.com/gabrielschenker/2016/08/31/pimp-my-report-with-docker/"></link>
   </entry>
   <entry>
     <title>Docker remote APIs. More than meets the eye</title>

@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-17T05:10:24Z</updated>
+  <updated>2017-02-17T09:10:28Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Docker Stacks and Attachable networks</title>
+    <updated>2017-02-17T08:00:00Z</updated>
+    <id>tag:blog.alexellis.io,2017-02-17:/docker-stacks-attachable-networks/</id>
+    <content type="html"></content>
+    <link href="http://blog.alexellis.io/docker-stacks-attachable-networks/"></link>
+  </entry>
   <entry>
     <title>Start-Homelab</title>
     <updated>2017-02-16T13:58:00Z</updated>
@@ -661,13 +668,6 @@
     <id>tag:lostechies.com,2016-11-25:/gabrielschenker/2016/11/25/docker-and-swarmkit-part-6-new-features-of-v1-13/</id>
     <content type="html"></content>
     <link href="https://lostechies.com/gabrielschenker/2016/11/25/docker-and-swarmkit-part-6-new-features-of-v1-13/"></link>
-  </entry>
-  <entry>
-    <title>Boost your site&#39;s performance and save money with NGinx</title>
-    <updated>2016-11-19T17:39:07Z</updated>
-    <id>tag:blog.alexellis.io,2016-11-19:/save-and-boost-with-nginx/</id>
-    <content type="html"></content>
-    <link href="http://blog.alexellis.io/save-and-boost-with-nginx/"></link>
   </entry>
   <entry>
     <title>Dockerizing Nerd Dinner: Part 2, Connecting ASP.NET to SQL Server</title>

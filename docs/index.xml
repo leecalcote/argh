@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-02-19T09:10:26Z</updated>
+  <updated>2017-02-19T13:10:24Z</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>ET SI ... Docker était resté Français</title>
+    <updated>2017-02-19T09:25:26Z</updated>
+    <id>tag:www.youtube.com,2017-02-19:/watch</id>
+    <content type="html"></content>
+    <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
+  </entry>
   <entry>
     <title>Serverless functions and Alexa with Docker and a Raspberry Pi cluster</title>
     <updated>2017-02-17T16:58:09Z</updated>
@@ -213,13 +220,6 @@
     <id>tag:blog.codedellemc.com,2017-02-02:/2017/02/02/deep-dive-docker-1-13-storage-plugins-propagated-mounts/</id>
     <content type="html"></content>
     <link href="https://blog.codedellemc.com/2017/02/02/deep-dive-docker-1-13-storage-plugins-propagated-mounts/"></link>
-  </entry>
-  <entry>
-    <title>ET SI ... Docker était resté Français</title>
-    <updated>2017-02-01T07:54:01Z</updated>
-    <id>tag:www.youtube.com,2017-02-01:/watch</id>
-    <content type="html"></content>
-    <link href="http://www.youtube.com/watch?v=1ZgDo1Lx7yQ"></link>
   </entry>
   <entry>
     <title>{code} Community’s Impressive Achievements</title>

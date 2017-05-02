@@ -1,9 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker Captain&#39;s feed</title>
   <id>http://argh.gianarb.it</id>
-  <updated>2017-04-27T23:16:26+02:00</updated>
+  <updated>2017-05-02T10:44:05+02:00</updated>
   <subtitle>Updates from the docker captains!</subtitle>
   <link href="http://argh.gianarb.it"></link>
+  <entry>
+    <title>Back From DockerCon17 US: The Best of Austin</title>
+    <updated>2017-05-02T02:56:42Z</updated>
+    <id>tag:www.bretfisher.com,2017-05-02:/back-from-dockercon17-the-best-of-austin/</id>
+    <content type="html"></content>
+    <link href="http://www.bretfisher.com/back-from-dockercon17-the-best-of-austin/"></link>
+  </entry>
+  <entry>
+    <title>Docker Federal Summit 2017 Resources</title>
+    <updated>2017-05-01T18:12:43Z</updated>
+    <id>tag:www.bretfisher.com,2017-05-01:/dockerfedsummit17/</id>
+    <content type="html"></content>
+    <link href="http://www.bretfisher.com/dockerfedsummit17/"></link>
+  </entry>
+  <entry>
+    <title>Everything {code} at Dell EMC World 2017</title>
+    <updated>2017-05-01T15:48:51Z</updated>
+    <id>tag:blog.codedellemc.com,2017-05-01:/2017/05/01/everything-code-dell-emc-world-2017/</id>
+    <content type="html"></content>
+    <link href="https://blog.codedellemc.com/2017/05/01/everything-code-dell-emc-world-2017/"></link>
+  </entry>
+  <entry>
+    <title>Test-Drive LinuxKit OS on Oracle VirtualBox running on macOS Sierra</title>
+    <updated>2017-05-01T09:20:36Z</updated>
+    <id>tag:collabnix.com,2017-05-01:/archives/3040</id>
+    <content type="html"></content>
+    <link href="http://collabnix.com/archives/3040"></link>
+  </entry>
+  <entry>
+    <title>First step with Docker EE</title>
+    <updated>2017-04-30T06:40:27Z</updated>
+    <id>tag:medium.com,2017-04-30:/lucjuggery/first-step-with-docker-ee-bcfc930d2f04</id>
+    <content type="html"></content>
+    <link href="https://medium.com/lucjuggery/first-step-with-docker-ee-bcfc930d2f04?source=rss----993cf4324c50---4"></link>
+  </entry>
+  <entry>
+    <title>QND#1 Docker 101</title>
+    <updated>2017-04-29T16:17:06Z</updated>
+    <id>tag:www.youtube.com,2017-04-29:/watch</id>
+    <content type="html"></content>
+    <link href="https://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
+  </entry>
+  <entry>
+    <title>Sweet Shell: With True Color, Oh-My-Zsh, SpaceVim, Gruvbox, and Demo Mode</title>
+    <updated>2017-04-29T12:56:47Z</updated>
+    <id>tag:www.bretfisher.com,2017-04-29:/shell/</id>
+    <content type="html"></content>
+    <link href="http://www.bretfisher.com/shell/"></link>
+  </entry>
+  <entry>
+    <title>kubectx: a tool to switch between Kubernetes contexts</title>
+    <updated>2017-04-28T12:30:00-07:00</updated>
+    <id>tag:ahmet.im,2017-04-28:/blog/kubectx/</id>
+    <content type="html"></content>
+    <link href="https://ahmet.im/blog/kubectx/"></link>
+  </entry>
+  <entry>
+    <title>Docker Retrospective: April 2017</title>
+    <updated>2017-04-28T09:51:45Z</updated>
+    <id>tag:blog.sixeyed.com,2017-04-28:/docker-retrospective-april-2017/</id>
+    <content type="html"></content>
+    <link href="http://blog.sixeyed.com/docker-retrospective-april-2017/"></link>
+  </entry>
   <entry>
     <title>Serverless functions and Alexa with Docker and a Raspberry Pi cluster</title>
     <updated>2017-04-27T02:39:01Z</updated>
@@ -66,6 +129,13 @@
     <id>tag:www.youtube.com,2017-04-22:/watch</id>
     <content type="html"></content>
     <link href="https://www.youtube.com/watch?v=sp1B7l5mEzc"></link>
+  </entry>
+  <entry>
+    <title>Orbiter an OSS Docker Swarm Autoscaler</title>
+    <updated>2017-04-22T08:08:27Z</updated>
+    <id>tag:gianarb.it,2017-04-22:/blog/orbiter-docker-swarm-autoscaler</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/orbiter-docker-swarm-autoscaler"></link>
   </entry>
   <entry>
     <title>Now a PWD driver for Docker Machine</title>
@@ -145,7 +215,7 @@
     <link href="https://nickjanetakis.com/blog/debugging-lets-encrypt-errors-sometimes-its-not-your-fault"></link>
   </entry>
   <entry>
-    <title>My DockerCon17 Resources</title>
+    <title>My DockerCon17 Speaker Resources</title>
     <updated>2017-04-14T22:43:44Z</updated>
     <id>tag:www.bretfisher.com,2017-04-14:/dockercon17/</id>
     <content type="html"></content>
@@ -250,11 +320,11 @@
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/aBT99uj265E/new-site-sponsor-and-free-tool-from-vembu.html"></link>
   </entry>
   <entry>
-    <title>Going Cloud Native in Berlin: Kubernetes &amp; Tools, interop frameworks, not walls</title>
-    <updated>2017-04-06T16:24:39Z</updated>
-    <id>tag:blog.codedellemc.com,2017-04-06:/2017/04/06/going-cloud-native-berlin-kubernetes-tools-interop-frameworks-not-walls/</id>
+    <title>Coolest features of Google Container Builder</title>
+    <updated>2017-04-04T16:20:00-07:00</updated>
+    <id>tag:ahmet.im,2017-04-04:/blog/container-builder/</id>
     <content type="html"></content>
-    <link href="https://blog.codedellemc.com/2017/04/06/going-cloud-native-berlin-kubernetes-tools-interop-frameworks-not-walls/"></link>
+    <link href="https://ahmet.im/blog/container-builder/"></link>
   </entry>
   <entry>
     <title>QND #2 boot2docker, docker-machine, et les volumes</title>
@@ -262,13 +332,6 @@
     <id>tag:www.youtube.com,2017-04-03:/watch</id>
     <content type="html"></content>
     <link href="https://www.youtube.com/watch?v=KMttioiBQc0"></link>
-  </entry>
-  <entry>
-    <title>QND#1 Docker 101</title>
-    <updated>2017-04-03T16:24:54Z</updated>
-    <id>tag:www.youtube.com,2017-04-03:/watch</id>
-    <content type="html"></content>
-    <link href="https://www.youtube.com/watch?v=zO4-1D9LdDw"></link>
   </entry>
   <entry>
     <title>Test Drive 5 Cool Docker Application Stacks on play-with-docker (PWD) platform</title>
@@ -544,13 +607,6 @@
     <link href="https://medium.com/lucjuggery/deploy-the-voting-apps-stack-on-a-docker-swarm-4390fd5eee4?source=rss----993cf4324c50---4"></link>
   </entry>
   <entry>
-    <title>10 ways for a speaker to upset conference organizers</title>
-    <updated>2017-02-06T12:46:46+01:00</updated>
-    <id>tag:blog.loof.fr,2017-02-06:/2017/02/10-ways-for-speaker-to-upset-conference.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2017/02/10-ways-for-speaker-to-upset-conference.html"></link>
-  </entry>
-  <entry>
     <title>DockerCon 2017!</title>
     <updated>2017-02-03T17:21:20Z</updated>
     <id>tag:integratedcode.us,2017-02-03:/2017/02/03/dockercon-2017/</id>
@@ -577,13 +633,6 @@
     <id>tag:nickjanetakis.com,2017-01-30:/blog/how-to-pick-a-good-monitor-for-software-development</id>
     <content type="html"></content>
     <link href="https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development"></link>
-  </entry>
-  <entry>
-    <title>Docker For Mac 1.13.0 brings support for macOS Sierra, now runs ARM &amp; AARCH64 based Docker containers</title>
-    <updated>2017-01-29T09:53:34Z</updated>
-    <id>tag:collabnix.com,2017-01-29:/archives/2505</id>
-    <content type="html"></content>
-    <link href="http://collabnix.com/archives/2505"></link>
   </entry>
   <entry>
     <title>Docker 1.13 Experimental features</title>
@@ -707,9 +756,9 @@
   <entry>
     <title>Docker Logs API Format Explained</title>
     <updated>2017-01-04T12:20:00-08:00</updated>
-    <id>tag:ahmetalpbalkan.com,2017-01-04:/blog/docker-logs-api-binary-format-explained/</id>
+    <id>tag:ahmet.im,2017-01-04:/blog/docker-logs-api-binary-format-explained/</id>
     <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/docker-logs-api-binary-format-explained/"></link>
+    <link href="https://ahmet.im/blog/docker-logs-api-binary-format-explained/"></link>
   </entry>
   <entry>
     <title>Running Docker application in Autopilot</title>
@@ -789,13 +838,6 @@
     <link href="http://gianarb.it/blog/docker-registry-to-ship-your-containers"></link>
   </entry>
   <entry>
-    <title>Quoi d&#39;neuf Docker ? ... ben rien justement</title>
-    <updated>2016-12-13T19:04:59+01:00</updated>
-    <id>tag:blog.loof.fr,2016-12-13:/2016/12/quoi-dneuf-docker-ben-rien-justement.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/12/quoi-dneuf-docker-ben-rien-justement.html"></link>
-  </entry>
-  <entry>
     <title>Containers – Cleanup your house revisited</title>
     <updated>2016-12-13T03:10:02Z</updated>
     <id>tag:lostechies.com,2016-12-13:/gabrielschenker/2016/12/12/containers-cleanup-your-house-revisited/</id>
@@ -805,9 +847,9 @@
   <entry>
     <title>Azure Container Registry is here!</title>
     <updated>2016-12-08T10:25:00-08:00</updated>
-    <id>tag:ahmetalpbalkan.com,2016-12-08:/blog/azure-container-registry/</id>
+    <id>tag:ahmet.im,2016-12-08:/blog/azure-container-registry/</id>
     <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/azure-container-registry/"></link>
+    <link href="https://ahmet.im/blog/azure-container-registry/"></link>
   </entry>
   <entry>
     <title>Top 5 Benefits of Docker</title>
@@ -894,13 +936,6 @@
     <link href="https://scottydoesntknow.io/container-secure-right/"></link>
   </entry>
   <entry>
-    <title>Discovering Docker Datacenter</title>
-    <updated>2016-11-14T18:29:18Z</updated>
-    <id>tag:medium.com,2016-11-14:/lucjuggery/discovering-docker-datacenter-cf0daccddc41</id>
-    <content type="html"></content>
-    <link href="https://medium.com/lucjuggery/discovering-docker-datacenter-cf0daccddc41?source=rss----993cf4324c50---4"></link>
-  </entry>
-  <entry>
     <title>Using systemd-nspawn for some containerization needs</title>
     <updated>2016-11-14T10:00:22+02:00</updated>
     <id>tag:fntlnz.wtf,2016-11-14:/post/systemd-nspawn/</id>
@@ -948,13 +983,6 @@
     <id>tag:www.brianchristner.io,2016-11-01:/how-to-track-docker-hub-metrics/</id>
     <content type="html"></content>
     <link href="https://www.brianchristner.io/how-to-track-docker-hub-metrics/"></link>
-  </entry>
-  <entry>
-    <title>J&#39;ay pris le temps d&#39;e-lire</title>
-    <updated>2016-10-30T17:07:21+01:00</updated>
-    <id>tag:blog.loof.fr,2016-10-30:/2016/10/jay-pris-le-temps-de-lire.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/10/jay-pris-le-temps-de-lire.html"></link>
   </entry>
   <entry>
     <title>Forwarding Logs From All Containers Running Anywhere Inside A Docker Swarm Cluster</title>
@@ -1076,13 +1104,6 @@
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/NyrQvG7FT6E/highly-available-distributed-containers-video-and-presentation-at-containercon-2016.html"></link>
   </entry>
   <entry>
-    <title>Docker-Slaves 1.0 released</title>
-    <updated>2016-09-15T07:22:57+02:00</updated>
-    <id>tag:blog.loof.fr,2016-09-15:/2016/09/docker-slaves-10-released.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/09/docker-slaves-10-released.html"></link>
-  </entry>
-  <entry>
     <title>Monitoring Docker Containers with Elasticsearch and cAdvisor</title>
     <updated>2016-09-13T15:15:52Z</updated>
     <id>tag:blog.codeship.com,2016-09-13:/monitoring-docker-containers-with-elasticsearch-and-cadvisor/</id>
@@ -1188,18 +1209,18 @@
     <link href="https://www.youtube.com/watch?v=KNmAD7qqsc8"></link>
   </entry>
   <entry>
-    <title>Be smart like your healthcheck</title>
-    <updated>2016-08-25T12:08:27Z</updated>
-    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
-    <content type="html"></content>
-    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
-  </entry>
-  <entry>
     <title>Docker The fundamentals</title>
     <updated>2016-08-25T12:08:27Z</updated>
     <id>tag:gianarb.it,2016-08-25:/blog/docker-the-fundamentals</id>
     <content type="html"></content>
     <link href="http://gianarb.it/blog/docker-the-fundamentals"></link>
+  </entry>
+  <entry>
+    <title>Be smart like your healthcheck</title>
+    <updated>2016-08-25T12:08:27Z</updated>
+    <id>tag:gianarb.it,2016-08-25:/blog/be-start-like-your-healthcheck</id>
+    <content type="html"></content>
+    <link href="http://gianarb.it/blog/be-start-like-your-healthcheck"></link>
   </entry>
   <entry>
     <title>Watch demo about Docker 1.12 made during Docker Meetup</title>
@@ -1316,9 +1337,9 @@
   <entry>
     <title>Docker.DotNet is Graduating!</title>
     <updated>2016-07-18T11:45:00-07:00</updated>
-    <id>tag:ahmetalpbalkan.com,2016-07-18:/blog/docker-dotnet-is-graduating/</id>
+    <id>tag:ahmet.im,2016-07-18:/blog/docker-dotnet-is-graduating/</id>
     <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/docker-dotnet-is-graduating/"></link>
+    <link href="https://ahmet.im/blog/docker-dotnet-is-graduating/"></link>
   </entry>
   <entry>
     <title>Updated: Docker Monitoring Prometheus + Grafana</title>
@@ -1426,13 +1447,6 @@
     <link href="https://blog.codeship.com/running-services-docker-1-12/"></link>
   </entry>
   <entry>
-    <title>DockerCon : quand docker-swarm laisse la place à docker swarm</title>
-    <updated>2016-06-20T19:30:10+02:00</updated>
-    <id>tag:blog.loof.fr,2016-06-20:/2016/06/dockercon-quand-docker-swarm-laisse-la.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/06/dockercon-quand-docker-swarm-laisse-la.html"></link>
-  </entry>
-  <entry>
     <title>Docker 1.12 orchestration built-in</title>
     <updated>2016-06-20T10:08:27Z</updated>
     <id>tag:gianarb.it,2016-06-20:/blog/docker-1-12-orchestration-built-in</id>
@@ -1470,9 +1484,9 @@
   <entry>
     <title>Introducing dexec</title>
     <updated>2016-06-10T14:00:00-07:00</updated>
-    <id>tag:ahmetalpbalkan.com,2016-06-10:/blog/dexec/</id>
+    <id>tag:ahmet.im,2016-06-10:/blog/dexec/</id>
     <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/dexec/"></link>
+    <link href="https://ahmet.im/blog/dexec/"></link>
   </entry>
   <entry>
     <title>Querying Elasticsearch with PowerBI</title>
@@ -1480,13 +1494,6 @@
     <id>tag:blog.sixeyed.com,2016-06-06:/querying-elasticsearch-with-powerbi/</id>
     <content type="html"></content>
     <link href="http://blog.sixeyed.com/querying-elasticsearch-with-powerbi/"></link>
-  </entry>
-  <entry>
-    <title>Docker Cleanup</title>
-    <updated>2016-06-01T13:14:25+02:00</updated>
-    <id>tag:blog.loof.fr,2016-06-01:/2016/05/docker-cleanup.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/05/docker-cleanup.html"></link>
   </entry>
   <entry>
     <title>How to build a Node.js Nano Server Docker base image</title>
@@ -1552,27 +1559,6 @@
     <link href="https://blog.codeship.com/extend-docker-via-plugin/"></link>
   </entry>
   <entry>
-    <title>I&#39;m now a Docker Captain</title>
-    <updated>2016-04-27T21:23:48+02:00</updated>
-    <id>tag:blog.loof.fr,2016-04-27:/2016/04/im-now-docker-captain.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/04/im-now-docker-captain.html"></link>
-  </entry>
-  <entry>
-    <title>cfp.io</title>
-    <updated>2016-04-25T10:15:39+02:00</updated>
-    <id>tag:blog.loof.fr,2016-04-25:/2016/04/cfpio.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/04/cfpio.html"></link>
-  </entry>
-  <entry>
-    <title>Docker Slaves Jenkins plugin has been released !</title>
-    <updated>2016-04-24T10:33:15+02:00</updated>
-    <id>tag:blog.loof.fr,2016-04-24:/2016/04/docker-slaves-jenkins-plugin-has-been.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/04/docker-slaves-jenkins-plugin-has-been.html"></link>
-  </entry>
-  <entry>
     <title>Distributed Data Analysis with Plain UNIX Commands and Docker Swarm</title>
     <updated>2016-04-06T15:15:17Z</updated>
     <id>tag:blog.codeship.com,2016-04-06:/distributed-data-analysis-with-docker-swarm/</id>
@@ -1596,9 +1582,9 @@
   <entry>
     <title>Foreword for “Docker in Action” Book</title>
     <updated>2016-03-25T12:35:00-07:00</updated>
-    <id>tag:ahmetalpbalkan.com,2016-03-25:/blog/foreword-docker-in-action-book/</id>
+    <id>tag:ahmet.im,2016-03-25:/blog/foreword-docker-in-action-book/</id>
     <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/foreword-docker-in-action-book/"></link>
+    <link href="https://ahmet.im/blog/foreword-docker-in-action-book/"></link>
   </entry>
   <entry>
     <title>Happy docker&#39;s birthday and thanks</title>
@@ -1610,9 +1596,9 @@
   <entry>
     <title>Docker Machine for Microsoft Azure</title>
     <updated>2016-03-24T11:55:00-07:00</updated>
-    <id>tag:ahmetalpbalkan.com,2016-03-24:/blog/docker-machine-azure/</id>
+    <id>tag:ahmet.im,2016-03-24:/blog/docker-machine-azure/</id>
     <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/docker-machine-azure/"></link>
+    <link href="https://ahmet.im/blog/docker-machine-azure/"></link>
   </entry>
   <entry>
     <title>Advice from 25 Experts on Getting Started with Javascript</title>
@@ -1650,20 +1636,6 @@
     <link href="https://www.brianchristner.io/docker-tips-save-time-with-this-quick-typing-hack/"></link>
   </entry>
   <entry>
-    <title>Run GitLab on a USB Stick with Docker</title>
-    <updated>2016-03-04T22:05:20Z</updated>
-    <id>tag:blog.sixeyed.com,2016-03-04:/run-gitlab-on-a-usb-stick-with-docker/</id>
-    <content type="html"></content>
-    <link href="http://blog.sixeyed.com/run-gitlab-on-a-usb-stick-with-docker/"></link>
-  </entry>
-  <entry>
-    <title>Google Summer of Code</title>
-    <updated>2016-03-04T12:22:15+01:00</updated>
-    <id>tag:blog.loof.fr,2016-03-04:/2016/03/google-summer-of-code.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/03/google-summer-of-code.html"></link>
-  </entry>
-  <entry>
     <title>How to Create a Docker Business Case</title>
     <updated>2016-03-01T21:48:50Z</updated>
     <id>tag:www.brianchristner.io,2016-03-01:/how-to-create-a-docker-business-case/</id>
@@ -1685,25 +1657,11 @@
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/hPKV7_O1jFI/moving-from-ruby-on-rails-to-node-js-express.html"></link>
   </entry>
   <entry>
-    <title>Introduction to Azure Docker Extension</title>
-    <updated>2016-02-04T11:15:00-08:00</updated>
-    <id>tag:ahmetalpbalkan.com,2016-02-04:/blog/azure-docker-extension/</id>
-    <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/azure-docker-extension/"></link>
-  </entry>
-  <entry>
     <title>An Intro to Concurrency Patterns in Go</title>
     <updated>2016-02-04T16:15:27Z</updated>
     <id>tag:blog.codeship.com,2016-02-04:/an-intro-to-concurrency-patterns-in-go/</id>
     <content type="html"></content>
     <link href="https://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/"></link>
-  </entry>
-  <entry>
-    <title>Quoi d&#39;neuf sur Quoi d&#39;neuf Docker ?</title>
-    <updated>2016-01-26T18:17:42+01:00</updated>
-    <id>tag:blog.loof.fr,2016-01-26:/2016/01/quoi-dneuf-sur-quoi-dneuf-docker.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2016/01/quoi-dneuf-sur-quoi-dneuf-docker.html"></link>
   </entry>
   <entry>
     <title>A Webinar Introduction to Web Applications with Docker</title>
@@ -1720,13 +1678,6 @@
     <link href="https://manesh.me/2015/12/17/docker-swarm-cluster-using-azure-container-services/"></link>
   </entry>
   <entry>
-    <title>Un chaîne Youtube consacrée à Docker</title>
-    <updated>2015-12-14T11:54:38+01:00</updated>
-    <id>tag:blog.loof.fr,2015-12-14:/2015/12/un-chaine-youtube-consacree-docker.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/12/un-chaine-youtube-consacree-docker.html"></link>
-  </entry>
-  <entry>
     <title>Docker and wordpress for a better world</title>
     <updated>2015-12-14T10:08:27Z</updated>
     <id>tag:gianarb.it,2015-12-14:/blog/wordpress-docker</id>
@@ -1741,13 +1692,6 @@
     <link href="http://gianarb.it/blog/swarm-scales-your-containter-for-free"></link>
   </entry>
   <entry>
-    <title>Effortless Docker Swarm Clusters on Azure</title>
-    <updated>2015-12-10T14:28:00-08:00</updated>
-    <id>tag:ahmetalpbalkan.com,2015-12-10:/blog/docker-swarm-azure/</id>
-    <content type="html"></content>
-    <link href="https://ahmetalpbalkan.com/blog/docker-swarm-azure/"></link>
-  </entry>
-  <entry>
     <title>Use Travis CI to Update Your Website using FTP and Git</title>
     <updated>2015-12-09T19:52:09-05:00</updated>
     <id>tag:feedproxy.google.com,2015-12-09:/~r/KendrickColeman/~3/EUQg2uMerIM/use-travis-ci-to-update-your-website-using-ftp-and-git.html</id>
@@ -1760,20 +1704,6 @@
     <id>tag:blog.codeship.com,2015-12-08:/using-docker-for-rails-development/</id>
     <content type="html"></content>
     <link href="https://blog.codeship.com/using-docker-for-rails-development/"></link>
-  </entry>
-  <entry>
-    <title>Docker Garbage Collector</title>
-    <updated>2015-12-04T15:19:41+01:00</updated>
-    <id>tag:blog.loof.fr,2015-12-04:/2015/12/docker-garbage-collector.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/12/docker-garbage-collector.html"></link>
-  </entry>
-  <entry>
-    <title>a Dockerfile-based Continuous Delivery Pipeline</title>
-    <updated>2015-11-27T12:29:35+01:00</updated>
-    <id>tag:blog.loof.fr,2015-11-27:/2015/11/a-dockerfile-based-continuous-delivery.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/11/a-dockerfile-based-continuous-delivery.html"></link>
   </entry>
   <entry>
     <title>Setup Jenkins Job to start on Git Commit</title>
@@ -1804,13 +1734,6 @@
     <link href="https://manesh.me/2015/11/20/setup-jenkins-slave-on-microsoft-azure-for-cicd-with-dtr/"></link>
   </entry>
   <entry>
-    <title>DockerCon&#39;15 Lego Moby Dock</title>
-    <updated>2015-11-20T09:36:00+01:00</updated>
-    <id>tag:blog.loof.fr,2015-11-20:/2015/11/dockercon15-lego-moby-dock.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/11/dockercon15-lego-moby-dock.html"></link>
-  </entry>
-  <entry>
     <title>Setup Jenkins Master on Microsoft Azure for CICD with DTR</title>
     <updated>2015-11-19T06:20:43Z</updated>
     <id>tag:manesh.me,2015-11-19:/2015/11/18/setup-jenkins-master-on-microsoft-azure-for-cicd-with-dtr/</id>
@@ -1832,39 +1755,11 @@
     <link href="https://manesh.me/2015/11/15/continuous-integration-and-delivery-with-docker-trusted-registry-on-microsoft-azure/"></link>
   </entry>
   <entry>
-    <title>Learning Go (from Java)</title>
-    <updated>2015-11-06T15:52:52+01:00</updated>
-    <id>tag:blog.loof.fr,2015-11-06:/2015/11/learning-go-from-java.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/11/learning-go-from-java.html"></link>
-  </entry>
-  <entry>
-    <title>First experiment with Tutum</title>
-    <updated>2015-10-21T16:09:13+02:00</updated>
-    <id>tag:blog.loof.fr,2015-10-21:/2015/10/first-experiment-with-tutum.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/10/first-experiment-with-tutum.html"></link>
-  </entry>
-  <entry>
-    <title>How to run 2500 webservers on a Raspberry Pi</title>
-    <updated>2015-10-21T11:44:51+02:00</updated>
-    <id>tag:blog.loof.fr,2015-10-21:/2015/10/how-to-run-2500-webservers-on-raspberry.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/10/how-to-run-2500-webservers-on-raspberry.html"></link>
-  </entry>
-  <entry>
     <title>NAKIVO Enables Converting Western Digital NAS into a VM Backup Appliance</title>
     <updated>2015-10-13T11:40:11-04:00</updated>
     <id>tag:feedproxy.google.com,2015-10-13:/~r/KendrickColeman/~3/jk2gQIg7oyA/nakivo-enables-converting-western-digital-nas-into-a-vm-backup-appliance.html</id>
     <content type="html"></content>
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/jk2gQIg7oyA/nakivo-enables-converting-western-digital-nas-into-a-vm-backup-appliance.html"></link>
-  </entry>
-  <entry>
-    <title>RPiDocker Challenge</title>
-    <updated>2015-10-08T11:13:56+02:00</updated>
-    <id>tag:blog.loof.fr,2015-10-08:/2015/10/rpidocker-challenge.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/10/rpidocker-challenge.html"></link>
   </entry>
   <entry>
     <title>Docker Machine and Complete Customization</title>
@@ -1881,41 +1776,6 @@
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/ig-9vJWEBpY/at-t-uverse-doesn-t-work-with-docker-hub-and-they-want-me-to-pay-to-fix-it.html"></link>
   </entry>
   <entry>
-    <title></title>
-    <updated>2015-09-22T18:07:35+02:00</updated>
-    <id>tag:blog.loof.fr,2015-09-22:/2015/09/as-announced-yesterday-we-developped.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/09/as-announced-yesterday-we-developped.html"></link>
-  </entry>
-  <entry>
-    <title>Contributing to Docker</title>
-    <updated>2015-09-22T15:07:32+02:00</updated>
-    <id>tag:blog.loof.fr,2015-09-22:/2015/09/contributing-to-docker.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/09/contributing-to-docker.html"></link>
-  </entry>
-  <entry>
-    <title>Introducing docker-slaves jenkins plugin</title>
-    <updated>2015-09-21T18:57:36+02:00</updated>
-    <id>tag:blog.loof.fr,2015-09-21:/2015/09/introducing-docker-slaves-jenkins-plugin.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/09/introducing-docker-slaves-jenkins-plugin.html"></link>
-  </entry>
-  <entry>
-    <title>Giving Windows Docker containers a try</title>
-    <updated>2015-09-14T18:50:19+02:00</updated>
-    <id>tag:blog.loof.fr,2015-09-14:/2015/09/giving-windows-docker-containers-try.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/09/giving-windows-docker-containers-try.html"></link>
-  </entry>
-  <entry>
-    <title>Moving my demo to Docker</title>
-    <updated>2015-09-14T08:27:28+02:00</updated>
-    <id>tag:blog.loof.fr,2015-09-14:/2015/09/moving-my-demo-to-docker.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/09/moving-my-demo-to-docker.html"></link>
-  </entry>
-  <entry>
     <title>CONTAINERS ARE THE FUTURE, IF … (my response)</title>
     <updated>2015-08-26T13:57:37-04:00</updated>
     <id>tag:feedproxy.google.com,2015-08-26:/~r/KendrickColeman/~3/XODwxPTcqrQ/containers-are-the-future-if-my-response.html</id>
@@ -1928,13 +1788,6 @@
     <id>tag:feedproxy.google.com,2015-08-21:/~r/KendrickColeman/~3/kDbdyGqKAMk/containercon-2015-slides.html</id>
     <content type="html"></content>
     <link href="http://feedproxy.google.com/~r/KendrickColeman/~3/kDbdyGqKAMk/containercon-2015-slides.html"></link>
-  </entry>
-  <entry>
-    <title>Docker Zombies</title>
-    <updated>2015-08-03T09:58:24+02:00</updated>
-    <id>tag:blog.loof.fr,2015-08-03:/2015/08/docker-zombies.html</id>
-    <content type="html"></content>
-    <link href="http://blog.loof.fr/2015/08/docker-zombies.html"></link>
   </entry>
   <entry>
     <title>Moving my websites to Docker</title>

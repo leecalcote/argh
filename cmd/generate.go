@@ -32,12 +32,10 @@ func (a ByPublishdate) Less(i, j int) bool {
 }
 
 func (c *BuildCmd) Run(args []string) int {
-
 	now := time.Now()
-
 	feed := &feeds.Feed{
-		Title:       "Docker Captain's feed",
-		Description: "Updates from the docker captains!",
+		Title:       "Docker Captains' feed",
+		Description: "Updates from the Docker Captains",
 		Link:        &feeds.Link{Href: "http://argh.gianarb.it"},
 		Created:     now,
 	}
@@ -52,7 +50,7 @@ func (c *BuildCmd) Run(args []string) int {
 		}
 		captainFeed, err := rss.Fetch(scanner.Text())
 		if err != nil {
-			logrus.WithField("error", err).Warnf("%s impossible to read. I jump it please verify", scanner.Text())
+			logrus.WithField("error", err).Warnf("Skipping %s due to parsing error. Please check for encoding errors with the W3C validator.", scanner.Text())
 			continue
 		}
 
